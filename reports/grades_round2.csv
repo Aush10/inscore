@@ -1,0 +1,87 @@
+card_id,question,round1_grade,round2_grade,note
+CARD-0010,Deductible,partial,correct,
+CARD-0022,Tort,partial,correct,
+CARD-0044,Concurrent Causation,partial,correct,
+CARD-0055,Insured,partial,correct,
+CARD-0100,Third Party Provisions,partial,correct,
+CARD-0101,Extensions,partial,correct,
+CARD-0110,Binder,partial,unsupported (key detail not verifiable),"The deck's '30 days, rarely more than 60' binder duration: no Texas source found (Ins. Code §549.055 only requires a lender-accepted binder to be replaced within 30 days)."
+CARD-0127,Elements of Insurable Risks,partial,correct,
+CARD-0128,What element of insurable risk is uninsurable?,wrong,correct,
+CARD-0133,What types of insurances companies are non-admitted and have no rate regulations?,wrong,key discrepancy (answer follows current authoritative source),"The key calls county mutuals, farm mutuals, reciprocals, Lloyd's plans, RRGs and purchasing groups 'non-admitted/no rate regulation.' County mutuals, Lloyd's and reciprocals are licensed Texas insurers, and since 2003 Ins. Code §2251.003 applies rate regulation to Lloyd's plans, reciprocal exchanges and county mutuals for most P&C lines."
+CARD-0140,Rates,partial,correct,
+CARD-0153,Actual Damages,partial,unsupported (key detail not verifiable),The deck's insurance-specific definition of 'actual damages' (reduction in value of property by an insured peril; amount claimed/paid): no authoritative source found; only the general legal meaning (compensatory/economic damages) is sourced.
+CARD-0157,Comparative Negligence,partial,key discrepancy (answer follows current authoritative source),"Key says recovery allowed only if negligence is 49% or less; Tex. Civ. Prac. & Rem. Code §33.001 bars recovery only if claimant is MORE than 50% responsible (51% bar), so 50% still recovers."
+CARD-0160,Statue of Limitations,partial,correct,
+CARD-0161,Texas Motor Vehicle Safety Responsibility Act (1982),partial,key discrepancy (answer follows current authoritative source),"The key's $85,000 cash deposit / $85,000 CSL is outdated: the minimum limits are 30/60/25 (Transp. Code §601.072) and the cash/securities deposit is $55,000 (§601.122)."
+CARD-0163,Texas Automobile Insurance Plan Association,partial,correct,
+CARD-0171,What does “owned” mean?,partial,correct,
+CARD-0179,Medical Payments Coverage,partial,correct,
+CARD-0193,What coverages are only available as an endorsement to BAP?,partial,correct,
+CARD-0194,Where would you find the coverage extension Transportation Expenses?,partial,correct,
+CARD-0195,What is he difference between Medical Payments and PIP?,partial,correct,
+CARD-0203,Texas Dwelling policy,partial,unsupported (key detail not verifiable),"The key says the dwelling policy can't be used 'within 500 feet of business operations'; a Texas prelicensing manual states the rule as incidental business use not exceeding 500 square feet or 50% of floor space, so the key appears to garble it."
+CARD-0208,What are the coverages and valuation for Basic DP1 under Texas Dwelling Policy?,partial,key discrepancy (answer follows current authoritative source),"The key's DP-1 structure (A dwelling, B other structures, C contents, D FRV 20% of A) doesn't match the current TDI TDP-1 form: Coverage A Dwelling, Coverage B Personal Property, other structures as a 10% extension, ACV settlement, and FRV only 'if applicable.'"
+CARD-0209,What are the coverages and valuation Broad DP2 of Texas Dwelling Policy?,partial,key discrepancy (answer follows current authoritative source),The key says DP-2 settles buildings at replacement value; the current TDI TDP-2 form settles at actual cash value (replacement cost appears on TDP-3).
+CARD-0214,What is covered by Coverage C - Contents of Texas Dwelling Policies?,partial,correct,
+CARD-0215,What does Coverage D - Fair Rental Value of the Texas Dwelling Policy cover?,partial,correct,
+CARD-0216,What does Coverage E - Additional Living Expenses cover in the Texas Dwelling Policy?,partial,correct,
+CARD-0217,What is the Texas Homeowner Policy?,partial,unsupported (key detail not verifiable),"Texas homeowners eligibility limits in the key (no more than 50% business use, not within 500 feet of a business, no mobile homes): not found in an accessible TDI/manual source; only the 'own and occupy / reside within 60 days' rule is sourced."
+CARD-0219,What is the standard deductible for tenant and condo policies?,wrong,correct,
+CARD-0223,What are the coverages and valuation for HO-8 under Texas Homeowner Policy?,partial,correct,
+CARD-0224,What are the coverages and valuation for HO-2 under Texas Homeowner Policy?,partial,key discrepancy (answer follows current authoritative source),Key says HO-2 dwelling/other structures settle at ACV; the ISO HO 00 02 form settles buildings at replacement cost if insured to 80% of replacement cost.
+CARD-0225,What are the coverages and valuation for HO-3 under Texas Homeowner Policy?,partial,correct,
+CARD-0226,What are the coverages and valuation for HO-5 under Texas Homeowner policy?,partial,correct,
+CARD-0232,What are the coverages and valuation for HO-4 for Texas Homeowner Policy?,partial,correct,
+CARD-0233,What are the coverages and valuation for HO-6 for Texas Homeowners Policy?,partial,correct,
+CARD-0236,What are some common policy conditions for Commercial Package Policy?,partial,correct,
+CARD-0241,What is Coverage C of Commercial General Liability (CGL)?,partial,correct,
+CARD-0242,What are supplemental payments for Commercial General Liability (CGL)?,partial,key discrepancy (answer follows current authoritative source),Key says CGL supplementary payments include loss of earnings up to $100/day; the current ISO CG 00 01 form pays up to $250/day (key reflects an older edition).
+CARD-0248,Premium audit,partial,key discrepancy (answer follows current authoritative source),The key's 'premium audit' definition (investigate premises conditions) describes the inspections condition; the audit condition is examination of the insured's books and records to compute final premium.
+CARD-0264,What are the additional coverages under TBOP?,partial,correct,
+CARD-0265,Extensions on Section 1 (property) for TBOP,partial,unsupported (key detail not verifiable),"TBOP extension amounts in the key (outdoor property incl. signs $2,500; trees $500 each): not found; only the extensions themselves are sourced (ISO BP 00 03)."
+CARD-0270,What is Coverage C under TBOP?,partial,unsupported (key detail not verifiable),
+CARD-0271,What is Section D under TBOP?,partial,unsupported (key detail not verifiable),"TBOP medical expense limit of $5,000 per person: only an analogous CGL example ($5,000 medical expense limit, IRMI) was found; not verified for TBOP."
+CARD-0275,What is a legal beneficiary under Texas Workers Compensation?,wrong,key discrepancy (answer follows current authoritative source),"Key says legal beneficiaries are 'spouses and children only'; Tex. Labor Code §401.011(28) and §408.182-.183 make dependent grandchildren, parents, siblings, and others eligible for death benefits too."
+CARD-0281,Who is eligible to purchase Texas Workers Compensation?,partial,correct,
+CARD-0284,What is the waiting period for Texas Worker’s Compensation?,partial,key discrepancy (answer follows current authoritative source),Key says benefits become retroactive to day one if disability lasts 4 weeks; Tex. Labor Code §408.082 makes them retroactive if disability lasts 2 weeks or longer.
+CARD-0287,What is Average Weekly Wage under Texas Workers Compensation?,wrong,key discrepancy (answer follows current authoritative source),Key says AWW averages the last 12 weeks; Tex. Labor Code §408.041 uses the 13 consecutive weeks before the injury.
+CARD-0289,What are special features of umbrella policy?,partial,correct,
+CARD-0302,What are the required amount of CE credit and in what timeframe?,wrong,key discrepancy (answer follows current authoritative source),"Key says 30 CE hours every 2 years; TDI rules (28 TAC §19.1003) require adjusters to complete 24 hours, including 2 hours of ethics, each 2-year license period."
+CARD-0308,What can only a PCA do?,wrong,unsupported (key detail not verifiable),'Only a PCA can sign a policy': only a general definition of countersignature laws (IRMI) was found; no current Texas source confirms it.
+CARD-0309,3 things the Property and Casualty Guaranty Fund wii pay,partial,correct,
+CARD-0311,"Deceptive Trade Practices Act, what is it unlawful for a consumer to do?",wrong,key discrepancy (answer follows current authoritative source),"Key ('drop charges filed against agent unless they have $5,000,000 in assets') garbles the DTPA; Bus. & Com. Code §17.45(4) excludes business consumers with assets of $25 million or more from 'consumer' status."
+CARD-0332,What items are not covered for damage by wind or hail on a HO policy?,partial,correct,
+CARD-0334,Under Homeowners Policies what is not covered off premises?,partial,correct,
+CARD-0337,"What is the standard deductible on HO2, HO3, HO5?",wrong,correct,
+CARD-0339,What is the difference between HO2 valuation and HO3/HO5?,wrong,key discrepancy (answer follows current authoritative source),"Same as 0224: ISO HO-2 settles the dwelling at replacement cost (80% rule), not ACV."
+CARD-0348,Collision with an animal is covered by what coverage?,partial,correct,
+CARD-0349,Damage to a rental car is covered by what coverage?,wrong,correct,
+CARD-0358,What is the coverage and timeframe for medical payments for Auto?,partial,correct,
+CARD-0359,What is the timeframe in order to have Boiler and Machinery paid out in replacement value?,wrong,key discrepancy (answer follows current authoritative source),The key says 18 months; the current ISO EB 00 20 equipment breakdown form allows 24 months to repair/replace before limiting payment to ACV.
+CARD-0361,What is the basic deductible for Commercial Property?,wrong,key discrepancy (answer follows current authoritative source),Same as 0592: the $250 commercial property deductible is outdated; ISO's current standard is $500.
+CARD-0362,What is the basic deductible for TBOP?,wrong,correct,
+CARD-0370,What are the coverage extensions for Commercial Property policies?,partial,key discrepancy (answer follows current authoritative source),"The key's amounts (30 days, $250 per tree, glass $100/$500) come from older forms; the current CP 00 10 uses 180 days for newly acquired property and higher outdoor-property sublimits."
+CARD-0373,Who are beneficiaries of Texas Workers Compensation?,partial,correct,
+CARD-0390,When must a licensed agent report a change of address?,wrong,key discrepancy (answer follows current authoritative source),The key says 'immediately'; TDI form FIN533 requires agents/adjusters to report a name or address change within 30 days.
+CARD-0411,An HO-2 form sets limits on,wrong,correct,
+CARD-0415,"In the Boiler and Machinery policy, the items insured under the policy are defined in the",wrong,correct,
+CARD-0417,"A person retained by the insured to have care, custody and control of property inside the premises and who has no other duties is",partial,correct,
+CARD-0420,Workers Compensation includes basic benefits,partial,correct,
+CARD-0429,What are two optional coverages obtained by endorsement to a BAP?,partial,correct,
+CARD-0431,Damage to an rental auto caused by the insured is covered under which section of PAP?,wrong,correct,
+CARD-0444,The purpose of the Texas Property and Casualty Guaranty Association is to,partial,correct,
+CARD-0452,What is Part 1 of Texas Workers Compensation,partial,key discrepancy (answer follows current authoritative source),"Key reduces Part One to 'the medical coverage'; under the standard WC & EL policy (WC 00 00 00), Part One pays all benefits the state WC law requires: medical, income and death benefits."
+CARD-0454,Part 2 of Texas Workers Compensation,partial,correct,
+CARD-0457,Texas Workers Compensation Fund,partial,correct,
+CARD-0459,What are the coverages on TDP?,partial,key discrepancy (answer follows current authoritative source),The key's TDP structure/valuations (DP-2 replacement cost; FRV 20% on DP-1) don't match the current TDI TDP forms (Coverage B = personal property; TDP-1/TDP-2 ACV; TDP-3 replacement cost and loss of use 20% of A).
+CARD-0460,What does Coverage A on TDP cover?,partial,key discrepancy (answer follows current authoritative source),The key says DP-2 is replacement cost; the current TDI TDP-2 form settles at ACV.
+CARD-0461,What does Coverage B of TDP cover?,partial,key discrepancy (answer follows current authoritative source),The key says DP-2 is replacement cost; the current TDI TDP-2 form settles at ACV (the 10%-of-A limit matches).
+CARD-0462,What does Coverage C of TDP cover?,partial,correct,
+CARD-0463,What does Coverage D of TDP cover?,partial,correct,
+CARD-0464,What does Coverage E cover on TDP?,partial,correct,
+CARD-0466,What are the coverages for Homeowners Insurance,partial,correct,
+CARD-0586,When must motor vehicle owners show proof of financial responsibility?,partial,correct,
+CARD-0590,Commercial Package Policy common policy declarations,partial,unsupported (key detail not verifiable),"The key's description of CPP common policy declarations (covered property, primary/optional coverages, limits, perils, mortgagee, deductible): only a generic 'declarations' reference was found."
+CARD-0592,What is the deductible for Commercial Property Policy?,wrong,key discrepancy (answer follows current authoritative source),The $250 commercial property deductible in the key is outdated; current ISO commercial property/businessowners rating uses a $500 standard deductible.
+CARD-0597,Self-Insured Retention,partial,correct,

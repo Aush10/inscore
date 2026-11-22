@@ -1,0 +1,1795 @@
+ALL INSURANCE ADJUSTER QUESTIONS
+Matching CARD IDs appear in All Insurance Adjuster Answers.txt. Source wording preserved.
+
+1. [CARD-0001] (card sharp qa.txt)
+Law of Large Numbers
+
+2. [CARD-0002] (card sharp qa.txt)
+Underwriting
+
+3. [CARD-0003] (card sharp qa.txt)
+Peril
+
+4. [CARD-0004] (card sharp qa.txt)
+Hazard
+
+5. [CARD-0005] (card sharp qa.txt)
+Direct Loss
+
+6. [CARD-0006] (card sharp qa.txt)
+Indirect loss
+
+7. [CARD-0007] (card sharp qa.txt)
+Principal of Indemnity
+
+8. [CARD-0008] (card sharp qa.txt)
+Property Insurance
+
+9. [CARD-0009] (card sharp qa.txt)
+Insurance Agreement
+
+10. [CARD-0010] (card sharp qa.txt)
+Deductible
+
+11. [CARD-0011] (card sharp qa.txt)
+Cancellation
+
+12. [CARD-0012] (card sharp qa.txt)
+Limit of Liability
+
+13. [CARD-0013] (card sharp qa.txt)
+Loss Settlement
+
+14. [CARD-0014] (card sharp qa.txt)
+What are the four methods to determine a loss settlment?
+
+15. [CARD-0015] (card sharp qa.txt)
+Actual Cash Value
+
+16. [CARD-0016] (card sharp qa.txt)
+Replacement Cost
+
+17. [CARD-0017] (card sharp qa.txt)
+Agreed Value
+
+18. [CARD-0018] (card sharp qa.txt)
+Market Value
+
+19. [CARD-0019] (card sharp qa.txt)
+Casualty Insurance
+
+20. [CARD-0020] (card sharp qa.txt)
+Liability
+
+21. [CARD-0021] (card sharp qa.txt)
+Negligence
+
+22. [CARD-0022] (card sharp qa.txt)
+Tort
+
+23. [CARD-0023] (card sharp qa.txt)
+-Punitive Damages
+
+24. [CARD-0024] (card sharp qa.txt)
+Comparative Negligence
+
+25. [CARD-0025] (card sharp qa.txt)
+Contributory Negligence
+
+26. [CARD-0026] (card sharp qa.txt)
+Assumption of Risk
+
+27. [CARD-0027] (card sharp qa.txt)
+Accident
+
+28. [CARD-0028] (card sharp qa.txt)
+Act of God
+
+29. [CARD-0029] (card sharp qa.txt)
+Additional Living Expenses
+
+30. [CARD-0030] (card sharp qa.txt)
+Adverse Selection
+
+31. [CARD-0031] (card sharp qa.txt)
+All Risk Insurance
+
+32. [CARD-0032] (card sharp qa.txt)
+Appraisal
+
+33. [CARD-0033] (card sharp qa.txt)
+Attractive Nuisance
+
+34. [CARD-0034] (card sharp qa.txt)
+Betterment
+
+35. [CARD-0035] (card sharp qa.txt)
+Breach of Contract
+
+36. [CARD-0036] (card sharp qa.txt)
+Bodily Injury
+
+37. [CARD-0037] (card sharp qa.txt)
+Claimant
+
+38. [CARD-0038] (card sharp qa.txt)
+Catastrophe
+
+39. [CARD-0039] (card sharp qa.txt)
+Coinsurance Policy
+
+40. [CARD-0040] (card sharp qa.txt)
+Collision
+
+41. [CARD-0041] (card sharp qa.txt)
+Commercial General Liability
+
+42. [CARD-0042] (card sharp qa.txt)
+Comprehensive Coverage
+
+43. [CARD-0043] (card sharp qa.txt)
+Concealment
+
+44. [CARD-0044] (card sharp qa.txt)
+Concurrent Causation
+
+45. [CARD-0045] (card sharp qa.txt)
+Conditions
+
+46. [CARD-0046] (card sharp qa.txt)
+Damages
+
+47. [CARD-0047] (card sharp qa.txt)
+Declarations page
+
+48. [CARD-0048] (card sharp qa.txt)
+Depreciation
+
+49. [CARD-0049] (card sharp qa.txt)
+Endorsement
+
+50. [CARD-0050] (card sharp qa.txt)
+Exclusion
+
+51. [CARD-0051] (card sharp qa.txt)
+Expiration Date
+
+52. [CARD-0052] (card sharp qa.txt)
+Exposure
+
+53. [CARD-0053] (card sharp qa.txt)
+Fraud
+
+54. [CARD-0054] (card sharp qa.txt)
+Incurred Expense
+
+55. [CARD-0055] (card sharp qa.txt)
+Insured
+
+56. [CARD-0056] (card sharp qa.txt)
+Insurer
+
+57. [CARD-0057] (card sharp qa.txt)
+Loss History
+
+58. [CARD-0058] (card sharp qa.txt)
+Loss Payee
+
+59. [CARD-0059] (card sharp qa.txt)
+Material Misrepresentation
+
+60. [CARD-0060] (card sharp qa.txt)
+Monoline Form
+
+61. [CARD-0061] (card sharp qa.txt)
+Non Renewal
+
+62. [CARD-0062] (card sharp qa.txt)
+Notice of Loss
+
+63. [CARD-0063] (card sharp qa.txt)
+Occurrence
+
+64. [CARD-0064] (card sharp qa.txt)
+Overhead and Profit
+
+65. [CARD-0065] (card sharp qa.txt)
+Personal Lines
+
+66. [CARD-0066] (card sharp qa.txt)
+Policy Period
+
+67. [CARD-0067] (card sharp qa.txt)
+Premiums
+
+68. [CARD-0068] (card sharp qa.txt)
+Reserves
+
+69. [CARD-0069] (card sharp qa.txt)
+Salvage
+
+70. [CARD-0070] (card sharp qa.txt)
+Subrogation
+
+71. [CARD-0071] (card sharp qa.txt)
+Total Loss
+
+72. [CARD-0072] (card sharp qa.txt)
+Umbrella Insurance
+
+73. [CARD-0073] (card sharp qa.txt)
+Umpire
+
+74. [CARD-0074] (card sharp qa.txt)
+Underinsurance
+
+75. [CARD-0075] (card sharp qa.txt)
+Uninsured Motorist Coverage
+
+76. [CARD-0076] (card sharp qa.txt)
+Vacancy
+
+77. [CARD-0077] (card sharp qa.txt)
+Vandalism
+
+78. [CARD-0078] (card sharp qa.txt)
+4 Elements of a Legal Contract required for a contract to be legal and enforceable
+
+79. [CARD-0079] (card sharp qa.txt)
+Offer and acceptance
+
+80. [CARD-0080] (card sharp qa.txt)
+Competent Parties
+
+81. [CARD-0081] (card sharp qa.txt)
+Legal Object
+
+82. [CARD-0082] (card sharp qa.txt)
+Consideration
+
+83. [CARD-0083] (card sharp qa.txt)
+Special Features of the Insurance Contract -Unilateral Contract
+
+84. [CARD-0084] (card sharp qa.txt)
+Special Features of the Insurance Contract -Adhesion Contract
+
+85. [CARD-0085] (card sharp qa.txt)
+Special Features of the Insurance Contract - Aleatory Contract
+
+86. [CARD-0086] (card sharp qa.txt)
+Special Features of the Insurance Contract - Valued Contract
+
+87. [CARD-0087] (card sharp qa.txt)
+Special Features of the Insurance Contract - Personal Contract
+
+88. [CARD-0088] (card sharp qa.txt)
+Special Features of the Insurance Contract - Conditional Contract
+
+89. [CARD-0089] (card sharp qa.txt)
+Four parts of an Insurance Contract
+
+90. [CARD-0090] (card sharp qa.txt)
+Declarations
+
+91. [CARD-0091] (card sharp qa.txt)
+Insuring agreement
+
+92. [CARD-0092] (card sharp qa.txt)
+Conditions
+
+93. [CARD-0093] (card sharp qa.txt)
+Exclusions
+
+94. [CARD-0094] (card sharp qa.txt)
+Endorsements
+
+95. [CARD-0095] (card sharp qa.txt)
+Policy Definitions
+
+96. [CARD-0096] (card sharp qa.txt)
+Insured
+
+97. [CARD-0097] (card sharp qa.txt)
+Policy Period
+
+98. [CARD-0098] (card sharp qa.txt)
+Policy Territory
+
+99. [CARD-0099] (card sharp qa.txt)
+Additional Coverage
+
+100. [CARD-0100] (card sharp qa.txt)
+Third Party Provisions
+
+101. [CARD-0101] (card sharp qa.txt)
+Extensions
+
+102. [CARD-0102] (card sharp qa.txt)
+Utmost Good Faith
+
+103. [CARD-0103] (card sharp qa.txt)
+Reasonable Expectations
+
+104. [CARD-0104] (card sharp qa.txt)
+Representations
+
+105. [CARD-0105] (card sharp qa.txt)
+Warranties
+
+106. [CARD-0106] (card sharp qa.txt)
+Concealment
+
+107. [CARD-0107] (card sharp qa.txt)
+Fraud
+
+108. [CARD-0108] (card sharp qa.txt)
+Waiver
+
+109. [CARD-0109] (card sharp qa.txt)
+Estoppel
+
+110. [CARD-0110] (card sharp qa.txt)
+Binder
+
+111. [CARD-0111] (card sharp qa.txt)
+Proposal
+
+112. [CARD-0112] (card sharp qa.txt)
+Insurance Company Structure
+
+113. [CARD-0113] (card sharp qa.txt)
+Actuarial Department
+
+114. [CARD-0114] (card sharp qa.txt)
+What is insurance?
+
+115. [CARD-0115] (card sharp qa.txt)
+Risk
+
+116. [CARD-0116] (card sharp qa.txt)
+The 2 types of risk
+
+117. [CARD-0117] (card sharp qa.txt)
+Pure risk
+
+118. [CARD-0118] (card sharp qa.txt)
+Speculative risk
+
+119. [CARD-0119] (card sharp qa.txt)
+Hazard
+
+120. [CARD-0120] (card sharp qa.txt)
+Exposure
+
+121. [CARD-0121] (card sharp qa.txt)
+Peril
+
+122. [CARD-0122] (card sharp qa.txt)
+Loss
+
+123. [CARD-0123] (card sharp qa.txt)
+What are the 2 types of losses?
+
+124. [CARD-0124] (card sharp qa.txt)
+Direct Loss
+
+125. [CARD-0125] (card sharp qa.txt)
+Indirect loss
+
+126. [CARD-0126] (card sharp qa.txt)
+Methods of Handling Risk
+
+127. [CARD-0127] (card sharp qa.txt)
+Elements of Insurable Risks
+
+128. [CARD-0128] (card sharp qa.txt)
+What element of insurable risk is uninsurable?
+
+129. [CARD-0129] (card sharp qa.txt)
+Law of Large Numbers
+
+130. [CARD-0130] (card sharp qa.txt)
+Reinsurance
+
+131. [CARD-0131] (card sharp qa.txt)
+Stock Companies
+
+132. [CARD-0132] (card sharp qa.txt)
+Mutual Companies
+
+133. [CARD-0133] (card sharp qa.txt)
+What types of insurances companies are non-admitted and have no rate regulations?
+
+134. [CARD-0134] (card sharp qa.txt)
+Self-Insurers
+
+135. [CARD-0135] (card sharp qa.txt)
+Private vs Government Insurers
+
+136. [CARD-0136] (card sharp qa.txt)
+Authorized Insurer
+
+137. [CARD-0137] (ch6-10.txt)
+Underwriting
+
+138. [CARD-0138] (ch6-10.txt)
+Insurable Interest
+
+139. [CARD-0139] (ch6-10.txt)
+Loss Ratio
+
+140. [CARD-0140] (ch6-10.txt)
+Rates
+
+141. [CARD-0141] (ch6-10.txt)
+Types of Rates
+
+142. [CARD-0142] (ch6-10.txt)
+Independent Fillings vs Deviate Fillings
+
+143. [CARD-0143] (ch6-10.txt)
+Hazard
+
+144. [CARD-0144] (ch6-10.txt)
+Types of Hazards
+
+145. [CARD-0145] (ch6-10.txt)
+Physical Hazard
+
+146. [CARD-0146] (ch6-10.txt)
+Moral Hazard
+
+147. [CARD-0147] (ch6-10.txt)
+Morale Hazard
+
+148. [CARD-0148] (ch6-10.txt)
+What is the property portion of an insurance policy?
+
+149. [CARD-0149] (ch6-10.txt)
+What does the casualty portion of insurance cover?
+
+150. [CARD-0150] (ch6-10.txt)
+Tort
+
+151. [CARD-0151] (ch6-10.txt)
+Negligence
+
+152. [CARD-0152] (ch6-10.txt)
+Four Elements of Negligence
+
+153. [CARD-0153] (ch6-10.txt)
+Actual Damages
+
+154. [CARD-0154] (ch6-10.txt)
+Proximate Cause
+
+155. [CARD-0155] (ch6-10.txt)
+Ensuing Loss
+
+156. [CARD-0156] (ch6-10.txt)
+Assumption of Risk
+
+157. [CARD-0157] (ch6-10.txt)
+Comparative Negligence
+
+158. [CARD-0158] (ch6-10.txt)
+Contributory Negligence
+
+159. [CARD-0159] (ch6-10.txt)
+Intervening Causes
+
+160. [CARD-0160] (ch6-10.txt)
+Statue of Limitations
+
+161. [CARD-0161] (ch6-10.txt)
+Texas Motor Vehicle Safety Responsibility Act (1982)
+
+162. [CARD-0162] (ch6-10.txt)
+SR22
+
+163. [CARD-0163] (ch6-10.txt)
+Texas Automobile Insurance Plan Association
+
+164. [CARD-0164] (ch6-10.txt)
+What does the declarations section of the Personal Auto Policy (PAP) do?
+
+165. [CARD-0165] (ch6-10.txt)
+What does the definitions section of the policy do?
+
+166. [CARD-0166] (ch6-10.txt)
+Who is the “named insured”?
+
+167. [CARD-0167] (ch6-10.txt)
+What is a “family member”?
+
+168. [CARD-0168] (ch6-10.txt)
+What does “occupying” mean?
+
+169. [CARD-0169] (ch6-10.txt)
+What does “trailer” mean?
+
+170. [CARD-0170] (ch6-10.txt)
+What does “your covered auto” mean?
+
+171. [CARD-0171] (ch6-10.txt)
+What does “owned” mean?
+
+172. [CARD-0172] (ch6-10.txt)
+What does “non-owned” mean?
+
+173. [CARD-0173] (ch6-10.txt)
+What is a “temporary substitute”?
+
+174. [CARD-0174] (ch6-10.txt)
+Personal Liability
+
+175. [CARD-0175] (ch6-10.txt)
+Who is covered while driving a covered auto on a personal policy?
+
+176. [CARD-0176] (ch6-10.txt)
+Exclusions to Liability Coverage on a personal auto policy
+
+177. [CARD-0177] (ch6-10.txt)
+Supplementary Payments
+
+178. [CARD-0178] (ch6-10.txt)
+Out of state coverage
+
+179. [CARD-0179] (ch6-10.txt)
+Medical Payments Coverage
+
+180. [CARD-0180] (ch6-10.txt)
+What does Personal Injury Protection (PIP) provide?
+
+181. [CARD-0181] (ch6-10.txt)
+PIP Option Form on personal auto policies
+
+182. [CARD-0182] (ch6-10.txt)
+What is insurance?
+
+183. [CARD-0183] (ch6-10.txt)
+What is the formula for Actual Cash Value (ACV)
+
+184. [CARD-0184] (ch6-10.txt)
+What is an Open/All Policy?
+
+185. [CARD-0185] (ch6-10.txt)
+What is named/specific policy?
+
+186. [CARD-0186] (ch6-10.txt)
+Where would one find the term insured?
+
+187. [CARD-0187] (ch6-10.txt)
+Where would you find the “who” and “what” that are insured?
+
+188. [CARD-0188] (ch6-10.txt)
+Where would you find the promise to pay?
+
+189. [CARD-0189] (ch6-10.txt)
+Where would you find the limitations to coverage?
+
+190. [CARD-0190] (ch6-10.txt)
+What is an insurable interest?
+
+191. [CARD-0191] (ch6-10.txt)
+What are the four parts of a contract?
+
+192. [CARD-0192] (ch6-10.txt)
+In the insurance contract, what does agreement represent?
+
+193. [CARD-0193] (ch6-10.txt)
+What coverages are only available as an endorsement to BAP?
+
+194. [CARD-0194] (ch6-10.txt)
+Where would you find the coverage extension Transportation Expenses?
+
+195. [CARD-0195] (ch6-10.txt)
+What is he difference between Medical Payments and PIP?
+
+196. [CARD-0196] (ch6-10.txt)
+What is the difference between newly acquired replacement vehicle and newly acquired additional vehicle?
+
+197. [CARD-0197] (ch6-10.txt)
+What is the only coverage that can be rejected with an option form?
+
+198. [CARD-0198] (ch6-10.txt)
+What is a garage keepers policy?
+
+199. [CARD-0199] (ch6-10.txt)
+What is the deductible for Uninsured Motorist?
+
+200. [CARD-0200] (ch6-10.txt)
+Define negligence
+
+201. [CARD-0201] (ch6-10.txt)
+What is subrogation?
+
+202. [CARD-0202] (ch6-10.txt)
+What is the difference between accident and occurrence?
+
+203. [CARD-0203] (ch6-10.txt)
+Texas Dwelling policy
+
+204. [CARD-0204] (ch6-10.txt)
+What are the different coverages available on the Texas Dwelling Policy?
+
+205. [CARD-0205] (ch6-10.txt)
+What perils are covered on Basic DP1 for the Texas Dwelling Policy?
+
+206. [CARD-0206] (ch6-10.txt)
+What are the perils for Broad DP2 of Texas Dwelling Policy?
+
+207. [CARD-0207] (ch6-10.txt)
+What perils are covered by Special DP3 of Texas Dwelling Policy?
+
+208. [CARD-0208] (ch6-10.txt)
+What are the coverages and valuation for Basic DP1 under Texas Dwelling Policy?
+
+209. [CARD-0209] (ch6-10.txt)
+What are the coverages and valuation Broad DP2 of Texas Dwelling Policy?
+
+210. [CARD-0210] (ch6-10.txt)
+What are the coverages and valuation for Special DP3 of Texas Dwelling Policy?
+
+211. [CARD-0211] (ch6-10.txt)
+How much is paid for indirect losses on all Texas Dwelling Policies?
+
+212. [CARD-0212] (ch6-10.txt)
+What does Coverage A - Dwelling cover on Texas Dwelling Policies?
+
+213. [CARD-0213] (ch6-10.txt)
+What is covered by Coverage B - Detached structures on the Texas Dwelling Policy?
+
+214. [CARD-0214] (ch6-10.txt)
+What is covered by Coverage C - Contents of Texas Dwelling Policies?
+
+215. [CARD-0215] (ch6-10.txt)
+What does Coverage D - Fair Rental Value of the Texas Dwelling Policy cover?
+
+216. [CARD-0216] (ch6-10.txt)
+What does Coverage E - Additional Living Expenses cover in the Texas Dwelling Policy?
+
+217. [CARD-0217] (ch6-10.txt)
+What is the Texas Homeowner Policy?
+
+218. [CARD-0218] (ch6-10.txt)
+What is the standard deductible for Coverage A for a Texas Homeowners Policy?
+
+219. [CARD-0219] (ch6-10.txt)
+What is the standard deductible for tenant and condo policies?
+
+220. [CARD-0220] (ch6-10.txt)
+What are the coverages for a Texas Homeowners Policy?
+
+221. [CARD-0221] (ch6-10.txt)
+What is the HO-8 form of Texas Homeowners Policy?
+
+222. [CARD-0222] (ch6-10.txt)
+What perils are covered by HO-8 Texas Homeowner Policy?
+
+223. [CARD-0223] (ch6-10.txt)
+What are the coverages and valuation for HO-8 under Texas Homeowner Policy?
+
+224. [CARD-0224] (ch6-10.txt)
+What are the coverages and valuation for HO-2 under Texas Homeowner Policy?
+
+225. [CARD-0225] (ch6-10.txt)
+What are the coverages and valuation for HO-3 under Texas Homeowner Policy?
+
+226. [CARD-0226] (ch6-10.txt)
+What are the coverages and valuation for HO-5 under Texas Homeowner policy?
+
+227. [CARD-0227] (ch6-10.txt)
+What are the covered perils under HO-2 for Texas Homeowners Policy?
+
+228. [CARD-0228] (ch6-10.txt)
+What are the covered perils for HO-4 for Texas Homeowners policy?
+
+229. [CARD-0229] (ch6-10.txt)
+What are the covered perils for HO-6 for Texas Homeowners policy?
+
+230. [CARD-0230] (ch6-10.txt)
+What are the covered perils for HO-3 of Texas Homeowner policy?
+
+231. [CARD-0231] (ch6-10.txt)
+What are the covered perils for HO-5 for Texas Homeowners policy?
+
+232. [CARD-0232] (ch6-10.txt)
+What are the coverages and valuation for HO-4 for Texas Homeowner Policy?
+
+233. [CARD-0233] (ch6-10.txt)
+What are the coverages and valuation for HO-6 for Texas Homeowners Policy?
+
+234. [CARD-0234] (ch6-10.txt)
+Which policies cover essentially the same perils?
+
+235. [CARD-0235] (ch6-10.txt)
+What is the commercial package policy?
+
+236. [CARD-0236] (ch6-10.txt)
+What are some common policy conditions for Commercial Package Policy?
+
+237. [CARD-0237] (ch6-10.txt)
+What are the coverages of Commercial General Liability (CGL)?
+
+238. [CARD-0238] (ch6-10.txt)
+What are the liability exposures for Commercial General Liability (CGL)?
+
+239. [CARD-0239] (ch6-10.txt)
+What is Coverage A of Commercial General Liability?
+
+240. [CARD-0240] (ch6-10.txt)
+What is Coverage B of the Commercial General Liability policy?
+
+241. [CARD-0241] (ch6-10.txt)
+What is Coverage C of Commercial General Liability (CGL)?
+
+242. [CARD-0242] (ch6-10.txt)
+What are supplemental payments for Commercial General Liability (CGL)?
+
+243. [CARD-0243] (ch6-10.txt)
+Who are the names insured on Commercial General Liability?
+
+244. [CARD-0244] (ch6-10.txt)
+Who are the other insured’s on Commercial General Liability (CGL) policies?
+
+245. [CARD-0245] (ch6-10.txt)
+What are the 6 separate limits of liability on Commercial General Liability (CGL)?
+
+246. [CARD-0246] (ch6-10.txt)
+Duties of insured
+
+247. [CARD-0247] (ch6-10.txt)
+Subrogation
+
+248. [CARD-0248] (ch6-10.txt)
+Premium audit
+
+249. [CARD-0249] (ch6-10.txt)
+Mobile Equipment
+
+250. [CARD-0250] (ch6-10.txt)
+What are the exclusions for Coverage A (BI & PD) and Coverage C (Med Pay) for Commercial General Liability?
+
+251. [CARD-0251] (ch6-10.txt)
+What are the exceptions to CGL Coverage B (personal or advertising injury)?
+
+252. [CARD-0252] (ch6-10.txt)
+What are the exclusions to CGL Coverage B for advertising injuries only?
+
+253. [CARD-0253] (ch6-10.txt)
+What are the exclusions to CGL Coverage C (med pay only)
+
+254. [CARD-0254] (ch6-10.txt)
+“Claims made” policy forms vs “occurrence”
+
+255. [CARD-0255] (ch6-10.txt)
+What is a retroactive date?
+
+256. [CARD-0256] (ch6-10.txt)
+Extended reporting period
+
+257. [CARD-0257] (ch6-10.txt)
+Pollution Liability Coverage Form
+
+258. [CARD-0258] (ch6-10.txt)
+Texas Business Owners Policy
+
+259. [CARD-0259] (ch6-10.txt)
+What are the 3 different forms offered for Texas Business Owners Policy (TBOP)?
+
+260. [CARD-0260] (ch6-10.txt)
+What forms cover theft under TBOP?
+
+261. [CARD-0261] (ch6-10.txt)
+What are the special limits for theft under TBOP?
+
+262. [CARD-0262] (ch6-10.txt)
+What are the coverages for TBOP?
+
+263. [CARD-0263] (ch6-10.txt)
+What are the exclusions to TBOP for property coverage?
+
+264. [CARD-0264] (ch6-10.txt)
+What are the additional coverages under TBOP?
+
+265. [CARD-0265] (ch6-10.txt)
+Extensions on Section 1 (property) for TBOP
+
+266. [CARD-0266] (ch6-10.txt)
+What are the different sections under TBOP?
+
+267. [CARD-0267] (ch6-10.txt)
+What are optional coverages under TBOP?
+
+268. [CARD-0268] (ch6-10.txt)
+What is Section 1 under TBOP?
+
+269. [CARD-0269] (ch6-10.txt)
+What is section 2 under TBOP?
+
+270. [CARD-0270] (ch6-10.txt)
+What is Coverage C under TBOP?
+
+271. [CARD-0271] (ch6-10.txt)
+What is Section D under TBOP?
+
+272. [CARD-0272] (ch6-10.txt)
+What code is the Texas workers compensation established under?
+
+273. [CARD-0273] (ch6-10.txt)
+Is Texas Workers Compensation Compulsory or Elective
+
+274. [CARD-0274] (ch6-10.txt)
+What are the 3 defenses that an employer has?
+
+275. [CARD-0275] (ch6-10.txt)
+What is a legal beneficiary under Texas Workers Compensation?
+
+276. [CARD-0276] (ch6-10.txt)
+What is Maximum Medical Improvement?
+
+277. [CARD-0277] (ch6-10.txt)
+What is occupational disease?
+
+278. [CARD-0278] (ch6-10.txt)
+What is a sanction in Texas Workers Compensation ?
+
+279. [CARD-0279] (ch6-10.txt)
+What is a settlement under Texas Workers Compensation?
+
+280. [CARD-0280] (ch6-10.txt)
+What is the subsequent injury fund?
+
+281. [CARD-0281] (ch6-10.txt)
+Who is eligible to purchase Texas Workers Compensation?
+
+282. [CARD-0282] (ch6-10.txt)
+Can an employee reject workers compensation ?w
+
+283. [CARD-0283] (ch6-10.txt)
+What is exclusive remedy under Texas Workers Compensation ?
+
+284. [CARD-0284] (ch6-10.txt)
+What is the waiting period for Texas Worker’s Compensation?
+
+285. [CARD-0285] (ch6-10.txt)
+What are the statue of limitations for Texas Worker’s Compensation?
+
+286. [CARD-0286] (ch6-10.txt)
+Medical Care under Texas Workers Compensation
+
+287. [CARD-0287] (ch6-10.txt)
+What is Average Weekly Wage under Texas Workers Compensation?
+
+288. [CARD-0288] (ch6-10.txt)
+What is the purpose of an Umbrella Policy?
+
+289. [CARD-0289] (ch6-10.txt)
+What are special features of umbrella policy?
+
+290. [CARD-0290] (ch6-10.txt)
+What are the Special and Professional Liability Insurance?
+
+291. [CARD-0291] (ch6-10.txt)
+Errors and Omissions
+
+292. [CARD-0292] (ch6-10.txt)
+Surplus lines
+
+293. [CARD-0293] (ch6-10.txt)
+Stamping Office
+
+294. [CARD-0294] (ch6-10.txt)
+Non-admitted
+
+295. [CARD-0295] (ch6-10.txt)
+Admitted company
+
+296. [CARD-0296] (ch6-10.txt)
+What are surety bonds?
+
+297. [CARD-0297] (ch6-10.txt)
+Bid Bond
+
+298. [CARD-0298] (ch6-10.txt)
+Performance Bond
+
+299. [CARD-0299] (ch6-10.txt)
+Payment Bond
+
+300. [CARD-0300] (ch6-10.txt)
+Maintenance Bond
+
+301. [CARD-0301] (ch6-10.txt)
+Judicial Bonds
+
+302. [CARD-0302] (review.txt)
+What are the required amount of CE credit and in what timeframe?
+
+303. [CARD-0303] (review.txt)
+What are the duties of the Commissioner?
+
+304. [CARD-0304] (review.txt)
+What is the grace period to renew your license?
+
+305. [CARD-0305] (review.txt)
+Who does the agent represent?
+
+306. [CARD-0306] (review.txt)
+Who does a broker represent?
+
+307. [CARD-0307] (review.txt)
+What type of agent must be appointed by an insurance company?
+
+308. [CARD-0308] (review.txt)
+What can only a PCA do?
+
+309. [CARD-0309] (review.txt)
+3 things the Property and Casualty Guaranty Fund wii pay
+
+310. [CARD-0310] (review.txt)
+What can be issued if a person participates in Unfair Trade Practices?
+
+311. [CARD-0311] (review.txt)
+Deceptive Trade Practices Act, what is it unlawful for a consumer to do?
+
+312. [CARD-0312] (review.txt)
+What is twisting?
+
+313. [CARD-0313] (review.txt)
+If an agent knowingly commits Unfair Trade Practices, the damages may be
+
+314. [CARD-0314] (review.txt)
+Define Fair Credit Reporting Act
+
+315. [CARD-0315] (review.txt)
+What is a peril?
+
+316. [CARD-0316] (review.txt)
+Domestic insurer
+
+317. [CARD-0317] (review.txt)
+Foreign insurer
+
+318. [CARD-0318] (review.txt)
+Alien insurer
+
+319. [CARD-0319] (review.txt)
+What is the difference between admitted and non-admitted companies?
+
+320. [CARD-0320] (review.txt)
+Concealment
+
+321. [CARD-0321] (review.txt)
+What type of insurance can only be purchased through a government insurance program?
+
+322. [CARD-0322] (review.txt)
+What are the reasons to cancel midterm on a PAP?
+
+323. [CARD-0323] (review.txt)
+What are the reasons to cancel a Homeowners policy midterm?
+
+324. [CARD-0324] (review.txt)
+Explain PAP 10/10/30?
+
+325. [CARD-0325] (review.txt)
+Explain 10/10/60 for BAP
+
+326. [CARD-0326] (review.txt)
+What percentage of the home's value must be insured in order to receive replacement costs?
+
+327. [CARD-0327] (review.txt)
+What is coverage E on a Texas Dwelling policy?
+
+328. [CARD-0328] (review.txt)
+What form is Coverage E on Texas Dwelling policy provided on and what is the amount?
+
+329. [CARD-0329] (review.txt)
+What is always excluded for trees/shrubs/plants?
+
+330. [CARD-0330] (review.txt)
+Can domestic servants file against HO liability?
+
+331. [CARD-0331] (review.txt)
+Can domestic servants file a Workers Compensation claim?
+
+332. [CARD-0332] (review.txt)
+What items are not covered for damage by wind or hail on a HO policy?
+
+333. [CARD-0333] (review.txt)
+What is vacancy and what is important around the timeframe?
+
+334. [CARD-0334] (review.txt)
+Under Homeowners Policies what is not covered off premises?
+
+335. [CARD-0335] (review.txt)
+What is necessary to qualify for a Homeowners policy?
+
+336. [CARD-0336] (review.txt)
+On homeowners policies, what is the maximum limit for Coverage B?
+
+337. [CARD-0337] (review.txt)
+What is the standard deductible on HO2, HO3, HO5?
+
+338. [CARD-0338] (review.txt)
+What is this the basic limit of liability on Homeowners policies?
+
+339. [CARD-0339] (review.txt)
+What is the difference between HO2 valuation and HO3/HO5?
+
+340. [CARD-0340] (review.txt)
+What is the statue of limitations for Medical Payments on homeowners policy?
+
+341. [CARD-0341] (review.txt)
+Under PAP, what constitutes as a "your covered auto"?
+
+342. [CARD-0342] (review.txt)
+What must be true in order to file a UM claim?
+
+343. [CARD-0343] (review.txt)
+How much notice must be given to a non-renewal on a PAP?
+
+344. [CARD-0344] (review.txt)
+How much notice must be given on a PAP for non-payment?
+
+345. [CARD-0345] (review.txt)
+What is TE and what are the max amount payable for expenses?
+
+346. [CARD-0346] (review.txt)
+What is the policy territory for PAP?
+
+347. [CARD-0347] (review.txt)
+What vehicles are ineligible for a PAP?
+
+348. [CARD-0348] (review.txt)
+Collision with an animal is covered by what coverage?
+
+349. [CARD-0349] (review.txt)
+Damage to a rental car is covered by what coverage?
+
+350. [CARD-0350] (review.txt)
+What coverage must be rejected in writing on a PAP?
+
+351. [CARD-0351] (review.txt)
+What is the minimum PAP coverage?
+
+352. [CARD-0352] (review.txt)
+What two forms are required to have a Commercial Property policy?
+
+353. [CARD-0353] (review.txt)
+What does the standard pollution policy specifically cover?
+
+354. [CARD-0354] (review.txt)
+What are two exclusions to Employee Dishonesty?
+
+355. [CARD-0355] (review.txt)
+Medical payments for CGL must be incurred within what timeframe?
+
+356. [CARD-0356] (review.txt)
+How much coverage is Medical payments on CGL?
+
+357. [CARD-0357] (review.txt)
+What is the coverage and timeframe for medical payments for TBOP?
+
+358. [CARD-0358] (review.txt)
+What is the coverage and timeframe for medical payments for Auto?
+
+359. [CARD-0359] (review.txt)
+What is the timeframe in order to have Boiler and Machinery paid out in replacement value?
+
+360. [CARD-0360] (review.txt)
+What is open cargo form?
+
+361. [CARD-0361] (review.txt)
+What is the basic deductible for Commercial Property?
+
+362. [CARD-0362] (review.txt)
+What is the basic deductible for TBOP?
+
+363. [CARD-0363] (review.txt)
+What are some examples of Supplemental Payments?
+
+364. [CARD-0364] (review.txt)
+What Commercial Property Policy loss form covers theft?
+
+365. [CARD-0365] (review.txt)
+What TBOP loss form covers theft?
+
+366. [CARD-0366] (review.txt)
+What 6 categories of businesses qualify for a TBOP?
+
+367. [CARD-0367] (review.txt)
+What is specifically excluded on a TBOP?
+
+368. [CARD-0368] (review.txt)
+What is the advantage of insuring property with a Special form?
+
+369. [CARD-0369] (review.txt)
+For both Commercial Property Policies and TBOP, what is not covered after 60 days of vacancy?
+
+370. [CARD-0370] (review.txt)
+What are the coverage extensions for Commercial Property policies?
+
+371. [CARD-0371] (review.txt)
+What are the 3 reasons to deny a WC claim?
+
+372. [CARD-0372] (review.txt)
+Is workers compensation in Texas elective or compulsory?
+
+373. [CARD-0373] (review.txt)
+Who are beneficiaries of Texas Workers Compensation?
+
+374. [CARD-0374] (review.txt)
+What happens to the money if someone doesn't have children or spouse (beneficiaries)?
+
+375. [CARD-0375] (review.txt)
+What is the minimum number of employees needed to qualify for Texas Workers Compensation?
+
+376. [CARD-0376] (review.txt)
+Who does the Jones Act protect?
+
+377. [CARD-0377] (review.txt)
+Define extraterrestrial benefits/ clause
+
+378. [CARD-0378] (review.txt)
+What is flood?
+
+379. [CARD-0379] (review.txt)
+What covers physical damage to a boat?
+
+380. [CARD-0380] (review.txt)
+When are you responsible for a SIR, self insurance retention?
+
+381. [CARD-0381] (review.txt)
+What are the standard amounts for a SIR, self insurance retention?
+
+382. [CARD-0382] (review.txt)
+Principle, obligee and surety
+
+383. [CARD-0383] (review.txt)
+Liquidated demand
+
+384. [CARD-0384] (review.txt)
+The premium for controlled business which a licensee is permitted to transact in any calendar year must be
+
+385. [CARD-0385] (review.txt)
+A temporary emergency license is issued for an initial period of
+
+386. [CARD-0386] (review.txt)
+Who holds a company appointment?
+
+387. [CARD-0387] (review.txt)
+Licenses renew how often?
+
+388. [CARD-0388] (review.txt)
+Misrepresentation is:
+
+389. [CARD-0389] (review.txt)
+Who do agents represent?
+
+390. [CARD-0390] (review.txt)
+When must a licensed agent report a change of address?
+
+391. [CARD-0391] (review.txt)
+Twisting is:
+
+392. [CARD-0392] (review.txt)
+What is a hazard?
+
+393. [CARD-0393] (review.txt)
+The type of insurance company that the policyholder is considered an owner with the right to vote and share in profits
+
+394. [CARD-0394] (review.txt)
+The principle that states that an insured should be restored to approximately the same financial condition after a loss as before the loss is known as
+
+395. [CARD-0395] (review.txt)
+Staying at a hotel while home is being repaired after a fire is what type of loss?
+
+396. [CARD-0396] (review.txt)
+What is risk?
+
+397. [CARD-0397] (review.txt)
+What kind of risk is insurable?
+
+398. [CARD-0398] (review.txt)
+In a legal contract, agreement refers to
+
+399. [CARD-0399] (review.txt)
+Concealment is
+
+400. [CARD-0400] (review.txt)
+A peril is
+
+401. [CARD-0401] (review.txt)
+What part of an insurance policy personalizes the policy as to who and what are insured
+
+402. [CARD-0402] (review.txt)
+What is ACV
+
+403. [CARD-0403] (review.txt)
+What type of policy insures against all risks off loss that is not specifically excluded by the policy
+
+404. [CARD-0404] (review.txt)
+The condition that provides a means to settle the amount of loss when the insured Bd the insurance company cannot agree
+
+405. [CARD-0405] (review.txt)
+What does a binder do
+
+406. [CARD-0406] (review.txt)
+An additional loss that results from a direct loss to property
+
+407. [CARD-0407] (review.txt)
+In liability policies, supplementary payments are
+
+408. [CARD-0408] (review.txt)
+Homeowners policies proved liability coverage for
+
+409. [CARD-0409] (review.txt)
+What is the minimum amount of coverage that is available for Coverage E, liability, on the Homeowners policy?
+
+410. [CARD-0410] (review.txt)
+Section II of a homeowners policy covers
+
+411. [CARD-0411] (review.txt)
+An HO-2 form sets limits on
+
+412. [CARD-0412] (review.txt)
+What is a representation?
+
+413. [CARD-0413] (review.txt)
+Under which extension of coverage would a policy provide a rental car if your vehicle had been stolen and missing at least 48 hours?
+
+414. [CARD-0414] (review.txt)
+Under the claims-made CGL form, the first date that a loss may occur and still be covered under the policy is
+
+415. [CARD-0415] (review.txt)
+In the Boiler and Machinery policy, the items insured under the policy are defined in the
+
+416. [CARD-0416] (review.txt)
+The Extra Expense coverage provides
+
+417. [CARD-0417] (review.txt)
+A person retained by the insured to have care, custody and control of property inside the premises and who has no other duties is
+
+418. [CARD-0418] (review.txt)
+The crime coverage form that covers theft losses caused by employees has 2 important exclusions
+
+419. [CARD-0419] (review.txt)
+The premium charged for a standard Worker's Compensation policy is primarily based on
+
+420. [CARD-0420] (review.txt)
+Workers Compensation includes basic benefits
+
+421. [CARD-0421] (review.txt)
+The employer must be notified within how many days of injury when it comes to Workers Compensation
+
+422. [CARD-0422] (review.txt)
+If there is no spouse or child and the worker dies, the benefits are paid to the
+
+423. [CARD-0423] (review.txt)
+The party to the surety bond who promises to do or not to do a specific thing is the
+
+424. [CARD-0424] (review.txt)
+What type of Ocean Marine insurance provides physical damage coverage for the ship
+
+425. [CARD-0425] (review.txt)
+Something that increased the chance of a loss occurring due to a peril
+
+426. [CARD-0426] (review.txt)
+Actual cash value
+
+427. [CARD-0427] (review.txt)
+All Risk insurance forms
+
+428. [CARD-0428] (review.txt)
+What is considered an offer
+
+429. [CARD-0429] (review.txt)
+What are two optional coverages obtained by endorsement to a BAP?
+
+430. [CARD-0430] (review.txt)
+What coverage extension includes Transportation Expense?
+
+431. [CARD-0431] (review.txt)
+Damage to an rental auto caused by the insured is covered under which section of PAP?
+
+432. [CARD-0432] (review.txt)
+The failure to do what a reasonable prudent person would do under the circumstances
+
+433. [CARD-0433] (review.txt)
+Proximate causes requires that
+
+434. [CARD-0434] (review.txt)
+What is the acceptance of an offer
+
+435. [CARD-0435] (review.txt)
+The principle of indemnity
+
+436. [CARD-0436] (review.txt)
+Occurrence is
+
+437. [CARD-0437] (review.txt)
+After paying a claim, an insurance company may have the right to pursue legal action against the negligent party.
+This right is called
+
+438. [CARD-0438] (review.txt)
+As an inducement to buy insurance, promising to return a portion of the commission to the insurance buyer is known as
+
+439. [CARD-0439] (review.txt)
+Controlled business law
+
+440. [CARD-0440] (review.txt)
+Publishing or circulating false and malicious statements about the financial conditions of an insurer with the intent to cause injury is
+
+441. [CARD-0441] (review.txt)
+In this state, a domestic insurance company is defined as a company that
+
+442. [CARD-0442] (review.txt)
+Newly organized insurance companies operating in Texas are examined by TDI at least once each year during their initial
+
+443. [CARD-0443] (review.txt)
+Representation
+
+444. [CARD-0444] (review.txt)
+The purpose of the Texas Property and Casualty Guaranty Association is to
+
+445. [CARD-0445] (review.txt)
+What is the insuring agent section of an auto policy?
+
+446. [CARD-0446] (review.txt)
+What is insurance
+
+447. [CARD-0447] (review.txt)
+Hazard
+
+448. [CARD-0448] (review.txt)
+Subsequent injury fund
+
+449. [CARD-0449] (review.txt)
+Impairment Income Benefits
+
+450. [CARD-0450] (review.txt)
+Supplemental income benefits
+
+451. [CARD-0451] (review.txt)
+Lifetime income benefits
+
+452. [CARD-0452] (review.txt)
+What is Part 1 of Texas Workers Compensation
+
+453. [CARD-0453] (review.txt)
+Extraterritorial clause
+
+454. [CARD-0454] (review.txt)
+Part 2 of Texas Workers Compensation
+
+455. [CARD-0455] (review.txt)
+Part 3 Texas Workers Compensation
+
+456. [CARD-0456] (review.txt)
+Premiums on Texas Workers Compensation are
+
+457. [CARD-0457] (review.txt)
+Texas Workers Compensation Fund
+
+458. [CARD-0458] (review.txt)
+What are the 3 forms available Texas Dwelling Policy
+
+459. [CARD-0459] (review.txt)
+What are the coverages on TDP?
+
+460. [CARD-0460] (review.txt)
+What does Coverage A on TDP cover?
+
+461. [CARD-0461] (review.txt)
+What does Coverage B of TDP cover?
+
+462. [CARD-0462] (review.txt)
+What does Coverage C of TDP cover?
+
+463. [CARD-0463] (review.txt)
+What does Coverage D of TDP cover?
+
+464. [CARD-0464] (review.txt)
+What does Coverage E cover on TDP?
+
+465. [CARD-0465] (review.txt)
+What is the coverage for trees, shrubs and plants on TDP?
+
+466. [CARD-0466] (review.txt)
+What are the coverages for Homeowners Insurance
+
+467. [CARD-0467] (review.txt)
+What are the forms for Homeowners for houses
+
+468. [CARD-0468] (review.txt)
+What form covers apartments
+
+469. [CARD-0469] (review.txt)
+What form covers condos
+
+470. [CARD-0470] (review.txt)
+What is the standard deductible for Homeowners
+
+471. [CARD-0471] (100 questions.txt)
+Under the standard fire policy, which condition suspends coverage while it lasts?
+
+472. [CARD-0472] (100 questions.txt)
+A fire policy requires the insured to 'forthwith separate the damaged and undamaged personal property.' What is this requirement part of?
+
+473. [CARD-0473] (100 questions.txt)
+Which peril is insured by the basic standard fire policy?
+
+474. [CARD-0474] (100 questions.txt)
+Under the standard fire policy, how long does the insured have to bring suit, as New York's statutory text now reads?
+
+475. [CARD-0475] (100 questions.txt)
+Under the standard fire policy, the insurer cancels a policy. How is unearned premium returned?
+
+476. [CARD-0476] (100 questions.txt)
+Which homeowners coverage pays for a detached fence damaged by a covered peril?
+
+477. [CARD-0477] (100 questions.txt)
+Which homeowners form is designed for a condominium unit owner?
+
+478. [CARD-0478] (100 questions.txt)
+Which homeowners form provides open-peril coverage on both dwelling and personal property?
+
+479. [CARD-0479] (100 questions.txt)
+Which peril is typically NOT covered by a Texas homeowners policy, according to TDI?
+
+480. [CARD-0480] (100 questions.txt)
+How long is the usual waiting period before a new flood policy takes effect, according to TDI?
+
+481. [CARD-0481] (100 questions.txt)
+A homeowners policy's liability coverage pays for which of these?
+
+482. [CARD-0482] (100 questions.txt)
+A dog owned by the insured bites a visitor. Which homeowners coverage typically responds to the visitor's claim?
+
+483. [CARD-0483] (100 questions.txt)
+Why is a mobile home typically settled on an actual cash value basis?
+
+484. [CARD-0484] (100 questions.txt)
+Which coverage in a Texas auto policy pays medical bills and lost income regardless of fault?
+
+485. [CARD-0485] (100 questions.txt)
+A Texas policyholder wants to decline uninsured/underinsured motorists coverage. How must this be done?
+
+486. [CARD-0486] (100 questions.txt)
+An at-fault driver's insurer becomes insolvent before paying. How does Texas law treat that driver's vehicle for UM purposes?
+
+487. [CARD-0487] (100 questions.txt)
+Which auto coverage pays for a stolen car?
+
+488. [CARD-0488] (100 questions.txt)
+A driver who does not own a car wants liability coverage when borrowing cars. What does TDI describe for this need?
+
+489. [CARD-0489] (100 questions.txt)
+Under the Texas Personal Auto Policy form, a 'family member' must meet which test?
+
+490. [CARD-0490] (100 questions.txt)
+Under the Texas Personal Auto Policy form, what does 'occupying' mean?
+
+491. [CARD-0491] (100 questions.txt)
+What do Business Auto Policies commonly use as their limit of liability, according to the California guide?
+
+492. [CARD-0492] (100 questions.txt)
+A commercial property policy covers 'your business's care, custody and control' property. What is this coverage called?
+
+493. [CARD-0493] (100 questions.txt)
+Which commercial causes-of-loss form provides the least coverage?
+
+494. [CARD-0494] (100 questions.txt)
+What does a Commercial Package Policy combine?
+
+495. [CARD-0495] (100 questions.txt)
+Which exposure does a Businessowners Policy include that a monoline property policy does not?
+
+496. [CARD-0496] (100 questions.txt)
+Boiler and machinery insurance is also marketed under which name?
+
+497. [CARD-0497] (100 questions.txt)
+A thief breaks into a closed jewelry store overnight and steals watches. Which crime policy peril fits best?
+
+498. [CARD-0498] (100 questions.txt)
+Which statement about crime insurance is correct, according to the California guide?
+
+499. [CARD-0499] (100 questions.txt)
+Which of these is an inland marine coverage in TDI's list?
+
+500. [CARD-0500] (100 questions.txt)
+Which insurance covers a ship's hull?
+
+501. [CARD-0501] (100 questions.txt)
+A ship's collision liability clause traditionally covered what share of collision liability, according to the Fifth Circuit?
+
+502. [CARD-0502] (100 questions.txt)
+What triggers a business income claim under a typical business interruption form?
+
+503. [CARD-0503] (100 questions.txt)
+Which coverage pays the cost of renting temporary space so a damaged business can keep operating?
+
+504. [CARD-0504] (100 questions.txt)
+A landlord loses rental income after a covered fire makes the building unfit for tenants. Which time element coverage fits?
+
+505. [CARD-0505] (100 questions.txt)
+Which ordinance or law coverage pays the increased cost of rebuilding to current code?
+
+506. [CARD-0506] (100 questions.txt)
+A commercial umbrella responds to which layer of a liability loss?
+
+507. [CARD-0507] (100 questions.txt)
+Which type of bond guarantees that a contractor completes the work according to the contract?
+
+508. [CARD-0508] (100 questions.txt)
+A Texas public works contract (not a municipality) is worth $40,000. Which bond must the governmental entity require?
+
+509. [CARD-0509] (100 questions.txt)
+How is professional liability (E&O) insurance usually triggered?
+
+510. [CARD-0510] (100 questions.txt)
+Which exclusion in a CGL policy sends aircraft exposures to a separate aviation policy?
+
+511. [CARD-0511] (100 questions.txt)
+Which term means the cause of a loss, such as fire or hail?
+
+512. [CARD-0512] (100 questions.txt)
+A building with no fire sprinklers and wooden construction presents which kind of thing to an underwriter?
+
+513. [CARD-0513] (100 questions.txt)
+How does TDI define insurable interest?
+
+514. [CARD-0514] (100 questions.txt)
+How does the Texas Supreme Court interpret insurance policies?
+
+515. [CARD-0515] (100 questions.txt)
+Which term describes the insurer's giving up a known right, such as a late-notice defense, on purpose?
+
+516. [CARD-0516] (100 questions.txt)
+What does a non-waiver clause in the standard fire policy say about appraisal and examinations?
+
+517. [CARD-0517] (100 questions.txt)
+Which statement about estoppel in Texas insurance law is correct?
+
+518. [CARD-0518] (100 questions.txt)
+What is a proof of loss?
+
+519. [CARD-0519] (100 questions.txt)
+How does TDI define depreciation?
+
+520. [CARD-0520] (100 questions.txt)
+According to TDI's home insurance glossary, what caps additional living expenses?
+
+521. [CARD-0521] (100 questions.txt)
+A building is insured for its full value under a Texas fire policy and is totally destroyed by fire. Which Texas rule applies to the dwelling?
+
+522. [CARD-0522] (100 questions.txt)
+What does an appraisal award decide?
+
+523. [CARD-0523] (100 questions.txt)
+Under the flood policy, how soon must each side choose an appraiser after a written request?
+
+524. [CARD-0524] (100 questions.txt)
+How does FEMA's flood policy define actual cash value?
+
+525. [CARD-0525] (100 questions.txt)
+A thief points a gun at a cashier and takes the day's receipts. What crime is this?
+
+526. [CARD-0526] (100 questions.txt)
+Which crime is the broadest category of unlawful taking in Texas law?
+
+527. [CARD-0527] (100 questions.txt)
+Which valuation method is most common for fine art and classic autos, according to the California guide?
+
+528. [CARD-0528] (100 questions.txt)
+Which statement about replacement cost coverage is correct?
+
+529. [CARD-0529] (100 questions.txt)
+What is the goal of indemnity in property and casualty insurance?
+
+530. [CARD-0530] (100 questions.txt)
+Which damages compensate a claimant for actual economic or pecuniary loss under Texas law?
+
+531. [CARD-0531] (100 questions.txt)
+An insurer pays a claim and then sues the person who caused the loss. What doctrine allows this?
+
+532. [CARD-0532] (100 questions.txt)
+Two PIP coverages apply to an injured person in the named insured's own car. Under the Texas Personal Auto Policy's PIP other-insurance clause, how does the policy pay?
+
+533. [CARD-0533] (100 questions.txt)
+Two property insurers with $100,000 and $300,000 limits share an $80,000 loss pro rata. What does the smaller insurer pay?
+
+534. [CARD-0534] (100 questions.txt)
+Under the standard fire policy, what may the insurer elect to do instead of paying cash for a loss?
+
+535. [CARD-0535] (100 questions.txt)
+When is a damaged car most likely declared a total loss, according to TDI?
+
+536. [CARD-0536] (100 questions.txt)
+Which statement about misrepresentation in an insurance application is correct under Texas law?
+
+537. [CARD-0537] (100 questions.txt)
+Under the flood policy, what happens if the insured keeps damaged property?
+
+538. [CARD-0538] (100 questions.txt)
+How does the California guide describe insurance itself?
+
+539. [CARD-0539] (100 questions.txt)
+Under the flood policy's liberalization clause, what change applies automatically to existing policies?
+
+540. [CARD-0540] (100 questions.txt)
+How does TDI define a binder?
+
+541. [CARD-0541] (100 questions.txt)
+Which Texas statute lets an insurer submit a reservation of rights instead of immediately affirming or denying coverage?
+
+542. [CARD-0542] (100 questions.txt)
+Under the standard fire policy, when is a loss payable?
+
+543. [CARD-0543] (100 questions.txt)
+Which element of proximate cause asks whether a person of ordinary intelligence should have anticipated the danger?
+
+544. [CARD-0544] (100 questions.txt)
+A building worth $300,000 carries $180,000 of insurance with an 80% coinsurance clause. A $40,000 loss occurs; ignore the deductible. What is paid?
+
+545. [CARD-0545] (100 questions.txt)
+Which type of liability policy responds to injuries that happen during the policy period, whenever the claim is made?
+
+546. [CARD-0546] (100 questions.txt)
+What does a short-rate cancellation involve?
+
+547. [CARD-0547] (100 questions.txt)
+Under Texas law, which is a permitted reason for an insurer to cancel a policy midterm?
+
+548. [CARD-0548] (100 questions.txt)
+A homeowners policy excludes vacancy losses after 60 days. Which fact matters most for applying it?
+
+549. [CARD-0549] (100 questions.txt)
+How does TDI define an endorsement?
+
+550. [CARD-0550] (100 questions.txt)
+Which Texas code chapter governs the licensing of insurance adjusters?
+
+551. [CARD-0551] (100 questions.txt)
+What minimum age must an individual adjuster applicant meet in Texas?
+
+552. [CARD-0552] (100 questions.txt)
+Under 28 TAC §19.602, which adjuster license is issued to adjusters who qualify for both the property, casualty and surety license and the workers' compensation license?
+
+553. [CARD-0553] (100 questions.txt)
+A person training under a licensed adjuster's supervision registers as a trainee. For how long may the trainee act without a license?
+
+554. [CARD-0554] (100 questions.txt)
+How long can a Texas emergency adjuster license last at most, including one extension?
+
+555. [CARD-0555] (100 questions.txt)
+What percentage of an adjuster's continuing education must be in a classroom or classroom-equivalent setting under Chapter 4004?
+
+556. [CARD-0556] (100 questions.txt)
+An adjuster's license expired 45 days ago. What can the adjuster do?
+
+557. [CARD-0557] (100 questions.txt)
+Which person is exempt from Texas adjuster licensing under §4101.002?
+
+558. [CARD-0558] (100 questions.txt)
+A person handles only life and health insurance claims. Must that person hold a Texas adjuster license?
+
+559. [CARD-0559] (100 questions.txt)
+Who is the chief executive and administrative officer of the Texas Department of Insurance?
+
+560. [CARD-0560] (100 questions.txt)
+A person served with an emergency cease and desist order wants a hearing. By when must the request be made?
+
+561. [CARD-0561] (100 questions.txt)
+Which statement is defamation of an insurer under Insurance Code §541.053?
+
+562. [CARD-0562] (100 questions.txt)
+An insurer receives all requested items on a claim but, without explanation, pays 75 days later. No other statute sets a period. What does §542.058 provide?
+
+563. [CARD-0563] (100 questions.txt)
+Which rule says an acknowledgment of a claim within 15 business days is presumed reasonably prompt?
+
+564. [CARD-0564] (100 questions.txt)
+Which of these is an unfair claim settlement practice under 28 TAC §21.203?
+
+565. [CARD-0565] (100 questions.txt)
+Which workers are excluded from 'employee' under the Texas Labor Code's workers' compensation definitions?
+
+566. [CARD-0566] (100 questions.txt)
+How is a Texas employee's average weekly wage generally computed after 13 weeks of work?
+
+567. [CARD-0567] (100 questions.txt)
+What is the minimum weekly income benefit as a share of the state average weekly wage?
+
+568. [CARD-0568] (100 questions.txt)
+An injury arises from an employee's voluntary off-duty softball game that the job does not require. What does the Labor Code provide?
+
+569. [CARD-0569] (100 questions.txt)
+How often may a carrier generally obtain a required medical examination of an injured employee?
+
+570. [CARD-0570] (100 questions.txt, question 56)
+Which Texas definition requires entering a building not then open to the public?
+
+571. [CARD-0571] (card sharp qa.txt)
+Risk Management
+
+572. [CARD-0572] (ch6-10.txt)
+Compensatory Damages
+
+573. [CARD-0573] (ch6-10.txt)
+Special Damages
+
+574. [CARD-0574] (ch6-10.txt)
+General Damages
+
+575. [CARD-0575] (ch6-10.txt)
+Punitive Damages
+
+576. [CARD-0576] (ch6-10.txt)
+Absolute (strict) liability
+
+577. [CARD-0577] (ch6-10.txt)
+Vicarious Liability
+
+578. [CARD-0578] (ch6-10.txt)
+Split Limits
+
+579. [CARD-0579] (ch6-10.txt)
+The difference between accident and occurrence
+
+580. [CARD-0580] (ch6-10.txt)
+Combined Single Limits
+
+581. [CARD-0581] (ch6-10.txt)
+Aggregate Limit
+
+582. [CARD-0582] (ch6-10.txt)
+Peril
+
+583. [CARD-0583] (ch6-10.txt)
+Friendly fire
+
+584. [CARD-0584] (ch6-10.txt)
+Hostile fire
+
+585. [CARD-0585] (ch6-10.txt)
+Extended Coverage Perils
+
+586. [CARD-0586] (ch6-10.txt)
+When must motor vehicle owners show proof of financial responsibility?
+
+587. [CARD-0587] (ch6-10.txt)
+What is a hazard?
+
+588. [CARD-0588] (ch6-10.txt)
+What are the 3 forms that the Texas Dwelling Policy is available on
+
+589. [CARD-0589] (ch6-10.txt)
+hat policy can tenants (renters) and condo owners use?
+
+590. [CARD-0590] (ch6-10.txt)
+Commercial Package Policy common policy declarations
+
+591. [CARD-0591] (ch6-10.txt)
+What are the 7 Coverage Forms for a Commercial Property policy?
+
+592. [CARD-0592] (ch6-10.txt)
+What is the deductible for Commercial Property Policy?
+
+593. [CARD-0593] (ch6-10.txt)
+What are the two components of Commercial Property Policy?
+
+594. [CARD-0594] (ch6-10.txt)
+What does the coverage form do on a Commercial Property Policy?
+
+595. [CARD-0595] (ch6-10.txt)
+What are the 6 categories that are eligible for Texas Business Owners Policy (TBOP)?
+
+596. [CARD-0596] (ch6-10.txt)
+What type of law is Texas Workers Compensation, monopolistic or competitive?
+
+597. [CARD-0597] (ch6-10.txt)
+Self-Insured Retention
+

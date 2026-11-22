@@ -1,0 +1,3451 @@
+ALL INSURANCE ADJUSTER ANSWERS
+Matching CARD IDs appear in All Insurance Adjuster Questions.txt. Original answers are unverified.
+
+1. [CARD-0001] (card sharp qa.txt)
+The larger the sample size the closer you get to a true average
+
+2. [CARD-0002] (card sharp qa.txt)
+The process insurance companies use to decide whether to accept or reject an application for a policy. Underwriters evaluate the risk and exposures of potential policy holders.Underwriters determine how much cover a policy holder receives, how much the policyholder pays, and whether or not to accept the risk to insure a potential holder.Underwriting involves evaluating risk exposure and determining premiums.
+
+3. [CARD-0003] (card sharp qa.txt)
+A cause of property losses within context of insurance contracts i.e. Natural disasters, vandalism, accidental discharge, and theft
+
+4. [CARD-0004] (card sharp qa.txt)
+A situation that poses a level of threat. Usually dormant or potential with only a theoretical risk of harm. Can become “active” and create an emergency situation.
+
+5. [CARD-0005] (card sharp qa.txt)
+Direct physical loss to property
+
+6. [CARD-0006] (card sharp qa.txt)
+Loss that is not a direct damage of a peril but is a consequence of direct loss.e.x. Loss of business (Indirect loss) due to a fire destroying a storefront (Direct loss)
+
+7. [CARD-0007] (card sharp qa.txt)
+An insurance policy stating that the insured may not be compensated more than their economic loss
+
+8. [CARD-0008] (card sharp qa.txt)
+Insurance coverage for real and personal property
+
+9. [CARD-0009] (card sharp qa.txt)
+The section of the insurance policy specifying what the insurance policy will provide coverage for in exchange for a premium
+
+10. [CARD-0010] (card sharp qa.txt)
+Amount paid by the insured before payments are made by the insurance provider, applied per occurrence. Deductibles are typically larger in Texas than other states and are usually a percentage deductible always taken from Coverage A. Specified in the Declaration Page
+
+11. [CARD-0011] (card sharp qa.txt)
+Termination of insurance agreement by either the insurance company or the insured.
+
+12. [CARD-0012] (card sharp qa.txt)
+The maximum amount an insurance policy will pay. Specified in the Declaration Page
+
+13. [CARD-0013] (card sharp qa.txt)
+The process used to determine the amount of the loss.There are four methods used to determine a loss settlement.
+
+14. [CARD-0014] (card sharp qa.txt)
+Actual Cash Value (ACV)
+    Replacement Cost (RCV)
+    Agreed Cost
+    Market Value
+
+15. [CARD-0015] (card sharp qa.txt)
+The value of property, based on the current cost to replace it, minus applicable depreciation.
+
+16. [CARD-0016] (card sharp qa.txt)
+The cost associated with replacing property at current market prices
+
+17. [CARD-0017] (card sharp qa.txt)
+Amount agreed upon by the insured and the insurer at the time of the policy inception
+
+18. [CARD-0018] (card sharp qa.txt)
+The amount that the property is worth in a competitive market. This amount is accepted by the buyer and the seller
+
+19. [CARD-0019] (card sharp qa.txt)
+Protects a person from financial loss arising from bodily injury or property damage to others arising out of:
+
+    Ownership of property
+    Operation of motor vehicles
+    Personal activities
+    Business activities
+    Burglary, robbery, and theft
+    Worker’s compensation injuries
+    Malpractice
+
+20. [CARD-0020] (card sharp qa.txt)
+A person is legally liable for an accident if they are found responsible if they are responsible for bodily injury or property damage to another property. Liability is usually a result of negligence.
+
+21. [CARD-0021] (card sharp qa.txt)
+the failure to exercise care that a reasonably prudent person would exercise
+
+22. [CARD-0022] (card sharp qa.txt)
+A wrong that involves a breach of a civil duty owed to someone else. This breach will determine negligence. The essential elements to determine negligence are:
+
+    Duty owed
+    Duty breached
+    Proximate cause
+    Damages
+
+23. [CARD-0023] (card sharp qa.txt)
+The amount awarded by the court in an attempt to reform or deter the defendant from engaging in similar conduct in the future.
+
+24. [CARD-0024] (card sharp qa.txt)
+A partial legal defense that reduces the amount of damages a person can receive based upon their own negligence contributing to the loss
+
+25. [CARD-0025] (card sharp qa.txt)
+A law defense where a person’s own negligence contributed to the harm that he or she received.
+
+26. [CARD-0026] (card sharp qa.txt)
+A defense that prevents a person from recovery against a negligent party if it can be proven that the person was aware of the risks associated with the activity that the person was engaged in.
+
+27. [CARD-0027] (card sharp qa.txt)
+An unforeseen, unintended event; something unexpected. The point of insurance is to protect against accidents
+
+28. [CARD-0028] (card sharp qa.txt)
+Natural causes with no human intervention which could not have been prevented by reasonable care or foresight.
+
+29. [CARD-0029] (card sharp qa.txt)
+Extra charges covered by Homeowner Policies over and above the policyholder’s customary living expenses due to damages by a covered peril that makes the home temporarily uninhabitable.I.e covering the cost of the hotel in which the policy holder stays at while their house is being repaired.It will not cover normal expenses such as mortgage on the house as that is a normal expense.
+
+30. [CARD-0030] (card sharp qa.txt)
+The tendency of insured’s who present a higher probability of loss to purchase or renew insurance more often than those who present a lower probability.
+
+31. [CARD-0031] (card sharp qa.txt)
+Coverage providing insurance protection against loss of or damage to property arising from any causes except those causes of loss that are specifically excluded in the Exclusions section of the policy.
+
+32. [CARD-0032] (card sharp qa.txt)
+A form of dispute resolution that occurs when there is a dispute between the insured and the insurance agency regarding the amount of the claim. Both parties hire an appraiser to represent them. The two appraisers will attempt to settle the dispute.If unable to settle the dispute an umpire will adjudicate.
+
+33. [CARD-0033] (card sharp qa.txt)
+The belief that one who maintains a dangerous condition which is likely to attract children on their property is under duty to post a warning or take affirmative action to protect children from the dangers of that attraction.
+
+34. [CARD-0034] (card sharp qa.txt)
+an improvement to property that puts it in better condition than it was before the occupancy or loss.
+
+35. [CARD-0035] (card sharp qa.txt)
+A failure to comply with terms and conditions of an insurance policy that may result in restricted coverage or void the policy
+
+36. [CARD-0036] (card sharp qa.txt)
+Bodily harm, sickness, or disease
+
+37. [CARD-0037] (card sharp qa.txt)
+The party that makes a claim
+
+38. [CARD-0038] (card sharp qa.txt)
+A severe disaster that involves a large population and normally generates a large amount of property damage and/or bodily injury
+
+39. [CARD-0039] (card sharp qa.txt)
+A provision requiring a specified amount of insurance based upon the value of the insured property.
+
+an agreement between an insurance company and a business owner to share the cost of a claim
+
+40. [CARD-0040] (card sharp qa.txt)
+Coverage that pays for the damage to your car without regard to who caused the accident. Applies to car collisions or collisions with other objects.
+
+41. [CARD-0041] (card sharp qa.txt)
+Provides commercial general liability coverage, including premise and operations, products and completed operations, and other liability options.
+
+42. [CARD-0042] (card sharp qa.txt)
+Auto coverage that pays for damage or loss from causes other than an accident. I.e. flood, hail, vandalism, fire, and theft
+
+43. [CARD-0043] (card sharp qa.txt)
+The act of purposely not reporting information that would affect the issuance or rate of an insurance contract. Concealment can give the insurer grounds to nullify the contract or not pay out a claim.
+
+44. [CARD-0044] (card sharp qa.txt)
+The insurance theory stating that if loss or damage is a result of more than one cause, one of which is covered while the other is not, the damages are still likely to be covered by the insurer.
+
+45. [CARD-0045] (card sharp qa.txt)
+The part of the insurance policy that details the rights and duties of the insured and the insurance company in the policy
+
+46. [CARD-0046] (card sharp qa.txt)
+The amount claimed by or awarded to an injured party as compensation for liability owing to bodily injury or property damage.
+
+47. [CARD-0047] (card sharp qa.txt)
+The part of the written insurance policy that states all of the policy’s specifics, including the name of the policy holder, the type of properties insured, the terms, and the term limits for the coverage.
+
+48. [CARD-0048] (card sharp qa.txt)
+The act of lowering an item’s value due to use or wear and tear, based upon age, condition, and life expectancy.
+
+49. [CARD-0049] (card sharp qa.txt)
+A specific addition to a policy that alters the coverage and therefore the price of a policy. They can either add or remove specific types of coverage.
+
+50. [CARD-0050] (card sharp qa.txt)
+Provision in a policy that indicates what is denied coverage. I.e. wear and tear, rust, rot, contamination, and mechanical break down.
+
+51. [CARD-0051] (card sharp qa.txt)
+The date at which a policy expires.
+
+52. [CARD-0052] (card sharp qa.txt)
+The measure of probability of loss
+
+53. [CARD-0053] (card sharp qa.txt)
+Any intentional lying or misinformation by the policy holder or claim adjuster in order to inflate a claims payment or receive a claims payment that would otherwise not be paid.
+
+54. [CARD-0054] (card sharp qa.txt)
+Expenses that have already been sustained and that have not yet been paid. An additional living expense claim is a reimbursement of incurred expenses.
+
+55. [CARD-0055] (card sharp qa.txt)
+The party to an insurance agreement that has insurable interest in the property that is being insured. A loss payee or lienholder can be considered an insured.
+
+56. [CARD-0056] (card sharp qa.txt)
+The insurance company.
+
+57. [CARD-0057] (card sharp qa.txt)
+The insured history of loss claims with other insurance companies or the company they are currently with. Loss history is an indicator of the propensity of the insured to file a loss claim.
+
+58. [CARD-0058] (card sharp qa.txt)
+The party to whom money or insurance proceeds is paid to in the event of a loss. A mortgage company and a lien holder are examples of a loss payee.
+
+59. [CARD-0059] (card sharp qa.txt)
+A significant misstatement in an application form. If a company had access to the correct information at the time of the application it may not have agreed to the application.
+
+60. [CARD-0060] (card sharp qa.txt)
+Coverage on property only
+
+61. [CARD-0061] (card sharp qa.txt)
+The decision by the insurance company to not renew a policy.
+
+62. [CARD-0062] (card sharp qa.txt)
+A notice required by an insurance company immediately after an accident. Part of the standard provisions defining a policy holder’s responsibilities after a loss.
+
+63. [CARD-0063] (card sharp qa.txt)
+An event that results in an insured loss which results in bodily injury or damages.
+
+64. [CARD-0064] (card sharp qa.txt)
+The amount of money that is dedicated to a general contractor’s cost of doing business and earning a profit. The insurance standard is 10% overhead and 10% profit. Usually added on a loss that involves at least three trades and the repair process requires coordination by a general contractor.
+
+65. [CARD-0065] (card sharp qa.txt)
+Insurance protection for individuals and families, such as homeowners and auto insurance policies.
+
+66. [CARD-0066] (card sharp qa.txt)
+The period a policy is in force from the beginning of the effective date to the expiration date.
+
+67. [CARD-0067] (card sharp qa.txt)
+Amount of money paid by the insured to obtain or maintain an insurance policy
+
+68. [CARD-0068] (card sharp qa.txt)
+A company’s best estimate as to what it will pay for a claim. The amount representing actual or potential liabilities kept by an insurer to cover debts to policyholders.
+
+69. [CARD-0069] (card sharp qa.txt)
+The leftover value of a claim when an insurance company recovers and sells property to reduce its financial loss.
+
+70. [CARD-0070] (card sharp qa.txt)
+The legal process by which an insurance company, after paying a loss, seeks to recover the amount of the loss from another party who is found to be legally liable for the loss.
+
+71. [CARD-0071] (card sharp qa.txt)
+A situation in which property is damaged and the cost of repair and salvage exceeds the value of the property.
+
+72. [CARD-0072] (card sharp qa.txt)
+Refers to a liability insurance policy that protects the assets and future income of the name insured in addition to his or her primary policies.
+
+73. [CARD-0073] (card sharp qa.txt)
+A person hired by two appraisers during the appraisal process to make the final determination as to the value of or extent of damage of the property in question.
+
+74. [CARD-0074] (card sharp qa.txt)
+Inadequate insurance coverage by the policyholder.
+
+75. [CARD-0075] (card sharp qa.txt)
+An automobile policy option which covers one for property damage and bodily injury caused by another motorist who does not carry liability insurance.
+
+76. [CARD-0076] (card sharp qa.txt)
+The condition of a property that is not being occupied or containing furnishings.
+
+77. [CARD-0077] (card sharp qa.txt)
+willful intent to cause damage or destruction to property
+
+78. [CARD-0078] (card sharp qa.txt)
+Offer and Acceptance
+    Competent Parties
+    Legal Object
+    Consideration
+
+79. [CARD-0079] (card sharp qa.txt)
+1 of 4 requirements for a contract to be legal and enforceable.
+
+An offer must be made by one party and communicated to the other party. With an insurance contract, the offer typically comes from the applicant (insured) with a submission of an application for coverage. The insurer then accepts, rejects, or makes a counter offer (by modifying the terms of the policy). When the offer has been accepted an agreement has been reached.
+
+80. [CARD-0080] (card sharp qa.txt)
+1 of 4 requirements for a contract to be legal and enforceable.
+
+For a contract to be legal and enforceable, it must involve competent parties.
+
+81. [CARD-0081] (card sharp qa.txt)
+1 of 4 requirements for a contract to be legal and enforceable.
+
+To be legal, a contract must be drawn for a legal purpose and not against public policy.
+
+82. [CARD-0082] (card sharp qa.txt)
+1 of 4 requirements for a contract to be legal and enforceable.
+
+Each contract must be characterized by a mutual giving and taking of something by each party. A valuable consideration is required to bind insurance coverage. Within insurance terms the insured’s consideration is the premium paid for coverage and the insurer’s consideration is the promise to pay for a loss caused by a covered peril.
+
+83. [CARD-0083] (card sharp qa.txt)
+The insurance policy is unilateral in that it can be enforced by only one party. The company cannot force premium payments, but the insured can enforce the contract if all premiums are paid and a valid claim is presented.
+
+84. [CARD-0084] (card sharp qa.txt)
+The insurance contract is an adhesion contract and must be accepted by the insured as written by the company.
+
+    The courts interpret any ambiguities in favor of the insured, the one who did not write the contract
+    The doctrine of Reasonable Expectations states that a policy must be interpreted in the way that an average person would reasonably expect it to be interpreted
+
+85. [CARD-0085] (card sharp qa.txt)
+As an aleatory contract, the contract is valid even though they are unequal exchanges. For example the insured might pay $100 for $100,000 of coverage.
+
+86. [CARD-0086] (card sharp qa.txt)
+A valued contract states the amount to be paid in the event of a covered loss.
+
+87. [CARD-0087] (card sharp qa.txt)
+This type of contract insures the person who owns the property, not the property itself.
+
+88. [CARD-0088] (card sharp qa.txt)
+The conditional contract includes a number of conditions with which both the insured and the insurer must comply.
+
+89. [CARD-0089] (card sharp qa.txt)
+Declarations
+    Insuring Agreement
+    Conditions
+    Exclusions
+
+90. [CARD-0090] (card sharp qa.txt)
+1 of 4 parts of an Insurance Contract
+
+This section personalizes the policy for the insured. It consists of the information to identify the insured and the risk(s) to be covered. The personalized part of the policy includes:
+
+  Named Insured
+   Insurer
+   Policy number
+   Policy term
+   Coverage limits
+   Premium amount
+   Object, Property, or Person Insured
+
+91. [CARD-0091] (card sharp qa.txt)
+1 of 4 parts of an Insurance Contract
+
+This section describes the coverage provided by the insurer.It may also specify the perils covered by the policy.
+
+92. [CARD-0092] (card sharp qa.txt)
+1 of 4 parts of and Insurance Contract
+
+The obligations or duties of each party to the contract. Failure to comply with these conditions may prevent or delay payment of a loss.
+
+93. [CARD-0093] (card sharp qa.txt)
+1 of 4 parts of an Insurance Contract
+
+Exclusions modify the policy insurance agreement to eliminate uninsurable perils or other coverages not contemplated by the TOC (terms of contract). Exclusions also prevent duplication of coverage and tailor the coverage to meet the unique insured’s needs. Coverage excluded in most property contracts involve losses due to war, flood, and earth movement.
+
+94. [CARD-0094] (card sharp qa.txt)
+Endorsements are attached to policies to amend coverage (usually to add or remove coverage) The availability of endorsements permits the insured and insurers to effect changes in coverage.
+
+95. [CARD-0095] (card sharp qa.txt)
+The policy definitions section clearly defines important terms referenced in an insurance agreement and other sections of a policy.
+
+96. [CARD-0096] (card sharp qa.txt)
+The insured or the policy holder, is the person, business, or other entity whose interest is protected in the policy.
+
+a. The name insured is the person, business, or other entity named in the declarations to which the policy is issued
+b. The first name insured, generally found in commercial policies, is the first person listed in the declarations, and has the highest level of duties or rights under the policy
+c. The additional insured is an individual or company, in addition to the insured, who is listed in the declarations and has an insurable interest in the property insured
+
+97. [CARD-0097] (card sharp qa.txt)
+The date and time specified in the declarations at which coverage begins and ends.
+
+98. [CARD-0098] (card sharp qa.txt)
+identifies the place when coverage under a policy applies
+
+99. [CARD-0099] (card sharp qa.txt)
+These coverages apply only in certain circumstances, have reduced or separate limits of liability, or require the insured to meet certain requirements before they are applicable.
+
+100. [CARD-0100] (card sharp qa.txt)
+The standard mortgage , or loss payable, clause specifies the rights and duties of the mortgagee or loss payee under the policy. E.x. the mortgagee may be expected to pay the premium if the insured fails to do so
+
+No benefit to bailee ( a person or organization that has temporary possession of someone else’s property) is a condition that states that the bailee is not covered under the insured’s policy while the bailee has possession of the insured’s property.
+
+101. [CARD-0101] (card sharp qa.txt)
+included in a policy to extend coverage beyond the policy limits of liability. E.x. an automobile policy has a transportation expense extension that pays for the temporary transportation costs over and above the policy limits or coverage.
+
+102. [CARD-0102] (card sharp qa.txt)
+demonstrated when an insurance company must rely on the honesty and cooperation of the insured and vis-a-versa.
+
+103. [CARD-0103] (card sharp qa.txt)
+Because insurance policies are ambiguous and difficult for the average person to understand the reasonable expectations of an insured regarding the TOPolicy will be honored even if the policy states otherwise. This principle protects the insured from technical language, hidden provisions, and confusing language.
+
+104. [CARD-0104] (card sharp qa.txt)
+Oral or written statements made by an individual seeking to enter a contract. They are substantially true to the best knowledge of the party making them. Unless they are fraudulent of material, misrepresentations cannot void a contract. A misstatement would be considered material if the insurer would not have issued the contract if correct information had been known at the time of application.
+
+105. [CARD-0105] (card sharp qa.txt)
+Statements made by the aplicee regarding the nature of the risk to be insured. Answers to specific questions on the application are considered warranties. Unlike representations if warranted statements are found to be false, they cause the policy to be voided by the insurer.
+
+The basic difference between a warranty and a representation is that a warranty is part of the contract itself and must be strictly complied with: a representation is usually an incidental statement preceding the formation of a contract and not actually part of it.
+
+Because a warranty is guaranteed to be true, it establishes some restrictions concerning the liability of the insurer if the warranted act fails to take place. E.x An insured warrants that a burglar alarm will always be operational, and coverage is granted on the basis of this fact. If, following a loss, it is determined that the alarm was not operational the insurer may suspend or refuse coverage because the warranty was breached.
+
+106. [CARD-0106] (card sharp qa.txt)
+Neither party may conceal facts that would have affected the formation of the contract. The doctrine prohibiting concealment requires the insured to disclose to the insurer all material facts pertaining to the risk. If material information is concealed, the insurer may void the contract.
+
+107. [CARD-0107] (card sharp qa.txt)
+The intentional misrepresentation of a material fact that may void a contract.
+
+108. [CARD-0108] (card sharp qa.txt)
+the intentional relinquishment of a known right by the insurance company or agent upon which the insured relies. E.x. a claim representative may overlook a policy exclusion that would normally be grounds to deny a claim, thereby waiving the policy exclusion
+
+109. [CARD-0109] (card sharp qa.txt)
+the intentional or unintentional impression by the insurance company that a certain fact exists when it does not. If the insured relies on that fact and is damaged as a result, the company is estopped from denying the claim.
+
+110. [CARD-0110] (card sharp qa.txt)
+a temporary contract pending issue of a policy. It is subject to the terms of the contract to be written later. A binder may be oral or written. The time period for written binders is usually 30 days but rarely more than 60 days.
+
+Binders may usually be canceled by the company or agent two business with two business days notice
+
+Binders cease automatically once the policy is written or declined
+
+Binding authority is granted to an agent through the agency contract with an insurer. E.x. if an agent verbally agrees to a condition a prospect wants, an oral binder has been created subject to the requirements for effect a legal contract
+
+111. [CARD-0111] (card sharp qa.txt)
+an outline or quotation of coverage and premium before any coverage is issued or in force
+
+112. [CARD-0112] (card sharp qa.txt)
+Actuarial
+    Sales/Marketing
+    Underwriting
+    Claims
+    Investment
+    Accounting
+    Legal
+
+113. [CARD-0113] (card sharp qa.txt)
+1 of 6 parts of an Insurance Company
+
+
+chapter 2 
+
+
+
+
+Risk Management
+
+Review: Multiple answer markers in source fragment; inspect original
+
+114. [CARD-0114] (card sharp qa.txt)
+Insurance protects people and businesses against certain losses by transferring the risk from individuals to a group.
+
+115. [CARD-0115] (card sharp qa.txt)
+The chance of financial loss, or the uncertainty of loss
+
+116. [CARD-0116] (card sharp qa.txt)
+Pure risk
+
+Speculative risk
+
+117. [CARD-0117] (card sharp qa.txt)
+Exists when only the chance of loss is present without the potential for a financial gain.
+Only pure risk is insurable
+
+118. [CARD-0118] (card sharp qa.txt)
+When a chance is taken that may result in a financial gain such as gambling or the stock market.
+
+119. [CARD-0119] (card sharp qa.txt)
+Any condition that increases the chance of loss or increases the frequency or severity of loss
+
+120. [CARD-0120] (card sharp qa.txt)
+The possibility of a loss caused by surroundings
+
+121. [CARD-0121] (card sharp qa.txt)
+The event that causes a loss such as a fire, lightning or windstorm
+
+122. [CARD-0122] (card sharp qa.txt)
+The reduction in the value of an asset and the financial consequences of a reduction in value of an asset.
+
+123. [CARD-0123] (card sharp qa.txt)
+Direct
+
+Indirect
+
+124. [CARD-0124] (card sharp qa.txt)
+A loss incurred as a direct result of a peril
+
+An example is a house destroyed by a fire, the house would be a direct loss
+
+125. [CARD-0125] (card sharp qa.txt)
+Any loss that is a consequence of a direct loss.
+Consequential loss
+Example is after a house is destroyed in a fire, the owner will have additional expenses such as hotel and eating at restaurants while house is being repaired.
+
+126. [CARD-0126] (card sharp qa.txt)
+STARR
+Sharing - sharing exposure to a loss with another person or organization
+Transfer - transferring financial impact of a loss to another party (insurance)
+Avoidance - eliminating the risk
+Retention - absorbing all or part of risk involved with a particular exposure
+Reduction - reducing the severity of losses that do occur
+
+127. [CARD-0127] (card sharp qa.txt)
+Independence
+Definiteness
+Calculability
+Accidental
+
+128. [CARD-0128] (card sharp qa.txt)
+A loss must be a random event over which the insured has no control.
+Intentional losses are excluded.
+
+129. [CARD-0129] (card sharp qa.txt)
+The greater the numbers, the more accurate the statistics will be that permit an insurer to predict frequency and severity of losses and calculate a premium to spread the cost of risk among all policyholders.
+
+130. [CARD-0130] (card sharp qa.txt)
+Safety net
+Insurance on insurance
+Allows an insurance company to sell part of the risk they have assumed from a policyholder and thereby write more insurance and protect the company from any large losses it would not be able to handle on its own.
+
+131. [CARD-0131] (card sharp qa.txt)
+Insurance companies owned by stockholders.
+Charge non-assessable fixed premiums.
+If company creates a profit, they may pay stockholders through dividends.
+
+132. [CARD-0132] (card sharp qa.txt)
+Insurance company owned by the policyholders.
+Can pay dividends to policyholders when it makes a profit.
+Can assess policyholders to obtain additional funds to keep company solvent.
+
+133. [CARD-0133] (card sharp qa.txt)
+County Mutual Companies
+Farm Mutual Companies
+Reciprocal Exchanges
+Risk Retention Groups
+Purchasing Groups
+Lloyds Plan
+
+134. [CARD-0134] (card sharp qa.txt)
+Some companies choose to self-insure rather than pay premium to an insurance company.
+They take risk on themselves.
+
+135. [CARD-0135] (card sharp qa.txt)
+Most insurance is through private insurers
+Some insurance can only be purchased through the federal government because private insurers do not want to take on higher risks. Flood insurance is an example of government insurers.
+
+136. [CARD-0136] (card sharp qa.txt)
+Admitted company
+Meets minimum requirements of financial strength and licensing.
+Has a certificate of authority.
+24
+
+Unauthorized Insurers
+
+Not regulated
+Non-admitted
+Surplus lines
+Study These Flashcards
+25
+
+Domestic Insurer
+
+Organized under the laws of a particular state where it is housed or domiciled.
+GEICO is based in DC, therefore in DC it is considered a domestic insurer
+Study These Flashcards
+26
+
+Foreign Insurer
+
+Organized under laws of some other state within the United States
+Study These Flashcards
+27
+
+Alien Insurer
+
+Organized under the laws of a county other than the United States.
+Study These Flashcards
+28
+
+Responsibilities to Insurer
+
+An agent has a fiduciary responsibility which requires a higher degree of care.
+Study These Flashcards
+29
+
+What may you be held liable for?
+
+Making mistakes
+Failure to follow company instructions
+Failure to disclose information
+Delay in forwarding information
+Exceeding the express or implied authority given by a company.
+
+Study These Flashcards
+30
+
+What items can an agent be reprimanded for in not taking care of the insured?
+
+Misrepresenting insurance coverage 
+Failure to procure insurance
+Procurement of inadequate coverage
+Failure to inform insured of renewal
+Failure to investigate an insurer's financial solvency
+
+Study These Flashcards
+31
+
+Law of Agency
+
+Agents or producers represent an insurance company or insurer and usually hold a contract with that company.
+
+Independent - usually represents several insurance companies on a commission basis
+Study These Flashcards
+32
+
+Express Authority
+
+Derived from a written or oral contract between the agent and the insurance company.
+Describes rights and responsibilities.
+Issuing of binder
+Study These Flashcards
+33
+
+Implied Authority
+
+Arises out of an agent's express authority. This authority is what the agent assumes based on what he/she has been told.
+Advertising for the purpose of selling policies or collecting premiums.
+Study These Flashcards
+34
+
+4 Elements of a Legal Contract
+
+Consideration - both parties must assume some sort of responsibility
+
+Legal Purpose - cannot be used for illegal or immoral purpose
+
+Agreement - offer and acceptance. When an applicant for insurance submits an application, this is an offer. The insurance company has the right to either accept or deny the offer which is binding on both parties.
+
+Competent Parties - the incompetence of either party can void coverage.
+Study These Flashcards
+35
+
+Is a binder true acceptance.
+
+A binder is not true acceptance.
+Study These Flashcards
+36
+
+Contract of Adhesion
+
+A term descriptive of a standard form printed contract prepared by one party on a take it or leave it basis.
+Ambiguous language is always found in favor of the insured.
+Study These Flashcards
+37
+
+Aleatory Contract
+
+Equal value is not paid by each party. The premium paid does not equal the recovery amount in the event of a loss.
+Study These Flashcards
+38
+
+Personal Contract
+
+The insurer and the policyholder both consider the credit, conduct and character of the other.
+Study These Flashcards
+39
+
+Unilateral Contract
+
+A contract in which only one party makes an enforceable promise.
+The insured pays a premium to the insurance company based on the insurance company's promise to lay in the event of a loss.
+Study These Flashcards
+40
+
+Conditional Contract
+
+In the event of loss, both parties must still perform certain acts to make the contract legally enforceable.
+Study These Flashcards
+41
+
+Indemnity
+
+Basis of most insurance contracts.
+Placing insured back at the same financial position prior to the loss.
+It's unjust for the insured to make a profit from insurance.
+It's unfair for the insurer not to restore the insured to same financial position they were at prior to loss.
+Study These Flashcards
+42
+
+Utmost Good Faith
+
+Regardless of circumstances, each party in contract will assume the other is acting truthfully or in utmost good faith.
+Study These Flashcards
+43
+
+Representations
+
+Statements made by applicant to the insurance company during the process of obtaining a policy.
+Allow insurance company to evaluate risk.
+If representation is untrue, this becomes a misrepresentation.
+Study These Flashcards
+44
+
+Concealment
+
+Failure to disclose a known truth.
+Hiding truth can have same consequences as lying.
+Omission
+Study These Flashcards
+45
+
+Fraud
+
+An intentional perversion of the truth for the purpose of inducing an insurance company to accept an application or pay a claim.
+Misrepresentation or concealment.
+Study These Flashcards
+46
+
+Warranties
+
+Stipulations in the insurance contract that if breeched, may void the contract.
+Absolute rules.
+Study These Flashcards
+47
+
+Waiver and Estoppel
+
+Waiver is the relinquishment of a known right.
+Estoppel is the result of that waiver.
+
+For example if we waive a recorded statement, we cannot later ask for a recorded statement.
+Study These Flashcards
+
+chapter 3
+
+137. [CARD-0137] (ch6-10.txt)
+Hazard recognition and evaluation, risk selection, pricing and determination of policy terms and conditions.
+
+138. [CARD-0138] (ch6-10.txt)
+The insured must have a financial interest (ownership either full or partial) in the subject of the insurance.
+Insurable interest must exist at the time of the loss for the insurance to apply.
+
+139. [CARD-0139] (ch6-10.txt)
+The percent of premiums used to pay claims.
+Is determined by dividing the losses by earned premium.
+Don’t pay out more than you take in.
+
+140. [CARD-0140] (ch6-10.txt)
+What is charged.
+Rates reflect the price of the insurance for each unit of exposure.
+State insurance laws prohibit rates which are excessive to consumers, inadequate to insurers or unfairly discriminatory to consumers.
+
+141. [CARD-0141] (ch6-10.txt)
+Class
+Rates that apply to all members of a wide group of consumers having similar exposures.
+Since risks are similar, these rates can be developed using statistics.
+
+Judgement
+Rates that are particularly or exclusively based on judgement. They are developed when there are no distinguishable classes that are similar enough to establish rates based on statistics.
+Surplus lines
+
+142. [CARD-0142] (ch6-10.txt)
+Independent filings - Other companies prefer to make their own rate filings
+
+Deviate filings - companies charging higher or lower rates than the recommended benchmark rates.
+
+143. [CARD-0143] (ch6-10.txt)
+Any condition that increases the chance of a loss or increases the frequency or severity of loss
+
+144. [CARD-0144] (ch6-10.txt)
+Physical - something that can be seen, touched or felt that increases the probability or severity of a loss.
+
+Moral - is a subjective characteristic of an insured person and is usually based on past actions that may tend to increase the probability or severity of a loss.
+
+Morale - is a characteristic of an insured based on their present actions that display an indifferent or “I don’t care attitude”.
+
+145. [CARD-0145] (ch6-10.txt)
+Something that can be seen, touched or felt that increases the probability or severity of loss.
+Example is storing gasoline next to workstation.
+
+146. [CARD-0146] (ch6-10.txt)
+Is a subjective characteristic of an insured person and is usually based on past actions that may tend to increase the probability or severity of a loss.
+
+Example is someone who has arson convictions and is looking for property insurance.
+
+147. [CARD-0147] (ch6-10.txt)
+Is a characteristic of an insured based on their present actions that display an indifferent or “I don’t care attitude”.
+
+Example is someone who doesn’t take care of their property after getting a homeowner policy.
+
+148. [CARD-0148] (ch6-10.txt)
+Protects the insured for direct loses to the property they own.
+Protects:
+Real property - land, buildings, and other property attached to it
+Personal property - contents of a dwelling or an auto
+
+149. [CARD-0149] (ch6-10.txt)
+Protects the policyholder for injuries or damages the policyholder is legally liable for.
+
+150. [CARD-0150] (ch6-10.txt)
+Any wrongful act committed by one party against another, other than a crime or breach of contract.
+Is based on common lass and determines responsibility for injury or damage.
+Determined negligence.
+
+151. [CARD-0151] (ch6-10.txt)
+Failure to exercise the standard care required by law to protect others from harm.
+Failure to do what reasonable or prudent person would of done in the same situation.
+
+152. [CARD-0152] (ch6-10.txt)
+Existence of a legal duty to act or a standard of care
+    The failure to perform a legal duty
+    Actual damages or injuries are sustained
+    Proximate Cuase
+
+153. [CARD-0153] (ch6-10.txt)
+The amount of reduction in the value of the insured’s property caused by an insured peril.
+The amount sought through an insured claim.
+The amount paid on behalf of an insured under an insurance contract.
+
+154. [CARD-0154] (ch6-10.txt)
+Where there is an unbroken connection between the peril and the loss without the intervention of a new and independent cause.
+
+155. [CARD-0155] (ch6-10.txt)
+Caused by a peril after, or as the result of an intentional peril.
+A fire after an earthquake.
+
+If their is an initial peril that is not covered, but results in a second peril that is covered, we cover the whole thing.
+
+156. [CARD-0156] (ch6-10.txt)
+A person may not recover for an injury received when he voluntarily exposes him/herself to a known and present danger.
+
+157. [CARD-0157] (ch6-10.txt)
+Based on a percentage of liability.
+Permits a person to recover damages even thought he/she contributed to the accident. May recover damages as long as the negligence is 49% or less.
+Texas is a comparative negligence state.
+
+158. [CARD-0158] (ch6-10.txt)
+A person cannot recover from other party of that person contributed in any way to the accident.
+
+159. [CARD-0159] (ch6-10.txt)
+An independent cause of injury or damage that intervenes between the original wrongful act or omission and produces a result that would not have otherwise followed.
+
+160. [CARD-0160] (ch6-10.txt)
+2 yeas and 1 day for most policies.
+24
+
+Compensatory Damages
+
+A combination of special and general damages and are designed to compensate an individual.
+25
+
+Special Damages
+
+May be awarded for itemized losses such as medical bills, loss of earnings, and property damage.
+26
+
+General Damages
+
+Awarded for damages that cannot be specifically itemized such as pain and suffering.
+27
+
+Punitive Damages
+
+Awarded in cases of gross negligence and are intended to punish the wrongdoer for their reckless disregard for the safety of others.
+28
+
+Absolute (strict) liability
+
+Certain activities impose liability without regard to fault or negligence.
+Normally involve extra-hazardous situations where he person must use a certain standard of care that prevents the possibility of harm to others.
+Dangerous animals, explosives, aircraft and intentionally setting fires.
+29
+
+Vicarious Liability
+
+Liability imposed on one party as a result of the actions of another.
+
+Parents responsible for actions of children
+Employers responsible for actions of employees
+30
+
+Split Limits
+
+Separate limits apply to bodily injury (BI) and property damage (PD)
+Bodily injury is subject to per person maximums as well as per occurrence maximums.
+31
+
+The difference between accident and occurrence
+
+An accident is a single event, normally sudden and unexpected in nature.
+
+An occurrence is a single event that can occur over a period of time (workers compensation)
+
+An occurrence can be an accident, an accident cannot be an occurrence.
+32
+
+Combined Single Limits
+
+A single limit applies to both bodily injury and property damage arising from a single accident.
+Usually found in commercial auto insurance and homeowners.
+33
+
+Aggregate Limit
+
+The maximum amount that would be paid during a policy term for all damages arising out of one or more occurrences.
+Only found in commercial lines of insurance.
+34
+
+Peril
+
+Any event that causes a loss.
+Loss and peril are interchangeable.
+Fire, lightning, windstorm
+35
+
+Friendly fire
+
+A fire that stays within its boundaries and is under control such as a fire in a fireplace.
+36
+
+Hostile fire
+
+A fire that is out of any boundary and out of control such as a forest fire.
+37
+
+Extended Coverage Perils
+
+REV C. H. SHAW
+
+Riot
+Explosion
+Vehicle
+Civil Commotion
+Hail
+Smoke
+Hurricane
+Airplane
+Windstorm
+
+chapter 6 
+
+
+
+When must motor vehicle owners show proof of financial responsibility?
+
+Review: Multiple answer markers in source fragment; inspect original
+
+161. [CARD-0161] (ch6-10.txt)
+Requires all owners of motor vehicles to prove financial responsibility in the event of an accident.
+Law requires owners to maintain limits of 30/60/25 or 85 for a combined single limit.
+
+Insurance companies provide ID cards to show this proof.
+
+Surety bonds, self-insurance certificate issued by the DPS or State Treasurer or a deposit of cash in the amount of $85,000.
+
+162. [CARD-0162] (ch6-10.txt)
+Usually required for no insurance or DWI violations.
+
+A document that the insurance company files with the state to provide proof that a operator has insurance.
+
+If the policy is canceled, the insurance company must notify the state. The state responds by suspending the operators driving license.
+
+163. [CARD-0163] (ch6-10.txt)
+Assigned risk
+
+Provides insurance to those who in good faith are entitled to automobile liability insurance, but are unable to obtain it through authorized insurance carriers.
+Individuals must have been rejected by at least 2 insurance companies in the voluntary market.
+
+Insurers are only required to write he following min/max limits of liability:
+30/60 BI
+25 PD
+2.5 PIP per person
+30/60 uninsured motorist BI
+25 uninsured motorist PD
+
+Rate are higher than voluntary market.
+
+164. [CARD-0164] (ch6-10.txt)
+identifies the insured
+Describes the insured auto(s)
+Lists attached endorsements
+Summarizes coverages, limits and premiums
+Other items are the insurer, policy number and policy period
+
+165. [CARD-0165] (ch6-10.txt)
+Clarifies terms used in the policy to ensure the policy is not ambiguous.
+
+166. [CARD-0166] (ch6-10.txt)
+Includes spouse, if a resident relative
+
+167. [CARD-0167] (ch6-10.txt)
+A person related by blood, marriage, or adoption who lives in the household.
+
+168. [CARD-0168] (ch6-10.txt)
+In, upon, getting in, out, on or off the auto
+
+169. [CARD-0169] (ch6-10.txt)
+A vehicle designed to be pulled by a covered auto
+
+170. [CARD-0170] (ch6-10.txt)
+Vehicle(s) listed in the decorations
+    Trailer(s) owned by the insured
+    Newly acquired additional vehicle (automatic coverage for 30 days with the broadest coverage currently listed on the declarations)
+    Newly acquired replacement vehicle (all liability coverages are automatic for remainder policy period. Physical damage coverages have a 30 day limit)
+    Vehicle or trailer used as a temporary substitute due to breakdown, repair, servicing, or loss of covered auto (borrowed vehicle or rented car)
+
+171. [CARD-0171] (ch6-10.txt)
+Vehicle owned by insured, spouse, co-owned with a resident relative, or a long term lease
+
+172. [CARD-0172] (ch6-10.txt)
+A vehicle owned (titled) by someone else, but used by our insured within the scope of the owner’s permission and. It used by our insured on a regular basis.
+
+173. [CARD-0173] (ch6-10.txt)
+A vehicle that takes the place of the insured’s regular auto when it is disabled.
+
+174. [CARD-0174] (ch6-10.txt)
+Liability coverages apply if a covered person becomes legally responsible for bodily injury or property damage as the result of an auto accident.
+
+Does NOT cover the insured.
+
+175. [CARD-0175] (ch6-10.txt)
+Named insured, resident spouse, and resident family members
+
+Any person who has a reasonable belief they have permission
+
+176. [CARD-0176] (ch6-10.txt)
+Intentional injury
+    Property damage to property in the care, custody or of the insured with the exception of damage to a landlord’s residence garage or non-owned auto used by a covered person such as a rental car or borrowed vehicle.
+    Injury to a employee with the exception of a domestic employee
+    Vehicles with less than four wheels
+    Owned vehicles not listed on the policy and owned for more than 30 days
+    Used for business purposes unless listed on policy
+    Racing
+
+177. [CARD-0177] (ch6-10.txt)
+Paid in addition to the limits of liability.
+Some of these benefits are:
+Defense costs
+Premium on bonds
+$200 per day for loss earnings of the insured is required to appear in court.
+
+178. [CARD-0178] (ch6-10.txt)
+If a covered auto is operated out of state, the PAP automatically provides the minimum liability requirements for that particular state.
+
+Liability limits will never decrease, can only increase.
+
+179. [CARD-0179] (ch6-10.txt)
+Provides for medical and funeral expenses for the insured, family members, and passengers while occupying a motor vehicle or as a pedestrian when struck by a vehicle.
+Must file claim within 3 years from date of accident.
+Minimum coverage is $500 and is applied on a per person basis.
+
+180. [CARD-0180] (ch6-10.txt)
+Benefits to covered persons in a vehicle or as a pedestrian, including passengers within the insured vehicle without regard to fault or negligence. Coverage is provided on a per person basis for:
+
+    Medical, rehabilitation or funeral expenses incurred with 3 years of the accident
+    80% of actual income lost if an income producer or reimbursement of essential services usually performed by the injured person if they are not an income producer.
+
+181. [CARD-0181] (ch6-10.txt)
+Insurance companies must offer PIP on Personal Auto Policies (PAP).
+Must sign a option form to not have it.
+
+
+ch mid 
+
+
+
+What is a hazard?
+
+Review: Multiple answer markers in source fragment; inspect original
+
+182. [CARD-0182] (ch6-10.txt)
+Protection against certain losses by transferring risks from individuals to a group
+
+183. [CARD-0183] (ch6-10.txt)
+Replacement value - depreciation
+
+184. [CARD-0184] (ch6-10.txt)
+Covers all perils except those excluded
+
+185. [CARD-0185] (ch6-10.txt)
+Only covers perils listed in policy
+
+186. [CARD-0186] (ch6-10.txt)
+Definitions section of policy
+
+187. [CARD-0187] (ch6-10.txt)
+Decelerations section of policy
+
+188. [CARD-0188] (ch6-10.txt)
+The insuring agreement section of policy
+
+189. [CARD-0189] (ch6-10.txt)
+Exclusions section of policy
+
+190. [CARD-0190] (ch6-10.txt)
+A financial interest or ownership at the time of loss
+
+191. [CARD-0191] (ch6-10.txt)
+Consideration
+Legal purpose
+Agreement
+Competent parties
+
+192. [CARD-0192] (ch6-10.txt)
+Offer is when the person submits the application
+
+Acceptance is when the insurance company offers a policy
+
+193. [CARD-0193] (ch6-10.txt)
+PIP and Uninsured
+
+194. [CARD-0194] (ch6-10.txt)
+Comprehensive
+
+195. [CARD-0195] (ch6-10.txt)
+Medical pays $500, does not cover lost income
+PIP pays $2,500 80% of actual income lost or reimbursement of essential services
+
+Both are per person and 3 year time limit to report
+
+196. [CARD-0196] (ch6-10.txt)
+Newly acquired replacement vehicle - the most broadest coverage transfers for 30 days then drops to liability
+
+New acquired additional vehicle, no coverage after 30 days
+
+197. [CARD-0197] (ch6-10.txt)
+PIP/Medical
+
+Uninsured
+
+198. [CARD-0198] (ch6-10.txt)
+Physical damage to property you don’t own but that you have care, custody or control of is covered under this type of policy.
+
+199. [CARD-0199] (ch6-10.txt)
+$250
+
+200. [CARD-0200] (ch6-10.txt)
+Failure to exercise the standard of care required by law to protect others from harm
+
+201. [CARD-0201] (ch6-10.txt)
+Insurance company’s right to go after the truly negligent party after a claim is paid
+
+Prevents someone from being paid by the insurance company and the negligent party.
+
+202. [CARD-0202] (ch6-10.txt)
+An accident is a single event, normally sudden and unexpected
+An occurrence is a single event that can occur over a period of time
+
+
+Texas dwelling 
+
+
+
+
+What are the 3 forms that the Texas Dwelling Policy is available on
+
+Review: Multiple answer markers in source fragment; inspect original
+
+203. [CARD-0203] (ch6-10.txt)
+Covers property only
+    There are no specific coverages for liability
+    Must be owned by the policyholder, but they do not need to occupy the property
+    Is designed for individually owned houses, townhouses, garage apartments, stationary mobile homes
+    Cannot be used for dwellings within 500’ of business operations or more than 50% of the dwelling used for business
+    Cannot be used to cover houseboats, boat docks, boathouses, condos or dwellings under construction
+
+204. [CARD-0204] (ch6-10.txt)
+A - Dwelling
+B - Other Structures 
+C - Personal Property
+D - Fair Rental Value
+E - Additional Living Expense
+
+205. [CARD-0205] (ch6-10.txt)
+Fire/lightning, riot, explosion, vehicle, civil commotion, hail, smoke, hurricane, aircraft, windstorm, vandalism, volcanic eruption.
+
+206. [CARD-0206] (ch6-10.txt)
+Basic
+Fire/lightning, riot, explosion, vehicle, civil commotion, hail, smoke, hurricane, aircraft, windstorm, vandalism, volcanic eruption.
+AND
+Collapse, water damage, freezing (heat must be on), falling objects, weight of ice, sleet or snow, damage by burglars.
+
+207. [CARD-0207] (ch6-10.txt)
+All risks/open for A-Dwelling and B-Other Structures
+
+BROAD for C,D,E
+Basic
+Fire/lightning, riot, explosion, vehicle, civil commotion, hail, smoke, hurricane, aircraft, windstorm, vandalism, volcanic eruption.
+AND
+Collapse, water damage, freezing (heat must be on), falling objects, weight of ice, sleet or snow, damage by burglars.
+
+208. [CARD-0208] (ch6-10.txt)
+A-Dwelling - ACV
+B-Other Structures - ACV
+C-Personal Property - ACV
+D-Fair Rental Value - 20% of coverage A
+
+209. [CARD-0209] (ch6-10.txt)
+A-Dwelling - replacement value
+B-Other Structures - replacement value
+C-Personal Property - ACV
+D-Fair Rental Value - 20% of coverage A
+E-Additional Living Expenses - 20% of coverage A
+
+210. [CARD-0210] (ch6-10.txt)
+A-Dwelling - replacement value
+B-Other Structures - replacement value
+C-Personal Property - ACV
+D-Fair Rental Value - 20% of coverage A
+E-Additional Living Expenses - 20% of coverage A
+
+211. [CARD-0211] (ch6-10.txt)
+Indirect policies always pay 20% on Texas Dwelling Policies
+
+212. [CARD-0212] (ch6-10.txt)
+the dwelling itself
+    materials used to make repairs (bricks, plywood, etc)
+    Maintenance, floor coverings, window shades, refrigerators, stoves and other things provided by the landlord
+
+213. [CARD-0213] (ch6-10.txt)
+Detached garage
+Storage shed
+10% of coverage A
+
+214. [CARD-0214] (ch6-10.txt)
+Personal or business property while on the premises
+    Personal property of guests while on the premises
+    Personal property off the premises (only covered for up to 10% of coverage C/ minimum loss to claim is $1,000). This is for when you take your stuff on vacation
+    Property of others (only covered for up to 10% of Coverage C). This is for when you have custody of someone else’s property and damage it such as borrowing neighbor’s lawnmower and it blowing up
+
+215. [CARD-0215] (ch6-10.txt)
+This is an indirect loss
+
+Loss of rents (if the owner is the landlord) after a covered peril which makes the property uninhabitable during the time of reconstruction.
+
+Maximum limit is 20% of Coverage A
+
+216. [CARD-0216] (ch6-10.txt)
+This is an indirect loss
+
+The insured will be reimbursed for additional expenses incurred due to a covered loss that damages a dwelling to the extent that the dwelling can no longer be used
+
+Cost of a hotel after a fire
+
+Limited to 20% of Coverage A
+
+
+
+hat policy can tenants (renters) and condo owners use?
+
+Review: Multiple answer markers in source fragment; inspect original
+
+217. [CARD-0217] (ch6-10.txt)
+It is a package policy because it has coverages for both property and liability.
+
+To qualify you must own and occupy the premises. You must also intend to reside at the premises within 60 days of the policy effective date
+
+Has the same rule as Texas Dwelling, cannot have more than 50% for a business and cannot be within 500’ of a business.
+
+Cannot be a mobile home
+
+218. [CARD-0218] (ch6-10.txt)
+1% of coverage A
+
+You can select a lower deductible but it will increase the premium.
+
+219. [CARD-0219] (ch6-10.txt)
+1% of Coverage C
+
+220. [CARD-0220] (ch6-10.txt)
+A-Dwelling
+B-Other Structures
+C-Personal Property
+D-Loss of Use
+E-BI & PD
+F-Med Pay
+
+221. [CARD-0221] (ch6-10.txt)
+Is meant for historical or Victorian homes
+
+222. [CARD-0222] (ch6-10.txt)
+Fire/lightning
+Extended coverage perils
+Theft
+Vandalism
+Volcanic eruption (72 hours)
+
+223. [CARD-0223] (ch6-10.txt)
+A-Dwelling - ACV
+    B-Other Structures - ACV
+    C-Contents - ACV
+    D-Loss of Use - 10% of Coverage A
+    E-BI & PD - 100,000 per occurrence
+    F-Med Pay - 1,000 per person
+
+224. [CARD-0224] (ch6-10.txt)
+A-Dwelling - ACV
+    B-Other Structures - ACV
+    C-Contents - ACV
+    D-Loss of Use - 20% of Coverage A
+    E-BI & PD - 100,000 per occurrence
+    F-Med Pay - 1,000 per person
+
+225. [CARD-0225] (ch6-10.txt)
+A-Dwelling - Replacement
+    B-Other Structures - Replacement
+    C-Contents - ACV
+    D-Loss of Use - 20% of Coverage A
+    E-BI & PD - 100,000 per occurrence
+    F-Med Pay - 1,000 per person
+
+226. [CARD-0226] (ch6-10.txt)
+A-Dwelling - Replacement
+    B-Other Structures - Replacement
+    C-Contents - ACV
+    D-Loss of Use - 20% of Coverage A
+    E-BI & PD - 100,000 per occurrence
+    F-Med Pay - 1,000 per person
+
+227. [CARD-0227] (ch6-10.txt)
+Fire/lightning
+Extended coverage perils
+Theft
+Vandalism
+Volcanic eruption
+Falling objects
+Weight of ice, sleet, or snow
+Accidental water discharge
+Electrical current
+
+228. [CARD-0228] (ch6-10.txt)
+Fire/lightning
+Extended coverage perils
+Theft
+Vandalism
+Volcanic eruption
+Falling objects
+Weight of ice, sleet, or snow
+Accidental water discharge
+Electrical current
+
+229. [CARD-0229] (ch6-10.txt)
+Fire/lightning
+Extended coverage perils
+Theft
+Vandalism
+Volcanic eruption
+Falling objects
+Weight of ice, sleet, or snow
+Accidental water discharge
+Electrical current
+
+230. [CARD-0230] (ch6-10.txt)
+All risks for A-Dwelling and B-Other Structures
+
+HO-2 perils for C-Contents and D-Loss of Use
+ Fire/lightning
+Extended coverage perils
+Theft
+Vandalism
+Volcanic eruption
+Falling objects
+Weight of ice, sleet, or snow
+Accidental water discharge
+Electrical current
+
+231. [CARD-0231] (ch6-10.txt)
+All risks
+
+232. [CARD-0232] (ch6-10.txt)
+C-Contents - ACV
+D-Loss of Use
+E-BI & PD - 100,000 per occurrence
+F-Med Pay - 1,000 per person
+
+233. [CARD-0233] (ch6-10.txt)
+A-Dwelling - ACV
+    B-Other Structures - ACV
+    C-Contents - ACV
+    D-Loss of Use
+    E-BI & PD - 100,000 per occurrence
+    F-Med Pay - 1,000 per person
+
+234. [CARD-0234] (ch6-10.txt)
+HO-2, HO-4, HO-6
+
+
+ch7
+
+
+
+
+
+Commercial Package Policy common policy declarations
+
+Review: Multiple answer markers in source fragment; inspect original
+
+235. [CARD-0235] (ch6-10.txt)
+Most common way of insuring commercial properties and liabilities.
+
+Is comprised of any combination of stand-alone policies and covers both property and liability.
+
+236. [CARD-0236] (ch6-10.txt)
+Cancellation/ non-renewal - 10 days new business/ 10 days non-payment / 60 days non-renewal
+    Changes in coverage - all changes in coverage must be done by endorsement
+    Audits & Inspections - gives the insurer the right to gather information necessary to underwrite the policy
+    Premium - the first named insured is responsible for the payment of the premium
+    Assignment - Insurance is not transferable
+
+237. [CARD-0237] (ch6-10.txt)
+A - Bodily Injury and Property Damage
+B - Personal and Advertising Injury
+C - Medical Payments
+
+238. [CARD-0238] (ch6-10.txt)
+Premises & Operations
+
+Products & Completed Operations
+
+239. [CARD-0239] (ch6-10.txt)
+Bodily Injury & Property Damage (BI & PD)
+
+Bodily damage is bodily injury, sickness, disease, or death
+
+Property Damage is physical damage to tangible property, including loss of use
+
+240. [CARD-0240] (ch6-10.txt)
+Personal & Advertising Injury
+
+Personal injury can be libel, slander, false arrest, detention, malicious prosecution, wrongful eviction, wrongful entry, and publication violating privacy
+
+Advertising injury can arise from oral or written publication caused by libel, slander, publicist ion violating privacy, misappropriation of ideas, and copyright or trademark infringement
+
+241. [CARD-0241] (ch6-10.txt)
+Medical Payments
+First aid
+Must incur and be reported within 1 year by individuals injured in the premises of insured or as a result of the insured’s operations.
+
+Limit is $5,000
+
+Is paid without regard to fault or negligence.
+
+242. [CARD-0242] (ch6-10.txt)
+Primary used to defend a liability claim
+
+All expenses that the insurer occurs
+All cost taxed against the insured
+Loss of earnings up to $100 per day for court appearances
+Cost of court bonds
+$250 bail bonds for traffic violations involving BI
+Pre-judgment interest on court bonds
+Post-judgment interest on court bonds
+
+243. [CARD-0243] (ch6-10.txt)
+Sole Ownership - Insured and spouse
+    Partnership - Insured, all members, partners and spouses
+    Corporation - Insured, officers, directors, stockholders
+
+244. [CARD-0244] (ch6-10.txt)
+Employees
+    Real estate manager
+    Temporary custodian due to death of insured
+    Any person driving mobile equipment
+
+If an employee injures another employee, they both are not insured
+
+245. [CARD-0245] (ch6-10.txt)
+Occurrence - max payable for all claims for one occurrence for premises and operations or products and completed operations
+    General aggregate - max payable for policy period for all claims from occurrences under premises and operations
+    Products and completed operations aggregate - max payable for policy period for products and competed operations
+    Personal and advertising injury - max payable under Coverage B for one occurrence
+    Fire damage legal liability
+    Medical expense limit - max payable under Coverage C for any one person
+
+246. [CARD-0246] (ch6-10.txt)
+Promptly report occurrence, cooperate in the investigation, forward any paperwork about claim to the insurer
+
+247. [CARD-0247] (ch6-10.txt)
+Transfer rights of recovery
+
+248. [CARD-0248] (ch6-10.txt)
+Allows insurer to investigate conditions on premises to ensure they are getting the correct rate for the risk.
+
+Can adjust premium at any time of conditions warrant
+
+249. [CARD-0249] (ch6-10.txt)
+Vehicles used primary off road, on crawler treads, or for providing mobility to equipment
+
+Bulldozers, power cranes, etc
+
+250. [CARD-0250] (ch6-10.txt)
+Expected or intentional injury
+    Contractual liability (exception for insured contracts)
+    Alcoholic beverage business (a one time happening is ok)
+    Worker compensation claims
+    Employee injury
+    Pollution
+    Aircraft, watercraft, auto
+    Transportation of mobile equipment
+    War
+    Nuclear or radioactive
+    Property of Insured
+    Insured’s product or work
+    Impaired products (food poisoning is excluded, however getting sick from eating is covered)
+    Recalled products
+
+251. [CARD-0251] (ch6-10.txt)
+Knowingly publishing false material
+    Claim occurring prior to policy effective date
+    Liability assumed under contract
+    Willful violation
+
+252. [CARD-0252] (ch6-10.txt)
+Failure of goods, products or services to meet advertised quality
+    Wrongful description of price
+
+253. [CARD-0253] (ch6-10.txt)
+Any insured, employees or tenants
+
+Contractor hired by insured
+
+254. [CARD-0254] (ch6-10.txt)
+An occurrence form will respond to injuries or damages incurred during the policy period and is not dependent of when a claim is made
+
+A “claims made” form will only respond to bodily injures or property damages if a claim is initially made at some time during the policy period or coverage/extended reporting period.
+
+255. [CARD-0255] (ch6-10.txt)
+The first date a loss can occur and still be covers
+
+256. [CARD-0256] (ch6-10.txt)
+Extends the time you have to report a claim
+
+257. [CARD-0257] (ch6-10.txt)
+Also know as Standard Pollution Policy
+
+Is the only way to cover the cost of cleanup
+24
+
+What are the 7 Coverage Forms for a Commercial Property policy?
+
+    Building & Personal
+    Business Income
+    Extra Expense
+    Builder's Risk
+    Legal Liability
+    Condo Association
+    Condo Commercial Unit - Owners
+
+25
+
+What is the deductible for Commercial Property Policy?
+
+$250
+26
+
+What are the two components of Commercial Property Policy?
+
+Coverage form
+
+| Cause of loss form
+27
+
+What does the coverage form do on a Commercial Property Policy?
+
+Describes the object being insured
+
+
+
+
+
+What are the 6 categories that are eligible for Texas Business Owners Policy (TBOP)?
+
+Review: Multiple answer markers in source fragment; inspect original
+
+258. [CARD-0258] (ch6-10.txt)
+Used to cover small to medium size business risks
+
+259. [CARD-0259] (ch6-10.txt)
+Standard
+Broad
+Special
+
+260. [CARD-0260] (ch6-10.txt)
+Broad
+
+Special
+
+261. [CARD-0261] (ch6-10.txt)
+Only applies to broad and special
+$2,500 for furs and jewelry
+$250 for stamps & tickets
+
+262. [CARD-0262] (ch6-10.txt)
+A-Building
+B-Property
+C-Business Liability
+D-Medical Payments
+
+263. [CARD-0263] (ch6-10.txt)
+Aircraft
+Automobiles
+Money & Securities
+Watercraft while afloat
+Outdoor properties (fences, radio and tv antennas)
+
+264. [CARD-0264] (ch6-10.txt)
+Derbies removal
+Preservation of property
+Business income
+Extra expense
+Seasonal increase in business personal property limit
+
+265. [CARD-0265] (ch6-10.txt)
+These extensions are additional amounts of insurance for:
+A building at a newly acquired premises
+Property at a newly acquired premises
+Personal property off premises
+Outdoor property including signs $2,500
+Trees, shrubs, plants and lawns $500 each
+Valuable papers and records/electronic media
+
+266. [CARD-0266] (ch6-10.txt)
+Section 1 - Property
+
+Section 2 - Liability
+
+267. [CARD-0267] (ch6-10.txt)
+Outdoor signs
+Money and securities
+Employee dishonesty
+Mechanical breakdown
+
+268. [CARD-0268] (ch6-10.txt)
+Property
+
+269. [CARD-0269] (ch6-10.txt)
+Liability
+
+270. [CARD-0270] (ch6-10.txt)
+Business liability
+Covers for bodily injury, property damage, personal injury and advertising injury
+$300,000 per occurrence
+
+271. [CARD-0271] (ch6-10.txt)
+Medical Expenses
+Is available without regard to fault or negligence filed within 1 year of the occurrence
+
+$5,000 per person
+
+
+
+
+What type of law is Texas Workers Compensation, monopolistic or competitive?
+
+Review: Multiple answer markers in source fragment; inspect original
+
+272. [CARD-0272] (ch6-10.txt)
+Texas Labor Code - Title 5
+
+273. [CARD-0273] (ch6-10.txt)
+Elective
+
+274. [CARD-0274] (ch6-10.txt)
+Contributory negligence - employee contributed to the cause of the injury
+
+Assumption of risk - employee was involved in actions that were not part of their job when they were injured and therefore assumed the risk
+
+Fellow servant - injury caused by the negligence of a fellow employee
+
+If an employer does not have workers compensation, they do lot have these defenses
+
+275. [CARD-0275] (ch6-10.txt)
+Spouses and children only
+
+276. [CARD-0276] (ch6-10.txt)
+The earliest date after which, based on reasonable medical probability, further medical recovery from or lasting improvement to an injury can no longer be reasonably anticipated or the expiration of 104 weeks from the date when income benefits began to accuse, whichever comes first
+
+277. [CARD-0277] (ch6-10.txt)
+A disease arising out of and in the course of employment that causes damage or harm to the physical structure of the body, including a repetitive injury
+
+278. [CARD-0278] (ch6-10.txt)
+A penalty or other punitive action or remedy imposed by the Commission on an insurance carrier, representative, employee, employer, or health care provider for an act or omission in violation of the Workers Compensation Law or a rule or order of the Commission
+
+279. [CARD-0279] (ch6-10.txt)
+A final resolution of all the damages in a workers compensation claim
+
+280. [CARD-0280] (ch6-10.txt)
+A fund used to compensate an injured employee for lifetime income benefits if a subsequent compensable injury, together with the effects of a previous injury, results in a condition which entitles the injured employee to receive lifetime income benefits.
+
+The fund receives money by collecting the benefits from insurers when a compensable death occurs and there is no legal beneficiary.
+
+281. [CARD-0281] (ch6-10.txt)
+An employer who has at least 1 employee
+
+282. [CARD-0282] (ch6-10.txt)
+Yes, an employee can reject workers compensation
+
+283. [CARD-0283] (ch6-10.txt)
+A one time settlement except in cases of gross negligence
+
+284. [CARD-0284] (ch6-10.txt)
+Employee must be disabled for at least one week.
+
+Compensation begins after 1 week
+
+If disability continues for at least 4 weeks, the compensation is retroactive back to the first day of the injury.
+
+285. [CARD-0285] (ch6-10.txt)
+The employer must be notified within 30 days after injury
+
+Failure to do so will relive employer of all liability
+
+Employee must file claim within 1 year
+
+286. [CARD-0286] (ch6-10.txt)
+All reasonable and necessary medical expenses are paid without a time limit or dollar amount.
+Continues to be paid until the injured employee has either recovered or reached a point where no further recovery is possible.
+
+287. [CARD-0287] (ch6-10.txt)
+Average weekly wage is determined by averaging the last 12 weeks of pay to determine an employee’s usual salary on which to base benefits.
+The average weekly wage is also compared with statewide AWW for same occupation
+
+
+ch10
+
+
+
+
+Self-Insured Retention
+
+Review: Multiple answer markers in source fragment; inspect original
+
+288. [CARD-0288] (ch6-10.txt)
+Provides catastrophic liability coverage
+
+Provides higher limits of liability
+
+Broader coverage
+
+Drop down coverage
+
+Insured must maintain a minimum limit of liability for underlying coverage.
+
+289. [CARD-0289] (ch6-10.txt)
+Worldwide coverage
+
+Personal injury - discrimination, humiliation, mental anguish, etc
+
+290. [CARD-0290] (ch6-10.txt)
+Errors and Omissions
+Directors and Officers Liability 
+Fiduciary Liability
+Liquor Liability
+Employment Practices Liability
+Medical Professional
+Lawyers Professional
+
+291. [CARD-0291] (ch6-10.txt)
+When a product an agent sales in his/her knowledge, skill, and advice
+
+Necessary in the insurance business
+
+292. [CARD-0292] (ch6-10.txt)
+Coverages that cannot be purchased through authorized insurers with the state
+
+293. [CARD-0293] (ch6-10.txt)
+Oversees surplus lines in Texas
+
+294. [CARD-0294] (ch6-10.txt)
+Surplus lines
+
+295. [CARD-0295] (ch6-10.txt)
+Authorized to do business in Texas
+
+296. [CARD-0296] (ch6-10.txt)
+Principle - (contractor) the party who has agreed to fulfill the obligation guaranteed by the surety
+
+Obligee - (customer) the party the bond is written for. The bond is payable to the obligee of the principle does not perform the task satisfactory
+
+Surety - guarantees fulfillment of the principle to the obligee with financial backing A surety expects no losses.
+
+297. [CARD-0297] (ch6-10.txt)
+When a contraction bid is submitted, the obligee usually requires a bid bond
+
+298. [CARD-0298] (ch6-10.txt)
+Guarantees construction according to plan or contract
+
+299. [CARD-0299] (ch6-10.txt)
+If a contractor does not pay bills incurred for the project, this bond is discharged so liens are not placed against the project
+
+300. [CARD-0300] (ch6-10.txt)
+Guarantees the contractor will remedy any unsatisfactory work or replace defective materials
+
+301. [CARD-0301] (ch6-10.txt)
+Fiduciary Bonds - intended for individuals appointed by the court to handle the affairs of another person due to death or disability
+
+Court Bond - (litigation bond) if a principal loses a court action and wishes to appeal, the court requires this bond for court costs and damages of suit is lost again.
+
+302. [CARD-0302] (review.txt)
+30 hours and 2 years
+
+303. [CARD-0303] (review.txt)
+Administer, enforce, carry out the insurance code
+
+Determines TDI policy, adopts rules, hears appeals
+
+Some examples:
+Suspend or cancel license of any agent for cause
+Examine the records of any insurance company at any time
+Examine the records of ant licensed agent at any time
+
+304. [CARD-0304] (review.txt)
+90 days
+
+305. [CARD-0305] (review.txt)
+Insurance company
+
+306. [CARD-0306] (review.txt)
+Policyholder
+
+307. [CARD-0307] (review.txt)
+PCA
+
+308. [CARD-0308] (review.txt)
+Sign a policy
+
+309. [CARD-0309] (review.txt)
+Up to $25,000 of unearned premium
+    $300,000 of any claim other than workers compensation
+    100% of workers compensation claims
+
+310. [CARD-0310] (review.txt)
+Cease and desist order
+
+311. [CARD-0311] (review.txt)
+Drop charges filed against agent unless they have $5,000,000 in assets
+
+312. [CARD-0312] (review.txt)
+Making misleading comparisons
+
+Incomplete comparisons
+
+313. [CARD-0313] (review.txt)
+Tripled
+
+314. [CARD-0314] (review.txt)
+Protects consumers right to privacy.
+
+If insurance is denied, the reason why and the credit reporting agency contact information.
+
+315. [CARD-0315] (review.txt)
+The event that causes the loss
+
+316. [CARD-0316] (review.txt)
+Operating in the state it is domiciled in
+
+317. [CARD-0317] (review.txt)
+An insurer domiciled in another state
+
+318. [CARD-0318] (review.txt)
+An insurer domiciled in another country
+
+319. [CARD-0319] (review.txt)
+Admitted
+Overseen by TDI
+Regulated
+Has a COA
+Must maintain financial responsibility 
+
+Non-admitted
+Not regulated
+Overseen by stamping office
+Surplus lines
+
+320. [CARD-0320] (review.txt)
+Failure to disclose a known truth
+
+Omission
+
+321. [CARD-0321] (review.txt)
+Flood
+
+322. [CARD-0322] (review.txt)
+Nonpayment of premium
+Fraudulent claims
+Suspension or revocation of drivers license
+
+323. [CARD-0323] (review.txt)
+Nonpayment of premium
+Fraudulent claims
+Increase in hazard
+
+324. [CARD-0324] (review.txt)
+10 days notice for new business
+10 days notice for nonpayment
+30 days notice for non renewal
+
+325. [CARD-0325] (review.txt)
+10 days new business
+10 days non payment
+60 days for non-renewal
+
+326. [CARD-0326] (review.txt)
+80%
+
+If not, you will get ACV
+
+Review: Inferred from blank-separated format; check pairing
+
+327. [CARD-0327] (review.txt)
+Additional living expenses
+
+Review: Inferred from blank-separated format; check pairing
+
+328. [CARD-0328] (review.txt)
+Coverage E
+20% of Coverage A
+
+DP2 and DP3
+
+Review: Inferred from blank-separated format; check pairing
+
+329. [CARD-0329] (review.txt)
+Wind
+
+Review: Inferred from blank-separated format; check pairing
+
+330. [CARD-0330] (review.txt)
+Yes
+
+Review: Inferred from blank-separated format; check pairing
+
+331. [CARD-0331] (review.txt)
+No
+
+Review: Inferred from blank-separated format; check pairing
+
+332. [CARD-0332] (review.txt)
+Antennas, greenhouses, cloth awnings, satellite dishes
+
+Review: Inferred from blank-separated format; check pairing
+
+333. [CARD-0333] (review.txt)
+Vacancy is no tenants or contents
+
+After 60 days, voids or limits coverage
+
+Is going to void those loses that could of been limited if not vacant such as sprinkler damage, vandalism, water damage, glass breakage, theft
+
+Review: Inferred from blank-separated format; check pairing
+
+334. [CARD-0334] (review.txt)
+Boats
+Trailers
+Campers
+Watercraft 
+Building materials 
+Property at secondary residence
+
+Review: Inferred from blank-separated format; check pairing
+
+335. [CARD-0335] (review.txt)
+You must own and occupy the structure to qualify
+
+Review: Inferred from blank-separated format; check pairing
+
+336. [CARD-0336] (review.txt)
+This is detached structures
+
+| 10% of Coverage A
+
+Review: Inferred from blank-separated format; check pairing
+
+337. [CARD-0337] (review.txt)
+1% of Coverage A
+
+Review: Inferred from blank-separated format; check pairing
+
+338. [CARD-0338] (review.txt)
+E - BI & PD $100,000 per occurrence
+
+| F - Med Pay $1,000 per person
+
+Review: Inferred from blank-separated format; check pairing
+
+339. [CARD-0339] (review.txt)
+HO2 is ACV
+
+| HO3/HO5 is replacement
+
+Review: Inferred from blank-separated format; check pairing
+
+340. [CARD-0340] (review.txt)
+3 years
+
+Review: Inferred from blank-separated format; check pairing
+
+341. [CARD-0341] (review.txt)
+Vehicle listed in declarations
+Trailer owned by insured
+Newly acquired additional vehicle (coverage ends after 30 days)
+Newly acquired replacement vehicle (coverage drops to liability after 30 days)
+Vehicle or trailer used as a temporary substitute due to breakdown, repair, servicing or loss of covered auto.
+
+Review: Inferred from blank-separated format; check pairing
+
+342. [CARD-0342] (review.txt)
+You cannot be at fault
+
+The other person doesn't have insurance or enough insurance
+Hit and run
+Other insurance company is insolvent or doesn't pay claim
+
+Review: Inferred from blank-separated format; check pairing
+
+343. [CARD-0343] (review.txt)
+30 days for PAP nonrenew
+
+Review: Inferred from blank-separated format; check pairing
+
+344. [CARD-0344] (review.txt)
+10 days for non-payment
+
+Review: Inferred from blank-separated format; check pairing
+
+345. [CARD-0345] (review.txt)
+Transportation Expenses
+Is a coverage extension for comprehensive (other than collision)
+Gives $20 a day $600 a month for total theft of vehicle
+Waiting period is 48 hours
+Must notify police
+Only for private passenger vehicles
+
+Review: Inferred from blank-separated format; check pairing
+
+346. [CARD-0346] (review.txt)
+United States and its territories, Canada and Puerto Rico
+
+Review: Inferred from blank-separated format; check pairing
+
+347. [CARD-0347] (review.txt)
+Less than 4 wheels
+
+| Vehicle used for business
+
+Review: Inferred from blank-separated format; check pairing
+
+348. [CARD-0348] (review.txt)
+Either collision or comprehensive
+
+Review: Inferred from blank-separated format; check pairing
+
+349. [CARD-0349] (review.txt)
+Liability - Property Damage (you damaged someone's property)
+
+Review: Inferred from blank-separated format; check pairing
+
+350. [CARD-0350] (review.txt)
+PIP/Med
+
+Uninsured/ under insured
+
+Review: Inferred from blank-separated format; check pairing
+
+351. [CARD-0351] (review.txt)
+30/60/25
+
+Review: Inferred from blank-separated format; check pairing
+
+352. [CARD-0352] (review.txt)
+Cause of loss
+
+| Coverage
+
+Review: Inferred from blank-separated format; check pairing
+
+353. [CARD-0353] (review.txt)
+Is the only way to cover clean up
+
+Review: Inferred from blank-separated format; check pairing
+
+354. [CARD-0354] (review.txt)
+Inventory losses
+
+| Employer not knowing about a previous dishonest act
+
+Review: Inferred from blank-separated format; check pairing
+
+355. [CARD-0355] (review.txt)
+1 year
+
+Review: Inferred from blank-separated format; check pairing
+
+356. [CARD-0356] (review.txt)
+$5,000 per person
+
+Review: Inferred from blank-separated format; check pairing
+
+357. [CARD-0357] (review.txt)
+1 year
+
+| $5,000
+
+Review: Inferred from blank-separated format; check pairing
+
+358. [CARD-0358] (review.txt)
+$500
+
+| 3 years
+
+Review: Inferred from blank-separated format; check pairing
+
+359. [CARD-0359] (review.txt)
+18 months
+
+Review: Inferred from blank-separated format; check pairing
+
+360. [CARD-0360] (review.txt)
+Provides continuous coverage until canceled
+
+Review: Inferred from blank-separated format; check pairing
+
+361. [CARD-0361] (review.txt)
+$250
+
+Review: Inferred from blank-separated format; check pairing
+
+362. [CARD-0362] (review.txt)
+$500
+
+Review: Inferred from blank-separated format; check pairing
+
+363. [CARD-0363] (review.txt)
+Defense costs
+Premium bonds
+Loss of earnings if required to be in court
+
+These are in addition to other coverages
+
+Review: Inferred from blank-separated format; check pairing
+
+364. [CARD-0364] (review.txt)
+Special
+
+Review: Inferred from blank-separated format; check pairing
+
+365. [CARD-0365] (review.txt)
+Broad & special
+
+Review: Inferred from blank-separated format; check pairing
+
+366. [CARD-0366] (review.txt)
+Apartments
+Self-storage
+Trade contractors 
+Offices
+Restaurants
+Mercantile
+
+Review: Inferred from blank-separated format; check pairing
+
+367. [CARD-0367] (review.txt)
+Money & Securities
+
+Review: Inferred from blank-separated format; check pairing
+
+368. [CARD-0368] (review.txt)
+Covers All Risks perils
+
+Review: Inferred from blank-separated format; check pairing
+
+369. [CARD-0369] (review.txt)
+Sprinkler leakage
+Vandalism
+Water damage
+Glass breakage 
+Theft
+
+Review: Inferred from blank-separated format; check pairing
+
+370. [CARD-0370] (review.txt)
+Newly acquired building (30 days)
+Newly acquired personal property on premises (30 days)
+Personal property off premises (30 days)
+Personal effects of employees and others
+Valuable papers
+Outdoor property including signs
+$250 per plant, tree, shrub
+Glass breakage $100 per pane, $500 per occurrence
+
+Review: Inferred from blank-separated format; check pairing
+
+371. [CARD-0371] (review.txt)
+Employee created an occasion to be hurt by performing actions not part of job
+
+Injury or death by willful intention
+
+Intoxication on job causing harm to employee (employer did not know)
+
+Review: Inferred from blank-separated format; check pairing
+
+372. [CARD-0372] (review.txt)
+Workers compensation in Texas is elective
+
+Review: Inferred from blank-separated format; check pairing
+
+373. [CARD-0373] (review.txt)
+Spouse till death or remarriage
+
+| Children till 18 or 25 if in college
+
+Review: Inferred from blank-separated format; check pairing
+
+374. [CARD-0374] (review.txt)
+Death benefits are paid to the subsequent injury fund if there are no beneficiaries.
+
+Review: Inferred from blank-separated format; check pairing
+
+375. [CARD-0375] (review.txt)
+1 employee
+
+Review: Inferred from blank-separated format; check pairing
+
+376. [CARD-0376] (review.txt)
+Master and crew of vessels
+
+Review: Inferred from blank-separated format; check pairing
+
+377. [CARD-0377] (review.txt)
+Texas benefits are available to Texas workers injured anywhere in the world.
+
+Review: Inferred from blank-separated format; check pairing
+
+378. [CARD-0378] (review.txt)
+Overflow of inland or tidal waters
+Rapid accumulation of surface waters (inundation of normally dry area)
+Mudslide
+
+Review: Inferred from blank-separated format; check pairing
+
+379. [CARD-0379] (review.txt)
+Hull
+
+Review: Inferred from blank-separated format; check pairing
+
+380. [CARD-0380] (review.txt)
+If an underlying policy does not pay
+
+Review: Inferred from blank-separated format; check pairing
+
+381. [CARD-0381] (review.txt)
+$1,000 personal
+
+| $10,000 for commercial
+
+Review: Inferred from blank-separated format; check pairing
+
+382. [CARD-0382] (review.txt)
+Principle - obligor - is the contractor
+Obligee is the customer
+Surety - protects the obligee to ensure the principle carries out contract.
+
+Review: Inferred from blank-separated format; check pairing
+
+383. [CARD-0383] (review.txt)
+100% of Homeowners policy of total loss by fire.
+
+Review: Inferred from blank-separated format; check pairing
+
+384. [CARD-0384] (review.txt)
+25% from general public
+
+Review: Inferred from blank-separated format; check pairing
+
+385. [CARD-0385] (review.txt)
+3 months
+
+| 90 days
+
+Review: Inferred from blank-separated format; check pairing
+
+386. [CARD-0386] (review.txt)
+PCA
+
+| Property Casualty Agent
+
+Review: Inferred from blank-separated format; check pairing
+
+387. [CARD-0387] (review.txt)
+Every 2 years
+
+Review: Inferred from blank-separated format; check pairing
+
+388. [CARD-0388] (review.txt)
+Telling a lie
+
+Review: Inferred from blank-separated format; check pairing
+
+389. [CARD-0389] (review.txt)
+Insurance company
+
+Review: Inferred from blank-separated format; check pairing
+
+390. [CARD-0390] (review.txt)
+Immediately
+
+Review: Inferred from blank-separated format; check pairing
+
+391. [CARD-0391] (review.txt)
+Giving a misleading comparison to the insured to induce them to buy.
+
+Review: Inferred from blank-separated format; check pairing
+
+392. [CARD-0392] (review.txt)
+The increase in the possibility that a loss might occur
+
+Review: Inferred from blank-separated format; check pairing
+
+393. [CARD-0393] (review.txt)
+Mutual company
+
+Review: Inferred from blank-separated format; check pairing
+
+394. [CARD-0394] (review.txt)
+Indemnity
+
+Review: Inferred from blank-separated format; check pairing
+
+395. [CARD-0395] (review.txt)
+Indirect
+
+Review: Inferred from blank-separated format; check pairing
+
+396. [CARD-0396] (review.txt)
+Uncertainty of loss
+
+Review: Inferred from blank-separated format; check pairing
+
+397. [CARD-0397] (review.txt)
+Pure risk
+
+Review: Inferred from blank-separated format; check pairing
+
+398. [CARD-0398] (review.txt)
+Offer and acceptance
+
+Review: Inferred from blank-separated format; check pairing
+
+399. [CARD-0399] (review.txt)
+Failure to disclose a known truth
+
+Review: Inferred from blank-separated format; check pairing
+
+400. [CARD-0400] (review.txt)
+Cause of loss
+
+Review: Inferred from blank-separated format; check pairing
+
+401. [CARD-0401] (review.txt)
+Declarations
+
+Review: Inferred from blank-separated format; check pairing
+
+402. [CARD-0402] (review.txt)
+Actual cash value
+
+Replacement - depreciation
+
+Review: Inferred from blank-separated format; check pairing
+
+403. [CARD-0403] (review.txt)
+Open peril policy
+
+Review: Inferred from blank-separated format; check pairing
+
+404. [CARD-0404] (review.txt)
+Appraisal
+
+Review: Inferred from blank-separated format; check pairing
+
+405. [CARD-0405] (review.txt)
+Provides temporary protection for the insured between the time the application is made and the policy is issued or the binder expires
+
+Review: Inferred from blank-separated format; check pairing
+
+406. [CARD-0406] (review.txt)
+Consequential loss
+
+Review: Inferred from blank-separated format; check pairing
+
+407. [CARD-0407] (review.txt)
+Payable in addition to the policy limits
+
+Review: Inferred from blank-separated format; check pairing
+
+408. [CARD-0408] (review.txt)
+Property damage and bodily injury
+
+Review: Inferred from blank-separated format; check pairing
+
+409. [CARD-0409] (review.txt)
+$100,000
+
+Review: Inferred from blank-separated format; check pairing
+
+410. [CARD-0410] (review.txt)
+Bodily injury or property damage caused by the personal activities of an insured
+
+Review: Inferred from blank-separated format; check pairing
+
+411. [CARD-0411] (review.txt)
+Money
+Jewelry
+Business contents
+
+Review: Inferred from blank-separated format; check pairing
+
+412. [CARD-0412] (review.txt)
+A statement at time of application
+
+Review: Inferred from blank-separated format; check pairing
+
+413. [CARD-0413] (review.txt)
+Transportation expense
+
+Review: Inferred from blank-separated format; check pairing
+
+414. [CARD-0414] (review.txt)
+Retroactive date
+
+Review: Inferred from blank-separated format; check pairing
+
+415. [CARD-0415] (review.txt)
+Object definition form
+
+Review: Inferred from blank-separated format; check pairing
+
+416. [CARD-0416] (review.txt)
+Coverage that will permit the insured to continue in business without interruption following property damage loss
+
+Review: Inferred from blank-separated format; check pairing
+
+417. [CARD-0417] (review.txt)
+Watchperson
+
+Review: Inferred from blank-separated format; check pairing
+
+418. [CARD-0418] (review.txt)
+Inventory losses
+
+| Prior dishonest acts of the employee
+
+Review: Inferred from blank-separated format; check pairing
+
+419. [CARD-0419] (review.txt)
+Payrolls
+
+Review: Inferred from blank-separated format; check pairing
+
+420. [CARD-0420] (review.txt)
+Medical Expenses
+Loss of Income
+Rehabilitation
+
+Review: Inferred from blank-separated format; check pairing
+
+421. [CARD-0421] (review.txt)
+30 days
+
+Review: Inferred from blank-separated format; check pairing
+
+422. [CARD-0422] (review.txt)
+Subsequent Injury Fund
+
+Review: Inferred from blank-separated format; check pairing
+
+423. [CARD-0423] (review.txt)
+Principle
+
+Review: Inferred from blank-separated format; check pairing
+
+424. [CARD-0424] (review.txt)
+Hull
+
+Review: Inferred from blank-separated format; check pairing
+
+425. [CARD-0425] (review.txt)
+Hazard
+
+Review: Inferred from blank-separated format; check pairing
+
+426. [CARD-0426] (review.txt)
+Replacement cost less depreciation
+
+Review: Inferred from blank-separated format; check pairing
+
+427. [CARD-0427] (review.txt)
+Name the exclusions
+
+Review: Inferred from blank-separated format; check pairing
+
+428. [CARD-0428] (review.txt)
+The applicant submits an application to the company
+
+Review: Inferred from blank-separated format; check pairing
+
+429. [CARD-0429] (review.txt)
+PIP
+
+| Uninsured
+
+Review: Inferred from blank-separated format; check pairing
+
+430. [CARD-0430] (review.txt)
+Other than Collision
+
+| Comprehensive
+
+Review: Inferred from blank-separated format; check pairing
+
+431. [CARD-0431] (review.txt)
+Liability
+
+Review: Inferred from blank-separated format; check pairing
+
+432. [CARD-0432] (review.txt)
+Negligence
+
+Review: Inferred from blank-separated format; check pairing
+
+433. [CARD-0433] (review.txt)
+An uninterrupted negligent series of events causes injury or damage
+
+Review: Inferred from blank-separated format; check pairing
+
+434. [CARD-0434] (review.txt)
+The insurance company issues the policy applied for
+
+Review: Inferred from blank-separated format; check pairing
+
+435. [CARD-0435] (review.txt)
+Restores the insured to the same condition held prior to a loss
+
+Review: Inferred from blank-separated format; check pairing
+
+436. [CARD-0436] (review.txt)
+A one time happening and or a continuous repeated exposure
+
+Review: Inferred from blank-separated format; check pairing
+
+437. [CARD-0437] (review.txt)
+Subrogation
+
+Review: Inferred from blank-separated format; check pairing
+
+438. [CARD-0438] (review.txt)
+Rebating
+
+Review: Inferred from blank-separated format; check pairing
+
+439. [CARD-0439] (review.txt)
+25% or more of policies must come from the general public
+
+Review: Inferred from blank-separated format; check pairing
+
+440. [CARD-0440] (review.txt)
+Defamation
+
+Review: Inferred from blank-separated format; check pairing
+
+441. [CARD-0441] (review.txt)
+Is incorporated in this state
+
+Review: Inferred from blank-separated format; check pairing
+
+442. [CARD-0442] (review.txt)
+3 years of operations
+
+Review: Inferred from blank-separated format; check pairing
+
+443. [CARD-0443] (review.txt)
+Statement made by the insured that certain conditions exists at the time of application
+
+Review: Inferred from blank-separated format; check pairing
+
+444. [CARD-0444] (review.txt)
+Protect the public from the failure of impaired insurance companies
+$25,000 unearned premium
+$300,000 of any claim
+100% for workers compensation
+
+Review: Inferred from blank-separated format; check pairing
+
+445. [CARD-0445] (review.txt)
+Contains the insurance company promise to pay on behalf of the insured
+
+Review: Inferred from blank-separated format; check pairing
+
+446. [CARD-0446] (review.txt)
+Protection against certain losses by transferring risks from individuals to a group
+
+Review: Inferred from blank-separated format; check pairing
+
+447. [CARD-0447] (review.txt)
+Any condition that increases the chance of loss or frequency or severity of loss
+
+Review: Inferred from blank-separated format; check pairing
+
+448. [CARD-0448] (review.txt)
+Pays for subsequent injuries that make someone lifetime disabled
+Funded by unpaid death benefits
+
+Review: Inferred from blank-separated format; check pairing
+
+449. [CARD-0449] (review.txt)
+Are paid when someone has a permanent partial disability
+
+| %of disability X 3 = additional # of weeks salary
+
+Review: Inferred from blank-separated format; check pairing
+
+450. [CARD-0450] (review.txt)
+Must be 15% or lore disabled and salary will be supplemented up to 80% of AWW
+
+Review: Inferred from blank-separated format; check pairing
+
+451. [CARD-0451] (review.txt)
+A worker is paid for the remainder of their life for loss of 2 of the same body parts or paralysis as long as the injuries occurred at the same employer
+
+Review: Inferred from blank-separated format; check pairing
+
+452. [CARD-0452] (review.txt)
+The medical coverage
+
+Review: Inferred from blank-separated format; check pairing
+
+453. [CARD-0453] (review.txt)
+TX benefits are paid to TX workers while working anywhere in the world
+
+Review: Inferred from blank-separated format; check pairing
+
+454. [CARD-0454] (review.txt)
+Employers liability
+
+$100,000 coverage
+
+Provides for subrogation
+Suits from spouses and children
+Employees suing for product liability
+
+Review: Inferred from blank-separated format; check pairing
+
+455. [CARD-0455] (review.txt)
+Other states insurance
+
+Covers workers temporarily in a state not listed in part 1.
+
+Can collect benefits from a different state if you are working there
+
+Review: Inferred from blank-separated format; check pairing
+
+456. [CARD-0456] (review.txt)
+Based on payroll
+
+Each $100
+
+Review: Inferred from blank-separated format; check pairing
+
+457. [CARD-0457] (review.txt)
+Takes good risks as well as bad
+Must keep a 3:1 ratio
+
+Financed by revenue bonds
+
+Review: Inferred from blank-separated format; check pairing
+
+458. [CARD-0458] (review.txt)
+DP1 - Basic
+DP2 - Broad
+DP3 - Special
+
+Review: Inferred from blank-separated format; check pairing
+
+459. [CARD-0459] (review.txt)
+A - Dwelling (ACV for DP1 basic, replacement for DP2 broad and DP3 special)
+B - Other Structures (ACV for DP1 basic, replacement for DP2 broad and DP3 special)
+C - Personal Property (ACV for DP1, DP2, DP3)
+D - Fair Rental Value (20% of Coverage A for DP1, DP2, DP3)
+E - Additional Living Expenses (not covered on DP1, 20% of Coverage A for DP2, DP3)
+
+Review: Inferred from blank-separated format; check pairing
+
+460. [CARD-0460] (review.txt)
+The dwelling itself
+Appliances provided by landlord
+Materials used to make repairs
+
+Basic DP1 is ACV
+Broad DP2 is Replacement
+Special DP3 is replacement
+
+Review: Inferred from blank-separated format; check pairing
+
+461. [CARD-0461] (review.txt)
+Detached structures
+10% of Coverage A
+
+Basic DP1 is ACV
+Broad DP2 is replacement
+Special DP3 is replacement
+
+Review: Inferred from blank-separated format; check pairing
+
+462. [CARD-0462] (review.txt)
+Contents
+Personal Property
+
+10% of Coverage C if off premises or belongs to others
+
+Is ACV for all forms
+
+Review: Inferred from blank-separated format; check pairing
+
+463. [CARD-0463] (review.txt)
+Fair Rental Value
+
+Loss of rents during repair
+
+Max limit is 20% of Coverage A
+
+Review: Inferred from blank-separated format; check pairing
+
+464. [CARD-0464] (review.txt)
+Additional living expenses
+
+20% of Coverage A
+
+Is excluded on Basic DP1
+
+Only covered on Broad DP2 and Special DP3
+
+Review: Inferred from blank-separated format; check pairing
+
+465. [CARD-0465] (review.txt)
+$500 each
+Max is 5% of Coverage A
+
+Wind is excluded
+
+Review: Inferred from blank-separated format; check pairing
+
+466. [CARD-0466] (review.txt)
+A - Dwelling 
+B - Other Structures (10% of Coverage A) 
+C - Contents (Personal Property)
+D - Loss of Use (20% of Coverage A)
+E - BI & PD ($100,000 per occurrence)
+F - Med Pay ($1,000 per person)
+
+Review: Inferred from blank-separated format; check pairing
+
+467. [CARD-0467] (review.txt)
+HO2, HO3, HO5
+
+Review: Inferred from blank-separated format; check pairing
+
+468. [CARD-0468] (review.txt)
+HO4
+
+Review: Inferred from blank-separated format; check pairing
+
+469. [CARD-0469] (review.txt)
+HO6
+
+Review: Inferred from blank-separated format; check pairing
+
+470. [CARD-0470] (review.txt)
+1% of Coverage A
+
+Review: Inferred from blank-separated format; check pairing
+
+471. [CARD-0471] (100 questions.txt)
+d.An increased hazard the insured controls✓
+
+Original explanation/source note: The standard fire policy suspends liability while the hazard is increased by any means within the control or knowledge of the insured. Coverage resumes when the condition ends.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+472. [CARD-0472] (100 questions.txt)
+d.Post-loss duties✓
+
+Original explanation/source note: The standard fire policy's requirements-in-case-loss-occurs condition lists notice, protection, separating damaged and undamaged property, and an inventory.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+473. [CARD-0473] (100 questions.txt)
+c.Lightning✓
+
+Original explanation/source note: The standard fire policy insures against direct loss by fire, lightning and removal from premises endangered by those perils; it excludes theft.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+474. [CARD-0474] (100 questions.txt)
+d.24 months after the loss✓
+
+Original explanation/source note: New York Insurance Law §3404's standard fire policy bars suit unless commenced within twenty-four months after inception of the loss. Thirty days or 'before renewal' would be far shorter, and in Texas any contractual suit period shorter than two years is void under Civil Practice and Remedies Code §16.070. Other forms may set different periods.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+475. [CARD-0475] (100 questions.txt)
+b.Pro rata✓
+
+Original explanation/source note: The company may cancel on five days' written notice with the excess of paid premium above the pro rata premium for the expired time; short rates apply when the insured cancels.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+476. [CARD-0476] (100 questions.txt)
+c.Other structures✓
+
+Original explanation/source note: TDI describes other structures coverage as paying to repair structures not attached to the house, including detached garages, sheds and fences.Home insurance guide
+
+477. [CARD-0477] (100 questions.txt)
+b.HO-6✓
+
+Original explanation/source note: HO-6 is the condominium unit-owners form covering personal property and items not originally installed in the unit. HO-4 is for tenants.Consumer's Guide to Homeowners Insurance (PI-015, R 07/2026)
+
+478. [CARD-0478] (100 questions.txt)
+d.HO-5✓
+
+Original explanation/source note: The HO-5 comprehensive form has an even shorter list of exclusions than HO-3 and covers contents on an open-peril basis as well. HO-2 is named-peril.Consumer's Guide to Homeowners Insurance (PI-015, R 07/2026)
+
+479. [CARD-0479] (100 questions.txt)
+d.Flooding✓
+
+Original explanation/source note: TDI's home insurance guide lists flooding among the causes most policies don't cover; separate flood insurance is needed.Home insurance guide
+
+480. [CARD-0480] (100 questions.txt)
+c.30 days✓
+
+Original explanation/source note: TDI tells consumers that most flood policies have a 30-day waiting period before kicking in, so coverage should be bought before a storm approaches.Home insurance guide
+
+481. [CARD-0481] (100 questions.txt)
+d.Defense of a covered suit✓
+
+Original explanation/source note: Homeowners liability coverage pays both the cost of defending the insured and damages the court rules the insured must pay; it does not cover the insured's own property or car.Consumer's Guide to Homeowners Insurance (PI-015, R 07/2026)
+
+482. [CARD-0482] (100 questions.txt)
+c.Personal liability✓
+
+Original explanation/source note: Homeowners liability coverage covers injury or damage the insured's pet does to others or their possessions.Consumer's Guide to Homeowners Insurance (PI-015, R 07/2026)
+
+483. [CARD-0483] (100 questions.txt)
+b.Its policies are written on ACV✓
+
+Original explanation/source note: The Wisconsin regulator notes that mobile home policies are written on an actual cash value basis, taking depreciation into account, with only a few insurers offering replacement cost.Consumer's Guide to Homeowners Insurance (PI-015, R 07/2026)
+
+484. [CARD-0484] (100 questions.txt)
+b.PIP✓
+
+Original explanation/source note: PIP benefits are payable without regard to the fault or nonfault of the named insured or recipient, and TDI notes PIP also pays lost-income benefits.Texas Insurance Code Chapter 1952, Policy Provisions and Forms for Automobile Insurance; Auto Insurance Glossary
+
+485. [CARD-0485] (100 questions.txt)
+c.In writing✓
+
+Original explanation/source note: Insurance Code §1952.101 says UM/UIM coverage does not apply if any insured named in the policy rejects it in writing.Texas Insurance Code Chapter 1952, Policy Provisions and Forms for Automobile Insurance
+
+486. [CARD-0486] (100 questions.txt)
+a.As an uninsured vehicle✓
+
+Original explanation/source note: Section 1952.102 treats an insured vehicle as uninsured when its liability insurer is unable to pay because of insolvency.Texas Insurance Code Chapter 1952, Policy Provisions and Forms for Automobile Insurance
+
+487. [CARD-0487] (100 questions.txt)
+a.Comprehensive✓
+
+Original explanation/source note: TDI defines comprehensive coverage as paying for damage to or loss of the car from causes other than accidents, including theft.Auto Insurance Glossary
+
+488. [CARD-0488] (100 questions.txt)
+c.A non-owners policy✓
+
+Original explanation/source note: TDI's glossary describes a non-owners policy as offering liability, uninsured motorist and medical payments coverage to a named insured who does not own a vehicle.Auto Insurance Glossary
+
+489. [CARD-0489] (100 questions.txt)
+c.Resident of the household and related✓
+
+Original explanation/source note: The form defines family member as a person who is a resident of your household and related to you by blood, marriage or adoption.Texas Personal Auto Policy (effective January 1, 2020)
+
+490. [CARD-0490] (100 questions.txt)
+b.In, upon, getting in, on, out or off✓
+
+Original explanation/source note: The form defines occupying as in, upon, getting in, on, out or off, so a passenger stepping out of the car is still occupying it.Texas Personal Auto Policy (effective January 1, 2020)
+
+491. [CARD-0491] (100 questions.txt)
+a.A combined single limit✓
+
+Original explanation/source note: The California guide says that unlike personal auto policies with split limits, BAPs commonly use a combined single limit.Commercial Insurance Guide
+
+492. [CARD-0492] (100 questions.txt)
+d.Personal property of others✓
+
+Original explanation/source note: The California guide defines personal property of others as property in the business's care, custody and control.Commercial Insurance Guide
+
+493. [CARD-0493] (100 questions.txt)
+d.Basic form✓
+
+Original explanation/source note: TDI states that basic form policies provide the least coverage and special form policies the most.Commercial property insurance guide
+
+494. [CARD-0494] (100 questions.txt)
+c.Several coverage parts✓
+
+Original explanation/source note: The California guide describes a CPP as combining two or more commercial coverage parts such as commercial property, general liability and commercial auto.Commercial Insurance Guide
+
+495. [CARD-0495] (100 questions.txt)
+b.General liability✓
+
+Original explanation/source note: A BOP covers property, general liability and business interruption in one policy for small businesses; a monoline policy is a single coverage part.Commercial Insurance Guide
+
+496. [CARD-0496] (100 questions.txt)
+c.Equipment or systems breakdown✓
+
+Original explanation/source note: The California guide says boiler and machinery insurance is marketed as systems protector, systems breakdown and machinery breakdown insurance.Commercial Insurance Guide
+
+497. [CARD-0497] (100 questions.txt)
+a.Burglary✓
+
+Original explanation/source note: Texas burglary is entering a building not then open to the public with intent to commit theft; robbery requires a threat or injury to a person.Texas Penal Code Chapter 30, Burglary and Criminal Trespass; Texas Penal Code Chapter 29, Robbery
+
+498. [CARD-0498] (100 questions.txt)
+d.It is considered a property line✓
+
+Original explanation/source note: The California guide says crime insurance is considered a property insurance line and can cover robbery, burglary, larceny, forgery and embezzlement.Commercial Insurance Guide
+
+499. [CARD-0499] (100 questions.txt)
+d.Contractor equipment✓
+
+Original explanation/source note: TDI's commercial property guide lists accounts receivable, computers, contractor equipment, fine art, property in transit, valuable papers and property held for others as inland marine coverages.Commercial property insurance guide
+
+500. [CARD-0500] (100 questions.txt)
+a.Ocean marine✓
+
+Original explanation/source note: Texas's statutory definition of marine insurance includes loss or damage to a hull, vessel or craft of any kind; inland marine does not cover boating transportation.Texas Insurance Code Chapter 1807, Marine Insurance; Commercial Insurance Guide
+
+501. [CARD-0501] (100 questions.txt)
+b.Three-fourths✓
+
+Original explanation/source note: The court referred to liability insured under the 3/4 Running Down Clause of the hull policy.Crown Zellerbach Corp. v. Ingram Industries, Inc., 745 F.2d 995 (5th Cir. 1984)
+
+502. [CARD-0502] (100 questions.txt)
+b.Covered physical damage✓
+
+Original explanation/source note: TDI explains that business interruption insurance generally covers losses when a company cannot do business due to direct physical loss of or damage to its property by a covered peril.Business interruption & other business insurance
+
+503. [CARD-0503] (100 questions.txt)
+c.Extra expense✓
+
+Original explanation/source note: TDI says extra expense coverage pays additional costs to return a business to normal after it is damaged.Commercial property insurance guide
+
+504. [CARD-0504] (100 questions.txt)
+a.Loss of rents✓
+
+Original explanation/source note: The California guide says loss of rents and rental value cover loss of rental income to the property owner when damage renders the building unfit for occupancy.Commercial Insurance Guide
+
+505. [CARD-0505] (100 questions.txt)
+b.Coverage C✓
+
+Original explanation/source note: The California guide describes Coverage A as loss to the undamaged portion, Coverage B as demolition cost and Coverage C as increased cost of repairs or reconstruction.Commercial Insurance Guide
+
+506. [CARD-0506] (100 questions.txt)
+c.Above the underlying policy's limits✓
+
+Original explanation/source note: The California guide says a commercial umbrella covers the amount of loss above the limits of a basic liability policy.Commercial Insurance Guide
+
+507. [CARD-0507] (100 questions.txt)
+b.A performance bond✓
+
+Original explanation/source note: Under Texas Government Code chapter 2253, a performance bond is conditioned on the faithful performance of the work in accordance with the plans, specifications and contract documents.Texas Government Code Chapter 2253, Public Work Performance and Payment Bonds
+
+508. [CARD-0508] (100 questions.txt)
+b.A payment bond only✓
+
+Original explanation/source note: Chapter 2253 requires a performance bond for contracts over $100,000 and a payment bond for contracts over $25,000 for a non-municipal governmental entity.Texas Government Code Chapter 2253, Public Work Performance and Payment Bonds
+
+509. [CARD-0509] (100 questions.txt)
+a.On a claims-made basis✓
+
+Original explanation/source note: The California guide defines claims-made coverage as applying to claims filed during the policy period, subject to a retroactive date, which is the usual trigger for professional liability.Commercial Insurance Guide
+
+510. [CARD-0510] (100 questions.txt)
+a.The aircraft exclusion✓
+
+Original explanation/source note: The California guide lists aircraft among the CGL's major exclusions, along with automobile and watercraft, which is why aviation liability is written separately.Commercial Insurance Guide
+
+511. [CARD-0511] (100 questions.txt)
+b.Peril✓
+
+Original explanation/source note: The California guide defines peril simply as cause of loss; a hazard is a circumstance that increases the likelihood or severity of loss.Commercial Insurance Guide
+
+512. [CARD-0512] (100 questions.txt)
+a.A hazard✓
+
+Original explanation/source note: A hazard is a circumstance that increases the likelihood or potential severity of a loss; the construction does not itself cause loss.Commercial Insurance Guide
+
+513. [CARD-0513] (100 questions.txt)
+b.A financial interest in it✓
+
+Original explanation/source note: TDI's glossary defines insurable interest as any financial interest a person has in the property or person insured.Home Insurance Glossary
+
+514. [CARD-0514] (100 questions.txt)
+d.Under ordinary contract rules✓
+
+Original explanation/source note: The court interprets insurance policies under the well-established rules of contract construction, reading the contract as a whole according to the plain meaning of its terms.Great American Insurance Co. v. Primo, No. 15-0317 (Tex. 2017)
+
+515. [CARD-0515] (100 questions.txt)
+b.Waiver✓
+
+Original explanation/source note: Waiver is the intentional relinquishment of a right actually known; estoppel turns on another party's detrimental reliance.Ulico Casualty Co. v. Allied Pilots Ass'n, 262 S.W.3d 773 (Tex. 2008)
+
+516. [CARD-0516] (100 questions.txt)
+a.They do not waive policy provisions✓
+
+Original explanation/source note: The standard fire policy provides that no provision, stipulation or forfeiture is waived by any requirement or proceeding relating to appraisal or examination.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+517. [CARD-0517] (100 questions.txt)
+a.It cannot create coverage✓
+
+Original explanation/source note: The Texas Supreme Court held that estoppel and waiver cannot make an insurance contract cover a loss it never covered by its terms.Ulico Casualty Co. v. Allied Pilots Ass'n, 262 S.W.3d 773 (Tex. 2008)
+
+518. [CARD-0518] (100 questions.txt)
+d.The insured's sworn claim✓
+
+Original explanation/source note: The standard fire policy requires a proof of loss signed and sworn to by the insured, stating the time and origin of the loss, interests, values and other insurance.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+519. [CARD-0519] (100 questions.txt)
+a.Decrease in value from use or wear✓
+
+Original explanation/source note: TDI's glossary defines depreciation as the decrease in the value of property over time due to use or wear and tear.Home Insurance Glossary
+
+520. [CARD-0520] (100 questions.txt)
+a.20 percent of dwelling coverage✓
+
+Original explanation/source note: TDI's glossary says policies cap the amount of additional living expenses payable to 20 percent of the policy's dwelling coverage.Home Insurance Glossary
+
+521. [CARD-0521] (100 questions.txt)
+b.The valued policy law✓
+
+Original explanation/source note: Insurance Code §862.053 makes a fire policy a liquidated demand for the full amount on a total loss by fire of real property.Texas Insurance Code Chapter 862, General Provisions (fire insurance total loss)
+
+522. [CARD-0522] (100 questions.txt)
+b.The amount of the loss✓
+
+Original explanation/source note: TDI explains that the umpire's decision is binding only for the loss amount, and coverage disputes can still be pursued after appraisal.Home Insurance Glossary
+
+523. [CARD-0523] (100 questions.txt)
+d.Within 20 days✓
+
+Original explanation/source note: FEMA's Standard Flood Insurance Policy says each side will choose a competent and impartial appraiser within 20 days after receiving a written request from the other.44 CFR Part 61, Appendix A(1): Standard Flood Insurance Policy, Dwelling Form
+
+524. [CARD-0524] (100 questions.txt)
+b.Cost less physical depreciation✓
+
+Original explanation/source note: The flood policy defines actual cash value as the cost to replace an insured item at the time of loss, less the value of its physical depreciation.44 CFR Part 61, Appendix A(1): Standard Flood Insurance Policy, Dwelling Form
+
+525. [CARD-0525] (100 questions.txt)
+a.Robbery✓
+
+Original explanation/source note: Texas robbery is theft while threatening or placing another in fear of imminent bodily injury or death; burglary requires unlawful entry into premises.Texas Penal Code Chapter 29, Robbery
+
+526. [CARD-0526] (100 questions.txt)
+d.Theft✓
+
+Original explanation/source note: Texas theft is unlawfully appropriating property with intent to deprive the owner; robbery and burglary add force or entry.Texas Penal Code Chapter 31, Theft
+
+527. [CARD-0527] (100 questions.txt)
+a.Agreed value✓
+
+Original explanation/source note: The California guide says agreed value is most common when insuring valuable artwork, antiques or classic autos.Commercial Insurance Guide
+
+528. [CARD-0528] (100 questions.txt)
+d.It does not deduct depreciation✓
+
+Original explanation/source note: TDI defines replacement cost as paying to replace property without deducting for depreciation, but limited by the policy's maximum; it remains subject to coinsurance.Home Insurance Glossary; Commercial Insurance Guide
+
+529. [CARD-0529] (100 questions.txt)
+b.Restore the insured's position✓
+
+Original explanation/source note: The California guide states that the objective of indemnity is to restore an insured to the same financial position after the loss as before.Commercial Insurance Guide
+
+530. [CARD-0530] (100 questions.txt)
+b.Economic damages✓
+
+Original explanation/source note: Texas defines economic damages as compensatory damages intended to compensate a claimant for actual economic or pecuniary loss.Texas Civil Practice and Remedies Code Chapter 41, Damages
+
+531. [CARD-0531] (100 questions.txt)
+c.Subrogation✓
+
+Original explanation/source note: TDI's auto glossary defines subrogation as the legal right of insurers to pursue the party who caused a loss to their policyholder, to recover money paid.Auto Insurance Glossary
+
+532. [CARD-0532] (100 questions.txt)
+c.Only its proportionate share✓
+
+Original explanation/source note: The form says that if there is other personal injury protection insurance the insurer pays only its share, the proportion its limit bears to the total of all applicable limits.Texas Personal Auto Policy (effective January 1, 2020)
+
+533. [CARD-0533] (100 questions.txt)
+a.$20,000✓
+
+Original explanation/source note: Under pro rata sharing, the $100,000 insurer's share is 100/400 = 25% of $80,000, or $20,000.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+534. [CARD-0534] (100 questions.txt)
+d.Repair or replace the property✓
+
+Original explanation/source note: The company's options clause lets the insurer take the property at the agreed or appraised value or repair, rebuild or replace it with like kind and quality, on notice within thirty days after receiving the proof of loss.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text)
+
+535. [CARD-0535] (100 questions.txt)
+b.When repair cost nears its value✓
+
+Original explanation/source note: TDI tells drivers that if the cost to repair a car is close to its current value, the company might decide to total it.Auto insurance guide
+
+536. [CARD-0536] (100 questions.txt)
+a.It must be material✓
+
+Original explanation/source note: Insurance Code §705.004 gives effect to a misrepresentation defense only if the matter was material to the risk or contributed to the event on which the policy became payable.Texas Insurance Code Chapter 705, Misrepresentation by Policyholders
+
+537. [CARD-0537] (100 questions.txt)
+a.Its salvage value is deducted✓
+
+Original explanation/source note: FEMA's flood policy lets the insurer permit the insured to keep damaged property and reduce the loss payment by the value of the salvage.44 CFR Part 61, Appendix A(1): Standard Flood Insurance Policy, Dwelling Form
+
+538. [CARD-0538] (100 questions.txt)
+d.A method of shifting risk✓
+
+Original explanation/source note: The California guide defines insurance as a method of shifting risk from a person, business or organization to an insurer in exchange for premium.Commercial Insurance Guide
+
+539. [CARD-0539] (100 questions.txt)
+d.Any free broadening✓
+
+Original explanation/source note: The flood policy says a change that broadens coverage without additional premium automatically applies to existing policies.44 CFR Part 61, Appendix A(1): Standard Flood Insurance Policy, Dwelling Form
+
+540. [CARD-0540] (100 questions.txt)
+c.A temporary contract✓
+
+Original explanation/source note: TDI's glossary defines a binder as a temporary insurance contract that provides proof of coverage until the permanent policy is received.Home Insurance Glossary
+
+541. [CARD-0541] (100 questions.txt)
+c.Insurance Code §541.060✓
+
+Original explanation/source note: Section 541.060 makes it unfair to fail within a reasonable time to affirm or deny coverage or submit a reservation of rights to a policyholder.Texas Insurance Code Chapter 541, Unfair Methods of Competition and Unfair or Deceptive Acts or Practices
+
+542. [CARD-0542] (100 questions.txt)
+a.60 days after proof and ascertainment✓
+
+Original explanation/source note: The standard fire policy makes the loss payable sixty days after proof of loss is received and the loss is ascertained by agreement or an appraisal award; Texas's prompt-payment statute imposes faster deadlines on Texas insurers.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text); Texas Insurance Code Chapter 542, Processing and Settlement of Claims
+
+543. [CARD-0543] (100 questions.txt)
+d.Foreseeability✓
+
+Original explanation/source note: The Texas Supreme Court says foreseeability is proven by showing a person of ordinary intelligence should have anticipated the danger created by the negligent act.Stanfield v. Neubaum, No. 15-0387 (Tex. 2016)
+
+544. [CARD-0544] (100 questions.txt)
+c.$30,000✓
+
+Original explanation/source note: Required is 80% of $300,000, or $240,000; $180,000 ÷ $240,000 = 0.75; 0.75 × $40,000 = $30,000.Commercial Insurance Guide
+
+545. [CARD-0545] (100 questions.txt)
+a.An occurrence policy✓
+
+Original explanation/source note: The California guide defines an occurrence policy as covering claims arising out of occurrences during the policy period, regardless of when the claim is filed.Commercial Insurance Guide
+
+546. [CARD-0546] (100 questions.txt)
+c.An insured's cancellation, less a penalty✓
+
+Original explanation/source note: The California guide defines short rate cancellation as one initiated by the policyholder in which the premium returned is subject to an administrative penalty.Commercial Insurance Guide
+
+547. [CARD-0547] (100 questions.txt)
+d.Nonpayment of premium✓
+
+Original explanation/source note: Insurance Code §551.104 allows cancellation of any policy if the named insured does not pay the premium when due, if the insured submits a fraudulent claim, or if continuing would violate the law.Texas Insurance Code Chapter 551, Cancellation, Denial, and Nonrenewal of Certain Policies
+
+548. [CARD-0548] (100 questions.txt)
+d.The length of the vacancy✓
+
+Original explanation/source note: The standard fire policy suspends coverage while a building is vacant or unoccupied beyond sixty consecutive days, and TDI notes most companies stop coverage after 60 days of vacancy.New York Insurance Law § 3404, Fire insurance contract; standard policy provisions; permissible variations (standard fire policy text); Home insurance guide
+
+549. [CARD-0549] (100 questions.txt)
+b.A written policy change✓
+
+Original explanation/source note: TDI's glossary defines an endorsement as a written agreement attached to a policy expanding or limiting the benefits otherwise payable.Home Insurance Glossary
+
+550. [CARD-0550] (100 questions.txt)
+b.Insurance Code Chapter 4101✓
+
+Original explanation/source note: Insurance Code Chapter 4101 is titled Insurance Adjusters and contains the license requirement, qualifications, exemptions and enforcement provisions.Texas Insurance Code Chapter 4101, Insurance Adjusters
+
+551. [CARD-0551] (100 questions.txt)
+c.18✓
+
+Original explanation/source note: Section 4101.053 requires evidence that the applicant is at least 18 years of age, and Pearson VUE's handbook states the same general requirement.Texas Insurance Code Chapter 4101, Insurance Adjusters; Texas Insurance Licensing Candidate Handbook (#124400; cover dated October 2024, PDF revised 2026-09-04)
+
+552. [CARD-0552] (100 questions.txt)
+c.All lines✓
+
+Original explanation/source note: Rule 19.602 approves three adjuster licenses and issues the all lines license to those who qualify for both the property, casualty and surety license and the workers' compensation, employer's liability and USL&H license.28 Tex. Admin. Code § 19.602, Types of Adjuster's Licenses
+
+553. [CARD-0553] (100 questions.txt)
+d.12 months✓
+
+Original explanation/source note: Section 4101.003 allows a registered trainee under a licensed adjuster's supervision to act as an adjuster for a period not to exceed 12 months.Texas Insurance Code Chapter 4101, Insurance Adjusters
+
+554. [CARD-0554] (100 questions.txt)
+a.180 days✓
+
+Original explanation/source note: An emergency license is effective for up to 90 days and the commissioner may extend it for an additional 90 days.Texas Insurance Code Chapter 4101, Insurance Adjusters
+
+555. [CARD-0555] (100 questions.txt)
+c.At least 50 percent✓
+
+Original explanation/source note: Section 4004.051 requires at least 50 percent of required CE hours to be completed in a classroom or classroom-equivalent setting.Texas Insurance Code Chapter 4004, Continuing Education
+
+556. [CARD-0556] (100 questions.txt)
+b.Renew with a late fee✓
+
+Original explanation/source note: Rule 19.602 allows renewal of a license that has not been expired for more than 90 days, and §4101.057 adds a late fee equal to one-half the application fee.28 Tex. Admin. Code § 19.602, Types of Adjuster's Licenses; Texas Insurance Code Chapter 4101, Insurance Adjusters
+
+557. [CARD-0557] (100 questions.txt)
+c.A public insurance adjuster✓
+
+Original explanation/source note: Section 4101.002 excludes a public insurance adjuster licensed under Chapter 4102; claims supervisors and staff and independent adjusters need adjuster licenses.Texas Insurance Code Chapter 4101, Insurance Adjusters
+
+558. [CARD-0558] (100 questions.txt)
+d.No✓
+
+Original explanation/source note: Section 4101.002 excludes a person who handles claims arising under life, accident and health policies; workers' compensation claims are not treated as such claims.Texas Insurance Code Chapter 4101, Insurance Adjusters
+
+559. [CARD-0559] (100 questions.txt)
+d.The commissioner✓
+
+Original explanation/source note: Insurance Code §31.021 names the commissioner as the department's chief executive and administrative officer, who administers and enforces the insurance laws.Texas Insurance Code Chapter 31, Texas Department of Insurance
+
+560. [CARD-0560] (100 questions.txt)
+a.By the 60th day after service✓
+
+Original explanation/source note: Section 83.053 requires the hearing request not later than the 60th day after service; the order becomes final on the 61st day otherwise.Texas Insurance Code Chapter 83, Emergency Cease and Desist Orders
+
+561. [CARD-0561] (100 questions.txt)
+c.A false rumor of insolvency✓
+
+Original explanation/source note: Section 541.053 prohibits statements that are false, maliciously critical of or derogatory to an insurer's financial condition and calculated to injure someone in the business of insurance.Texas Insurance Code Chapter 541, Unfair Methods of Competition and Unfair or Deceptive Acts or Practices
+
+562. [CARD-0562] (100 questions.txt)
+a.Statutory damages apply after 60 days✓
+
+Original explanation/source note: Section 542.058 makes an insurer that delays payment more than 60 days after receiving all items, when no other statute specifies a period, liable for the damages in §542.060.Texas Insurance Code Chapter 542, Processing and Settlement of Claims
+
+563. [CARD-0563] (100 questions.txt)
+b.28 TAC §21.203✓
+
+Original explanation/source note: Rule 21.203(2) says an acknowledgment within 15 business days is presumed to be reasonably prompt.28 Tex. Admin. Code § 21.203, Unfair Claim Settlement Practices
+
+564. [CARD-0564] (100 questions.txt)
+a.Refusing without investigating✓
+
+Original explanation/source note: Rule 21.203 lists refusing to pay claims without conducting a reasonable investigation based on all available information; requesting proof and inspecting are normal steps.28 Tex. Admin. Code § 21.203, Unfair Claim Settlement Practices
+
+565. [CARD-0565] (100 questions.txt)
+b.Interstate seamen✓
+
+Original explanation/source note: Section 401.012 says the term employee does not include a master of or a seaman on a vessel engaged in interstate or foreign commerce.Texas Labor Code Chapter 401, Workers' Compensation General Provisions
+
+566. [CARD-0566] (100 questions.txt)
+c.13 weeks' wages ÷ 13✓
+
+Original explanation/source note: Section 408.041 divides the sum of wages paid in the 13 consecutive weeks before the injury by 13.Texas Labor Code Chapter 408, Workers' Compensation Benefits
+
+567. [CARD-0567] (100 questions.txt)
+c.15 percent✓
+
+Original explanation/source note: Section 408.062 sets the minimum weekly income benefit at 15 percent of the state average weekly wage; the TIB maximum is 100 percent.Texas Labor Code Chapter 408, Workers' Compensation Benefits
+
+568. [CARD-0568] (100 questions.txt)
+d.The carrier is not liable✓
+
+Original explanation/source note: Section 406.032 excludes injuries from voluntary participation in an off-duty recreational, social or athletic activity that is not part of the job's duties unless reasonably expected or required by the employment.Texas Labor Code Chapter 406, Workers' Compensation Insurance Coverage
+
+569. [CARD-0569] (100 questions.txt)
+c.Once per 180 days✓
+
+Original explanation/source note: Section 408.004 entitles the carrier to the examination only once in a 180-day period, except as commissioner rules allow.
+
+570. [CARD-0570] (100 questions.txt, question 56)
+a.Burglary✓
+
+Original explanation/source note: Texas burglary includes entering a habitation or a building not then open to the public with intent to commit a felony, theft or an assault.Texas Penal Code Chapter 30, Burglary and Criminal Trespass
+
+Review: Source incorrectly labels this answer as 27; matched to adjacent question 56.
+
+571. [CARD-0571] (card sharp qa.txt)
+Managing risks rather than just paying premiums to an insurance company.
+Right premium for right risk
+
+Review: Recovered from a differently formatted source fragment.
+
+572. [CARD-0572] (ch6-10.txt)
+A combination of special and general damages and are designed to compensate an individual.
+
+Review: Recovered from a differently formatted source fragment.
+
+573. [CARD-0573] (ch6-10.txt)
+May be awarded for itemized losses such as medical bills, loss of earnings, and property damage.
+
+Review: Recovered from a differently formatted source fragment.
+
+574. [CARD-0574] (ch6-10.txt)
+Awarded for damages that cannot be specifically itemized such as pain and suffering.
+
+Review: Recovered from a differently formatted source fragment.
+
+575. [CARD-0575] (ch6-10.txt)
+Awarded in cases of gross negligence and are intended to punish the wrongdoer for their reckless disregard for the safety of others.
+
+Review: Recovered from a differently formatted source fragment.
+
+576. [CARD-0576] (ch6-10.txt)
+Certain activities impose liability without regard to fault or negligence.
+Normally involve extra-hazardous situations where he person must use a certain standard of care that prevents the possibility of harm to others.
+Dangerous animals, explosives, aircraft and intentionally setting fires.
+
+Review: Recovered from a differently formatted source fragment.
+
+577. [CARD-0577] (ch6-10.txt)
+Liability imposed on one party as a result of the actions of another.
+
+Parents responsible for actions of children
+Employers responsible for actions of employees
+
+Review: Recovered from a differently formatted source fragment.
+
+578. [CARD-0578] (ch6-10.txt)
+Separate limits apply to bodily injury (BI) and property damage (PD)
+Bodily injury is subject to per person maximums as well as per occurrence maximums.
+
+Review: Recovered from a differently formatted source fragment.
+
+579. [CARD-0579] (ch6-10.txt)
+An accident is a single event, normally sudden and unexpected in nature.
+
+An occurrence is a single event that can occur over a period of time (workers compensation)
+
+An occurrence can be an accident, an accident cannot be an occurrence.
+
+Review: Recovered from a differently formatted source fragment.
+
+580. [CARD-0580] (ch6-10.txt)
+A single limit applies to both bodily injury and property damage arising from a single accident.
+Usually found in commercial auto insurance and homeowners.
+
+Review: Recovered from a differently formatted source fragment.
+
+581. [CARD-0581] (ch6-10.txt)
+The maximum amount that would be paid during a policy term for all damages arising out of one or more occurrences.
+Only found in commercial lines of insurance.
+
+Review: Recovered from a differently formatted source fragment.
+
+582. [CARD-0582] (ch6-10.txt)
+Any event that causes a loss.
+Loss and peril are interchangeable.
+Fire, lightning, windstorm
+
+Review: Recovered from a differently formatted source fragment.
+
+583. [CARD-0583] (ch6-10.txt)
+A fire that stays within its boundaries and is under control such as a fire in a fireplace.
+
+Review: Recovered from a differently formatted source fragment.
+
+584. [CARD-0584] (ch6-10.txt)
+A fire that is out of any boundary and out of control such as a forest fire.
+
+Review: Recovered from a differently formatted source fragment.
+
+585. [CARD-0585] (ch6-10.txt)
+REV C. H. SHAW
+
+Riot
+Explosion
+Vehicle
+Civil Commotion
+Hail
+Smoke
+Hurricane
+Airplane
+Windstorm
+
+Review: Recovered from a differently formatted source fragment.
+
+586. [CARD-0586] (ch6-10.txt)
+When requested by a law enforcement officer
+When involved in an accident
+When renewing drivers license
+When getting a safety inspection
+When renewing a vehicle registration
+
+Review: Recovered from a differently formatted source fragment.
+
+587. [CARD-0587] (ch6-10.txt)
+Any condition that increases the chance of loss or frequency or severity of a loss
+
+Review: Recovered from a differently formatted source fragment.
+
+588. [CARD-0588] (ch6-10.txt)
+Basic - DP1
+
+Broad - DP2
+
+Special - DP3
+
+Review: Recovered from a differently formatted source fragment.
+
+589. [CARD-0589] (ch6-10.txt)
+Homeowners Policy in adjusted forms
+
+Coverage A will not be included for a Tenants Policy
+
+A modified Coverage A will be included for a Condo Policy
+
+Review: Recovered from a differently formatted source fragment.
+
+590. [CARD-0590] (ch6-10.txt)
+Describes the covered property, designates primary and optional coverages, and indicates limits, perils, mortgagee, and deductible information.
+
+Review: Recovered from a differently formatted source fragment.
+
+591. [CARD-0591] (ch6-10.txt)
+Building & Personal
+Business Income
+Extra Expense
+Builder's Risk
+Legal Liability
+Condo Association
+Condo Commercial Unit - Owners
+
+Review: Recovered from a differently formatted source fragment.
+
+592. [CARD-0592] (ch6-10.txt)
+$250
+
+Review: Recovered from a differently formatted source fragment.
+
+593. [CARD-0593] (ch6-10.txt)
+Coverage form
+
+| Cause of loss form
+
+Review: Recovered from a differently formatted source fragment.
+
+594. [CARD-0594] (ch6-10.txt)
+Describes the object being insured
+
+Review: Recovered from a differently formatted source fragment.
+
+595. [CARD-0595] (ch6-10.txt)
+A Storm
+
+Apartments
+Self-storage
+Trade contractors
+Offices
+Restaurants
+Mercantile
+
+Will not insure credit unions or banks
+
+Review: Recovered from a differently formatted source fragment.
+
+596. [CARD-0596] (ch6-10.txt)
+Competitive
+
+Review: Recovered from a differently formatted source fragment.
+
+597. [CARD-0597] (ch6-10.txt)
+The deductible for umbrella
+
+$1,000 for personal
+$10,000 for commercial
+
+Review: Recovered from a differently formatted source fragment.
+
