@@ -1,0 +1,598 @@
+card_id,section_order,section_slug,section_title,subtopic,source_deck,question,final_grade
+CARD-0001,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Law of Large Numbers,correct
+CARD-0002,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Underwriting,correct
+CARD-0003,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Peril,correct
+CARD-0004,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Hazard,correct
+CARD-0005,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Direct Loss,correct
+CARD-0006,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Indirect loss,correct
+CARD-0007,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Principal of Indemnity,correct
+CARD-0008,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Property Insurance,correct
+CARD-0019,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Casualty Insurance,correct
+CARD-0027,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Accident,correct
+CARD-0028,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Act of God,correct
+CARD-0030,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Adverse Selection,correct
+CARD-0031,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,All Risk Insurance,correct
+CARD-0038,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Catastrophe,correct
+CARD-0044,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Concurrent Causation,correct
+CARD-0052,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Exposure,correct
+CARD-0065,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Personal Lines,correct
+CARD-0115,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Risk,correct
+CARD-0116,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,The 2 types of risk,correct
+CARD-0117,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Pure risk,correct
+CARD-0118,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Speculative risk,correct
+CARD-0119,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Hazard,correct
+CARD-0120,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Exposure,correct
+CARD-0121,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Peril,correct
+CARD-0122,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Loss,correct
+CARD-0123,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,What are the 2 types of losses?,correct
+CARD-0124,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Direct Loss,correct
+CARD-0125,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Indirect loss,correct
+CARD-0126,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Methods of Handling Risk,correct
+CARD-0127,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Elements of Insurable Risks,correct
+CARD-0128,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,What element of insurable risk is uninsurable?,correct
+CARD-0129,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Law of Large Numbers,correct
+CARD-0135,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Private vs Government Insurers,correct
+CARD-0143,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,Hazard,correct
+CARD-0144,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,Types of Hazards,correct
+CARD-0145,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,Physical Hazard,correct
+CARD-0146,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,Moral Hazard,correct
+CARD-0147,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,Morale Hazard,correct
+CARD-0182,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,What is insurance?,correct
+CARD-0184,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,What is an Open/All Policy?,correct
+CARD-0185,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,What is named/specific policy?,correct
+CARD-0315,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,What is a peril?,correct
+CARD-0392,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,What is a hazard?,correct
+CARD-0395,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,Staying at a hotel while home is being repaired after a fire is what type of loss?,correct
+CARD-0396,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,What is risk?,correct
+CARD-0397,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,What kind of risk is insurable?,correct
+CARD-0400,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,A peril is,correct
+CARD-0406,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,An additional loss that results from a direct loss to property,correct
+CARD-0425,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,Something that increased the chance of a loss occurring due to a peril,correct
+CARD-0446,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,What is insurance,correct
+CARD-0447,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",review.txt,Hazard,correct
+CARD-0511,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",100 questions.txt,"Which term means the cause of a loss, such as fire or hail?",correct
+CARD-0512,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",100 questions.txt,A building with no fire sprinklers and wooden construction presents which kind of thing to an underwriter?,correct
+CARD-0571,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",card sharp qa.txt,Risk Management,correct
+CARD-0582,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,Peril,correct
+CARD-0587,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Risk, peril, hazard, and loss",ch6-10.txt,What is a hazard?,correct
+CARD-0013,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Loss Settlement,correct
+CARD-0014,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,What are the four methods to determine a loss settlment?,correct
+CARD-0015,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Actual Cash Value,correct
+CARD-0016,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Replacement Cost,correct
+CARD-0017,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Agreed Value,correct
+CARD-0018,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Market Value,correct
+CARD-0034,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Betterment,correct
+CARD-0048,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Depreciation,correct
+CARD-0054,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,card sharp qa.txt,Incurred Expense,correct
+CARD-0183,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,ch6-10.txt,What is the formula for Actual Cash Value (ACV),correct
+CARD-0394,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,review.txt,The principle that states that an insured should be restored to approximately the same financial condition after a loss as before the loss is known as,correct
+CARD-0402,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,review.txt,What is ACV,correct
+CARD-0426,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,review.txt,Actual cash value,correct
+CARD-0435,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,review.txt,The principle of indemnity,correct
+CARD-0519,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,100 questions.txt,How does TDI define depreciation?,correct
+CARD-0527,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,100 questions.txt,"Which valuation method is most common for fine art and classic autos, according to the California guide?",correct
+CARD-0528,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,100 questions.txt,Which statement about replacement cost coverage is correct?,correct
+CARD-0529,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,100 questions.txt,What is the goal of indemnity in property and casualty insurance?,correct
+CARD-0533,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Indemnity and how losses are valued,100 questions.txt,"Two property insurers with $100,000 and $300,000 limits share an $80,000 loss pro rata. What does the smaller insurer pay?",correct
+CARD-0009,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Insurance Agreement,correct
+CARD-0010,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Deductible,correct
+CARD-0011,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Cancellation,correct
+CARD-0012,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Limit of Liability,correct
+CARD-0045,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Conditions,correct
+CARD-0047,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Declarations page,correct
+CARD-0049,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Endorsement,correct
+CARD-0050,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Exclusion,correct
+CARD-0051,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Expiration Date,correct
+CARD-0055,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Insured,correct
+CARD-0056,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Insurer,correct
+CARD-0058,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Loss Payee,correct
+CARD-0061,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Non Renewal,correct
+CARD-0066,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Policy Period,correct
+CARD-0077,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Vandalism,correct
+CARD-0089,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Four parts of an Insurance Contract,correct
+CARD-0090,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Declarations,correct
+CARD-0091,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Insuring agreement,correct
+CARD-0092,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Conditions,correct
+CARD-0093,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Exclusions,correct
+CARD-0094,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Endorsements,correct
+CARD-0095,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Policy Definitions,correct
+CARD-0096,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Insured,correct
+CARD-0097,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Policy Period,correct
+CARD-0098,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Policy Territory,correct
+CARD-0099,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Additional Coverage,correct
+CARD-0100,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Third Party Provisions,correct
+CARD-0101,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,card sharp qa.txt,Extensions,correct
+CARD-0186,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,ch6-10.txt,Where would one find the term insured?,correct
+CARD-0187,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,ch6-10.txt,Where would you find the “who” and “what” that are insured?,correct
+CARD-0188,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,ch6-10.txt,Where would you find the promise to pay?,correct
+CARD-0189,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,ch6-10.txt,Where would you find the limitations to coverage?,correct
+CARD-0190,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,ch6-10.txt,What is an insurable interest?,correct
+CARD-0401,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,review.txt,What part of an insurance policy personalizes the policy as to who and what are insured,correct
+CARD-0403,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,review.txt,What type of policy insures against all risks off loss that is not specifically excluded by the policy,correct
+CARD-0427,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,review.txt,All Risk insurance forms,correct
+CARD-0546,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,100 questions.txt,What does a short-rate cancellation involve?,correct
+CARD-0549,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,The policy: declarations through endorsements,100 questions.txt,How does TDI define an endorsement?,correct
+CARD-0035,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Breach of Contract,correct
+CARD-0043,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Concealment,correct
+CARD-0053,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Fraud,correct
+CARD-0059,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Material Misrepresentation,correct
+CARD-0078,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,4 Elements of a Legal Contract required for a contract to be legal and enforceable,correct
+CARD-0079,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Offer and acceptance,correct
+CARD-0080,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Competent Parties,correct
+CARD-0081,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Legal Object,correct
+CARD-0082,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Consideration,correct
+CARD-0083,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Special Features of the Insurance Contract -Unilateral Contract,correct
+CARD-0084,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Special Features of the Insurance Contract -Adhesion Contract,correct
+CARD-0085,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Special Features of the Insurance Contract - Aleatory Contract,correct
+CARD-0086,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Special Features of the Insurance Contract - Valued Contract,correct
+CARD-0087,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Special Features of the Insurance Contract - Personal Contract,correct
+CARD-0088,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Special Features of the Insurance Contract - Conditional Contract,correct
+CARD-0102,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Utmost Good Faith,correct
+CARD-0103,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Reasonable Expectations,correct
+CARD-0104,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Representations,correct
+CARD-0105,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Warranties,correct
+CARD-0106,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Concealment,correct
+CARD-0107,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Fraud,correct
+CARD-0108,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Waiver,correct
+CARD-0109,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Estoppel,correct
+CARD-0110,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Binder,unsupported (key detail not verifiable)
+CARD-0111,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,card sharp qa.txt,Proposal,correct
+CARD-0191,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,ch6-10.txt,What are the four parts of a contract?,correct
+CARD-0192,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,ch6-10.txt,"In the insurance contract, what does agreement represent?",correct
+CARD-0320,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,Concealment,correct
+CARD-0388,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,Misrepresentation is:,correct
+CARD-0398,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,"In a legal contract, agreement refers to",correct
+CARD-0399,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,Concealment is,correct
+CARD-0405,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,What does a binder do,correct
+CARD-0412,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,What is a representation?,correct
+CARD-0428,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,What is considered an offer,correct
+CARD-0434,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,What is the acceptance of an offer,correct
+CARD-0443,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,review.txt,Representation,correct
+CARD-0514,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,100 questions.txt,How does the Texas Supreme Court interpret insurance policies?,correct
+CARD-0515,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,100 questions.txt,"Which term describes the insurer's giving up a known right, such as a late-notice defense, on purpose?",correct
+CARD-0517,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,100 questions.txt,Which statement about estoppel in Texas insurance law is correct?,correct
+CARD-0536,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,100 questions.txt,Which statement about misrepresentation in an insurance application is correct under Texas law?,correct
+CARD-0540,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,Contract law,100 questions.txt,How does TDI define a binder?,correct
+CARD-0057,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Loss History,correct
+CARD-0060,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Monoline Form,correct
+CARD-0067,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Premiums,correct
+CARD-0112,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Insurance Company Structure,correct
+CARD-0113,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Actuarial Department,correct
+CARD-0114,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,What is insurance?,correct
+CARD-0130,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Reinsurance,correct
+CARD-0131,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Stock Companies,correct
+CARD-0132,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Mutual Companies,correct
+CARD-0133,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,What types of insurances companies are non-admitted and have no rate regulations?,key discrepancy (answer follows current authoritative source)
+CARD-0134,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Self-Insurers,correct
+CARD-0136,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",card sharp qa.txt,Authorized Insurer,correct
+CARD-0137,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Underwriting,correct
+CARD-0138,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Insurable Interest,correct
+CARD-0139,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Loss Ratio,correct
+CARD-0140,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Rates,correct
+CARD-0141,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Types of Rates,correct
+CARD-0142,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Independent Fillings vs Deviate Fillings,correct
+CARD-0292,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Surplus lines,correct
+CARD-0293,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Stamping Office,correct
+CARD-0294,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Non-admitted,correct
+CARD-0295,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",ch6-10.txt,Admitted company,correct
+CARD-0393,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",review.txt,The type of insurance company that the policyholder is considered an owner with the right to vote and share in profits,correct
+CARD-0513,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",100 questions.txt,How does TDI define insurable interest?,correct
+CARD-0538,01,01-insurance-basics-and-contract-law,Insurance basics and contract law,"Insurers, rates, and underwriting",100 questions.txt,How does the California guide describe insurance itself?,correct
+CARD-0020,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Liability,correct
+CARD-0021,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Negligence,correct
+CARD-0022,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Tort,correct
+CARD-0024,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Comparative Negligence,correct
+CARD-0025,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Contributory Negligence,correct
+CARD-0026,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Assumption of Risk,correct
+CARD-0033,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Attractive Nuisance,correct
+CARD-0036,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",card sharp qa.txt,Bodily Injury,correct
+CARD-0150,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Tort,correct
+CARD-0151,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Negligence,correct
+CARD-0152,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Four Elements of Negligence,correct
+CARD-0154,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Proximate Cause,correct
+CARD-0156,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Assumption of Risk,correct
+CARD-0157,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Comparative Negligence,key discrepancy (answer follows current authoritative source)
+CARD-0158,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Contributory Negligence,correct
+CARD-0159,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Intervening Causes,correct
+CARD-0200,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Define negligence,correct
+CARD-0432,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",review.txt,The failure to do what a reasonable prudent person would do under the circumstances,correct
+CARD-0433,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",review.txt,Proximate causes requires that,correct
+CARD-0543,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",100 questions.txt,Which element of proximate cause asks whether a person of ordinary intelligence should have anticipated the danger?,correct
+CARD-0576,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Absolute (strict) liability,correct
+CARD-0577,02,02-negligence-and-liability-law,Negligence and liability law,"Tort, negligence, and fault systems",ch6-10.txt,Vicarious Liability,correct
+CARD-0023,02,02-negligence-and-liability-law,Negligence and liability law,Damages,card sharp qa.txt,-Punitive Damages,correct
+CARD-0046,02,02-negligence-and-liability-law,Negligence and liability law,Damages,card sharp qa.txt,Damages,correct
+CARD-0153,02,02-negligence-and-liability-law,Negligence and liability law,Damages,ch6-10.txt,Actual Damages,unsupported (key detail not verifiable)
+CARD-0530,02,02-negligence-and-liability-law,Negligence and liability law,Damages,100 questions.txt,Which damages compensate a claimant for actual economic or pecuniary loss under Texas law?,correct
+CARD-0572,02,02-negligence-and-liability-law,Negligence and liability law,Damages,ch6-10.txt,Compensatory Damages,correct
+CARD-0573,02,02-negligence-and-liability-law,Negligence and liability law,Damages,ch6-10.txt,Special Damages,correct
+CARD-0574,02,02-negligence-and-liability-law,Negligence and liability law,Damages,ch6-10.txt,General Damages,correct
+CARD-0575,02,02-negligence-and-liability-law,Negligence and liability law,Damages,ch6-10.txt,Punitive Damages,correct
+CARD-0160,02,02-negligence-and-liability-law,Negligence and liability law,Deadlines that sit next to this material,ch6-10.txt,Statue of Limitations,correct
+CARD-0471,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,"Under the standard fire policy, which condition suspends coverage while it lasts?",correct
+CARD-0472,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,A fire policy requires the insured to 'forthwith separate the damaged and undamaged personal property.' What is this requirement part of?,correct
+CARD-0473,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,Which peril is insured by the basic standard fire policy?,correct
+CARD-0474,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,"Under the standard fire policy, how long does the insured have to bring suit, as New York's statutory text now reads?",correct
+CARD-0475,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,"Under the standard fire policy, the insurer cancels a policy. How is unearned premium returned?",correct
+CARD-0516,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,What does a non-waiver clause in the standard fire policy say about appraisal and examinations?,correct
+CARD-0534,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,"Under the standard fire policy, what may the insurer elect to do instead of paying cash for a loss?",correct
+CARD-0542,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,100 questions.txt,"Under the standard fire policy, when is a loss payable?",correct
+CARD-0583,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,ch6-10.txt,Friendly fire,correct
+CARD-0584,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,ch6-10.txt,Hostile fire,correct
+CARD-0585,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Standard fire policy,ch6-10.txt,Extended Coverage Perils,correct
+CARD-0383,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas valued-policy rule,review.txt,Liquidated demand,correct
+CARD-0521,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas valued-policy rule,100 questions.txt,A building is insured for its full value under a Texas fire policy and is totally destroyed by fire. Which Texas rule applies to the dwelling?,correct
+CARD-0203,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,Texas Dwelling policy,key discrepancy (answer follows current authoritative source)
+CARD-0204,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What are the different coverages available on the Texas Dwelling Policy?,correct
+CARD-0205,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What perils are covered on Basic DP1 for the Texas Dwelling Policy?,correct
+CARD-0206,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What are the perils for Broad DP2 of Texas Dwelling Policy?,correct
+CARD-0207,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What perils are covered by Special DP3 of Texas Dwelling Policy?,correct
+CARD-0208,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What are the coverages and valuation for Basic DP1 under Texas Dwelling Policy?,key discrepancy (answer follows current authoritative source)
+CARD-0209,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What are the coverages and valuation Broad DP2 of Texas Dwelling Policy?,key discrepancy (answer follows current authoritative source)
+CARD-0210,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What are the coverages and valuation for Special DP3 of Texas Dwelling Policy?,correct
+CARD-0211,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,How much is paid for indirect losses on all Texas Dwelling Policies?,correct
+CARD-0212,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What does Coverage A - Dwelling cover on Texas Dwelling Policies?,correct
+CARD-0213,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What is covered by Coverage B - Detached structures on the Texas Dwelling Policy?,correct
+CARD-0214,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What is covered by Coverage C - Contents of Texas Dwelling Policies?,correct
+CARD-0215,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What does Coverage D - Fair Rental Value of the Texas Dwelling Policy cover?,correct
+CARD-0216,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What does Coverage E - Additional Living Expenses cover in the Texas Dwelling Policy?,correct
+CARD-0327,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What is coverage E on a Texas Dwelling policy?,correct
+CARD-0328,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What form is Coverage E on Texas Dwelling policy provided on and what is the amount?,correct
+CARD-0458,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What are the 3 forms available Texas Dwelling Policy,correct
+CARD-0459,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What are the coverages on TDP?,key discrepancy (answer follows current authoritative source)
+CARD-0460,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What does Coverage A on TDP cover?,key discrepancy (answer follows current authoritative source)
+CARD-0461,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What does Coverage B of TDP cover?,key discrepancy (answer follows current authoritative source)
+CARD-0462,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What does Coverage C of TDP cover?,correct
+CARD-0463,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What does Coverage D of TDP cover?,correct
+CARD-0464,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,What does Coverage E cover on TDP?,correct
+CARD-0465,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),review.txt,"What is the coverage for trees, shrubs and plants on TDP?",correct
+CARD-0588,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Texas dwelling policy (TDP),ch6-10.txt,What are the 3 forms that the Texas Dwelling Policy is available on,correct
+CARD-0155,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms",Ensuing loss,ch6-10.txt,Ensuing Loss,correct
+CARD-0029,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",card sharp qa.txt,Additional Living Expenses,correct
+CARD-0148,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What is the property portion of an insurance policy?,correct
+CARD-0149,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What does the casualty portion of insurance cover?,correct
+CARD-0217,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What is the Texas Homeowner Policy?,unsupported (key detail not verifiable)
+CARD-0218,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What is the standard deductible for Coverage A for a Texas Homeowners Policy?,correct
+CARD-0219,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What is the standard deductible for tenant and condo policies?,correct
+CARD-0220,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the coverages for a Texas Homeowners Policy?,correct
+CARD-0221,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What is the HO-8 form of Texas Homeowners Policy?,correct
+CARD-0222,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What perils are covered by HO-8 Texas Homeowner Policy?,correct
+CARD-0223,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the coverages and valuation for HO-8 under Texas Homeowner Policy?,correct
+CARD-0224,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the coverages and valuation for HO-2 under Texas Homeowner Policy?,key discrepancy (answer follows current authoritative source)
+CARD-0225,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the coverages and valuation for HO-3 under Texas Homeowner Policy?,correct
+CARD-0226,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the coverages and valuation for HO-5 under Texas Homeowner policy?,correct
+CARD-0227,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the covered perils under HO-2 for Texas Homeowners Policy?,correct
+CARD-0228,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the covered perils for HO-4 for Texas Homeowners policy?,correct
+CARD-0229,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the covered perils for HO-6 for Texas Homeowners policy?,correct
+CARD-0230,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the covered perils for HO-3 of Texas Homeowner policy?,correct
+CARD-0231,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the covered perils for HO-5 for Texas Homeowners policy?,correct
+CARD-0232,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the coverages and valuation for HO-4 for Texas Homeowner Policy?,correct
+CARD-0233,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,What are the coverages and valuation for HO-6 for Texas Homeowners Policy?,correct
+CARD-0234,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,Which policies cover essentially the same perils?,correct
+CARD-0323,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What are the reasons to cancel a Homeowners policy midterm?,correct
+CARD-0326,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What percentage of the home's value must be insured in order to receive replacement costs?,correct
+CARD-0329,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What is always excluded for trees/shrubs/plants?,correct
+CARD-0330,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,Can domestic servants file against HO liability?,correct
+CARD-0332,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What items are not covered for damage by wind or hail on a HO policy?,correct
+CARD-0333,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What is vacancy and what is important around the timeframe?,correct
+CARD-0334,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,Under Homeowners Policies what is not covered off premises?,correct
+CARD-0335,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What is necessary to qualify for a Homeowners policy?,correct
+CARD-0336,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,"On homeowners policies, what is the maximum limit for Coverage B?",correct
+CARD-0337,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,"What is the standard deductible on HO2, HO3, HO5?",correct
+CARD-0338,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What is this the basic limit of liability on Homeowners policies?,correct
+CARD-0339,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What is the difference between HO2 valuation and HO3/HO5?,key discrepancy (answer follows current authoritative source)
+CARD-0340,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What is the statue of limitations for Medical Payments on homeowners policy?,correct
+CARD-0408,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,Homeowners policies proved liability coverage for,correct
+CARD-0409,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,"What is the minimum amount of coverage that is available for Coverage E, liability, on the Homeowners policy?",correct
+CARD-0410,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,Section II of a homeowners policy covers,correct
+CARD-0411,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,An HO-2 form sets limits on,correct
+CARD-0466,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What are the coverages for Homeowners Insurance,correct
+CARD-0467,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What are the forms for Homeowners for houses,correct
+CARD-0468,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What form covers apartments,correct
+CARD-0469,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What form covers condos,correct
+CARD-0470,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",review.txt,What is the standard deductible for Homeowners,correct
+CARD-0476,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,Which homeowners coverage pays for a detached fence damaged by a covered peril?,correct
+CARD-0477,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,Which homeowners form is designed for a condominium unit owner?,correct
+CARD-0478,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,Which homeowners form provides open-peril coverage on both dwelling and personal property?,correct
+CARD-0479,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,"Which peril is typically NOT covered by a Texas homeowners policy, according to TDI?",correct
+CARD-0481,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,A homeowners policy's liability coverage pays for which of these?,correct
+CARD-0482,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,A dog owned by the insured bites a visitor. Which homeowners coverage typically responds to the visitor's claim?,correct
+CARD-0483,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,Why is a mobile home typically settled on an actual cash value basis?,correct
+CARD-0520,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,"According to TDI's home insurance glossary, what caps additional living expenses?",correct
+CARD-0548,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",100 questions.txt,A homeowners policy excludes vacancy losses after 60 days. Which fact matters most for applying it?,correct
+CARD-0589,03,03-dwelling-homeowners-and-texas-forms,"Dwelling, homeowners, and the Texas forms","Homeowners forms, Texas HO-B, and eligibility",ch6-10.txt,hat policy can tenants (renters) and condo owners use?,correct
+CARD-0161,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"Financial responsibility, limits, and the residual market",ch6-10.txt,Texas Motor Vehicle Safety Responsibility Act (1982),key discrepancy (answer follows current authoritative source)
+CARD-0162,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"Financial responsibility, limits, and the residual market",ch6-10.txt,SR22,correct
+CARD-0163,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"Financial responsibility, limits, and the residual market",ch6-10.txt,Texas Automobile Insurance Plan Association,correct
+CARD-0351,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"Financial responsibility, limits, and the residual market",review.txt,What is the minimum PAP coverage?,correct
+CARD-0578,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"Financial responsibility, limits, and the residual market",ch6-10.txt,Split Limits,correct
+CARD-0580,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"Financial responsibility, limits, and the residual market",ch6-10.txt,Combined Single Limits,correct
+CARD-0586,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"Financial responsibility, limits, and the residual market",ch6-10.txt,When must motor vehicle owners show proof of financial responsibility?,correct
+CARD-0164,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What does the declarations section of the Personal Auto Policy (PAP) do?,correct
+CARD-0165,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What does the definitions section of the policy do?,correct
+CARD-0166,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,Who is the “named insured”?,correct
+CARD-0167,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What is a “family member”?,correct
+CARD-0168,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What does “occupying” mean?,correct
+CARD-0169,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What does “trailer” mean?,correct
+CARD-0170,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What does “your covered auto” mean?,correct
+CARD-0171,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What does “owned” mean?,correct
+CARD-0172,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What does “non-owned” mean?,correct
+CARD-0173,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,What is a “temporary substitute”?,correct
+CARD-0174,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,Personal Liability,correct
+CARD-0175,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,Who is covered while driving a covered auto on a personal policy?,correct
+CARD-0176,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,Exclusions to Liability Coverage on a personal auto policy,correct
+CARD-0177,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,Supplementary Payments,correct
+CARD-0178,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,ch6-10.txt,Out of state coverage,correct
+CARD-0341,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,review.txt,"Under PAP, what constitutes as a ""your covered auto""?",correct
+CARD-0346,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,review.txt,What is the policy territory for PAP?,correct
+CARD-0347,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,review.txt,What vehicles are ineligible for a PAP?,correct
+CARD-0445,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,review.txt,What is the insuring agent section of an auto policy?,correct
+CARD-0488,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,100 questions.txt,A driver who does not own a car wants liability coverage when borrowing cars. What does TDI describe for this need?,correct
+CARD-0489,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,100 questions.txt,"Under the Texas Personal Auto Policy form, a 'family member' must meet which test?",correct
+CARD-0490,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Texas PAP definitions and liability,100 questions.txt,"Under the Texas Personal Auto Policy form, what does 'occupying' mean?",correct
+CARD-0075,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",card sharp qa.txt,Uninsured Motorist Coverage,correct
+CARD-0179,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",ch6-10.txt,Medical Payments Coverage,correct
+CARD-0180,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",ch6-10.txt,What does Personal Injury Protection (PIP) provide?,correct
+CARD-0181,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",ch6-10.txt,PIP Option Form on personal auto policies,correct
+CARD-0195,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",ch6-10.txt,What is he difference between Medical Payments and PIP?,correct
+CARD-0197,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",ch6-10.txt,What is the only coverage that can be rejected with an option form?,correct
+CARD-0199,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",ch6-10.txt,What is the deductible for Uninsured Motorist?,correct
+CARD-0342,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",review.txt,What must be true in order to file a UM claim?,correct
+CARD-0350,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",review.txt,What coverage must be rejected in writing on a PAP?,correct
+CARD-0358,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",review.txt,What is the coverage and timeframe for medical payments for Auto?,correct
+CARD-0484,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",100 questions.txt,Which coverage in a Texas auto policy pays medical bills and lost income regardless of fault?,correct
+CARD-0485,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",100 questions.txt,A Texas policyholder wants to decline uninsured/underinsured motorists coverage. How must this be done?,correct
+CARD-0486,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",100 questions.txt,An at-fault driver's insurer becomes insolvent before paying. How does Texas law treat that driver's vehicle for UM purposes?,correct
+CARD-0532,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,"PIP, medical payments, and uninsured motorists",100 questions.txt,"Two PIP coverages apply to an injured person in the named insured's own car. Under the Texas Personal Auto Policy's PIP other-insurance clause, how does the policy pay?",correct
+CARD-0040,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,card sharp qa.txt,Collision,correct
+CARD-0042,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,card sharp qa.txt,Comprehensive Coverage,correct
+CARD-0071,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,card sharp qa.txt,Total Loss,correct
+CARD-0194,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,ch6-10.txt,Where would you find the coverage extension Transportation Expenses?,correct
+CARD-0196,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,ch6-10.txt,What is the difference between newly acquired replacement vehicle and newly acquired additional vehicle?,correct
+CARD-0345,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,review.txt,What is TE and what are the max amount payable for expenses?,correct
+CARD-0348,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,review.txt,Collision with an animal is covered by what coverage?,correct
+CARD-0349,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,review.txt,Damage to a rental car is covered by what coverage?,correct
+CARD-0413,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,review.txt,Under which extension of coverage would a policy provide a rental car if your vehicle had been stolen and missing at least 48 hours?,correct
+CARD-0431,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,review.txt,Damage to an rental auto caused by the insured is covered under which section of PAP?,correct
+CARD-0487,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,100 questions.txt,Which auto coverage pays for a stolen car?,correct
+CARD-0535,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Physical damage,100 questions.txt,"When is a damaged car most likely declared a total loss, according to TDI?",correct
+CARD-0322,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Cancellation and nonrenewal notices,review.txt,What are the reasons to cancel midterm on a PAP?,correct
+CARD-0324,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Cancellation and nonrenewal notices,review.txt,Explain PAP 10/10/30?,correct
+CARD-0343,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Cancellation and nonrenewal notices,review.txt,How much notice must be given to a non-renewal on a PAP?,correct
+CARD-0344,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Cancellation and nonrenewal notices,review.txt,How much notice must be given on a PAP for non-payment?,correct
+CARD-0193,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Commercial auto (BAP) and garagekeepers,ch6-10.txt,What coverages are only available as an endorsement to BAP?,correct
+CARD-0198,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Commercial auto (BAP) and garagekeepers,ch6-10.txt,What is a garage keepers policy?,correct
+CARD-0325,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Commercial auto (BAP) and garagekeepers,review.txt,Explain 10/10/60 for BAP,correct
+CARD-0429,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Commercial auto (BAP) and garagekeepers,review.txt,What are two optional coverages obtained by endorsement to a BAP?,correct
+CARD-0430,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Commercial auto (BAP) and garagekeepers,review.txt,What coverage extension includes Transportation Expense?,correct
+CARD-0491,04,04-personal-auto-and-texas-pap,Personal auto and the Texas PAP,Commercial auto (BAP) and garagekeepers,100 questions.txt,"What do Business Auto Policies commonly use as their limit of liability, according to the California guide?",correct
+CARD-0039,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,card sharp qa.txt,Coinsurance Policy,correct
+CARD-0074,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,card sharp qa.txt,Underinsurance,correct
+CARD-0076,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,card sharp qa.txt,Vacancy,correct
+CARD-0235,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,ch6-10.txt,What is the commercial package policy?,correct
+CARD-0236,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,ch6-10.txt,What are some common policy conditions for Commercial Package Policy?,correct
+CARD-0352,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,review.txt,What two forms are required to have a Commercial Property policy?,correct
+CARD-0361,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,review.txt,What is the basic deductible for Commercial Property?,key discrepancy (answer follows current authoritative source)
+CARD-0364,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,review.txt,What Commercial Property Policy loss form covers theft?,correct
+CARD-0368,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,review.txt,What is the advantage of insuring property with a Special form?,correct
+CARD-0369,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,review.txt,"For both Commercial Property Policies and TBOP, what is not covered after 60 days of vacancy?",correct
+CARD-0370,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,review.txt,What are the coverage extensions for Commercial Property policies?,key discrepancy (answer follows current authoritative source)
+CARD-0492,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,100 questions.txt,"A commercial property policy covers 'your business's care, custody and control' property. What is this coverage called?",correct
+CARD-0493,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,100 questions.txt,Which commercial causes-of-loss form provides the least coverage?,correct
+CARD-0494,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,100 questions.txt,What does a Commercial Package Policy combine?,correct
+CARD-0544,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,100 questions.txt,"A building worth $300,000 carries $180,000 of insurance with an 80% coinsurance clause. A $40,000 loss occurs; ignore the deductible. What is paid?",correct
+CARD-0590,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,ch6-10.txt,Commercial Package Policy common policy declarations,unsupported (key detail not verifiable)
+CARD-0591,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,ch6-10.txt,What are the 7 Coverage Forms for a Commercial Property policy?,correct
+CARD-0592,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,ch6-10.txt,What is the deductible for Commercial Property Policy?,key discrepancy (answer follows current authoritative source)
+CARD-0593,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,ch6-10.txt,What are the two components of Commercial Property Policy?,correct
+CARD-0594,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Commercial package and commercial property forms,ch6-10.txt,What does the coverage form do on a Commercial Property Policy?,correct
+CARD-0416,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Time-element and ordinance or law,review.txt,The Extra Expense coverage provides,correct
+CARD-0502,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Time-element and ordinance or law,100 questions.txt,What triggers a business income claim under a typical business interruption form?,correct
+CARD-0503,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Time-element and ordinance or law,100 questions.txt,Which coverage pays the cost of renting temporary space so a damaged business can keep operating?,correct
+CARD-0504,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Time-element and ordinance or law,100 questions.txt,A landlord loses rental income after a covered fire makes the building unfit for tenants. Which time element coverage fits?,correct
+CARD-0505,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Time-element and ordinance or law,100 questions.txt,Which ordinance or law coverage pays the increased cost of rebuilding to current code?,correct
+CARD-0258,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,Texas Business Owners Policy,correct
+CARD-0259,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are the 3 different forms offered for Texas Business Owners Policy (TBOP)?,correct
+CARD-0260,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What forms cover theft under TBOP?,correct
+CARD-0261,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are the special limits for theft under TBOP?,correct
+CARD-0262,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are the coverages for TBOP?,correct
+CARD-0263,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are the exclusions to TBOP for property coverage?,correct
+CARD-0264,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are the additional coverages under TBOP?,correct
+CARD-0265,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,Extensions on Section 1 (property) for TBOP,unsupported (key detail not verifiable)
+CARD-0266,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are the different sections under TBOP?,correct
+CARD-0267,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are optional coverages under TBOP?,correct
+CARD-0268,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What is Section 1 under TBOP?,correct
+CARD-0269,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What is section 2 under TBOP?,correct
+CARD-0270,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What is Coverage C under TBOP?,correct
+CARD-0271,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What is Section D under TBOP?,unsupported (key detail not verifiable)
+CARD-0357,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),review.txt,What is the coverage and timeframe for medical payments for TBOP?,correct
+CARD-0362,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),review.txt,What is the basic deductible for TBOP?,correct
+CARD-0365,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),review.txt,What TBOP loss form covers theft?,correct
+CARD-0366,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),review.txt,What 6 categories of businesses qualify for a TBOP?,correct
+CARD-0367,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),review.txt,What is specifically excluded on a TBOP?,correct
+CARD-0495,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),100 questions.txt,Which exposure does a Businessowners Policy include that a monoline property policy does not?,correct
+CARD-0595,05,05-commercial-property-and-tbop,"Commercial property, the package policy, and Texas BOP",Texas businessowners (TBOP),ch6-10.txt,What are the 6 categories that are eligible for Texas Business Owners Policy (TBOP)?,correct
+CARD-0041,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",card sharp qa.txt,Commercial General Liability,correct
+CARD-0063,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",card sharp qa.txt,Occurrence,correct
+CARD-0202,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What is the difference between accident and occurrence?,correct
+CARD-0237,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are the coverages of Commercial General Liability (CGL)?,correct
+CARD-0238,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are the liability exposures for Commercial General Liability (CGL)?,correct
+CARD-0239,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What is Coverage A of Commercial General Liability?,correct
+CARD-0240,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What is Coverage B of the Commercial General Liability policy?,correct
+CARD-0241,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What is Coverage C of Commercial General Liability (CGL)?,correct
+CARD-0242,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are supplemental payments for Commercial General Liability (CGL)?,key discrepancy (answer follows current authoritative source)
+CARD-0243,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,Who are the names insured on Commercial General Liability?,correct
+CARD-0244,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,Who are the other insured’s on Commercial General Liability (CGL) policies?,correct
+CARD-0245,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are the 6 separate limits of liability on Commercial General Liability (CGL)?,correct
+CARD-0246,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,Duties of insured,correct
+CARD-0247,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,Subrogation,correct
+CARD-0248,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,Premium audit,key discrepancy (answer follows current authoritative source)
+CARD-0249,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,Mobile Equipment,correct
+CARD-0250,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are the exclusions for Coverage A (BI & PD) and Coverage C (Med Pay) for Commercial General Liability?,correct
+CARD-0251,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are the exceptions to CGL Coverage B (personal or advertising injury)?,correct
+CARD-0252,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are the exclusions to CGL Coverage B for advertising injuries only?,correct
+CARD-0253,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,What are the exclusions to CGL Coverage C (med pay only),correct
+CARD-0355,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",review.txt,Medical payments for CGL must be incurred within what timeframe?,correct
+CARD-0356,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",review.txt,How much coverage is Medical payments on CGL?,correct
+CARD-0363,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",review.txt,What are some examples of Supplemental Payments?,correct
+CARD-0407,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",review.txt,"In liability policies, supplementary payments are",correct
+CARD-0436,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",review.txt,Occurrence is,correct
+CARD-0510,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",100 questions.txt,Which exclusion in a CGL policy sends aircraft exposures to a separate aviation policy?,correct
+CARD-0579,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,The difference between accident and occurrence,correct
+CARD-0581,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"CGL coverages, insureds, limits, and exclusions",ch6-10.txt,Aggregate Limit,correct
+CARD-0072,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",card sharp qa.txt,Umbrella Insurance,correct
+CARD-0254,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,“Claims made” policy forms vs “occurrence”,correct
+CARD-0255,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,What is a retroactive date?,correct
+CARD-0256,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,Extended reporting period,correct
+CARD-0257,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,Pollution Liability Coverage Form,correct
+CARD-0288,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,What is the purpose of an Umbrella Policy?,correct
+CARD-0289,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,What are special features of umbrella policy?,correct
+CARD-0290,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,What are the Special and Professional Liability Insurance?,correct
+CARD-0291,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,Errors and Omissions,correct
+CARD-0353,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",review.txt,What does the standard pollution policy specifically cover?,correct
+CARD-0380,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",review.txt,"When are you responsible for a SIR, self insurance retention?",correct
+CARD-0381,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",review.txt,"What are the standard amounts for a SIR, self insurance retention?",correct
+CARD-0414,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",review.txt,"Under the claims-made CGL form, the first date that a loss may occur and still be covered under the policy is",correct
+CARD-0506,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",100 questions.txt,A commercial umbrella responds to which layer of a liability loss?,correct
+CARD-0509,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",100 questions.txt,How is professional liability (E&O) insurance usually triggered?,correct
+CARD-0545,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",100 questions.txt,"Which type of liability policy responds to injuries that happen during the policy period, whenever the claim is made?",correct
+CARD-0597,06,06-cgl-and-commercial-liability,CGL and other commercial liability,"Claims-made, pollution, professional liability, umbrella",ch6-10.txt,Self-Insured Retention,correct
+CARD-0272,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,ch6-10.txt,What code is the Texas workers compensation established under?,correct
+CARD-0273,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,ch6-10.txt,Is Texas Workers Compensation Compulsory or Elective,correct
+CARD-0274,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,ch6-10.txt,What are the 3 defenses that an employer has?,correct
+CARD-0281,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,ch6-10.txt,Who is eligible to purchase Texas Workers Compensation?,correct
+CARD-0282,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,ch6-10.txt,Can an employee reject workers compensation ?w,correct
+CARD-0283,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,ch6-10.txt,What is exclusive remedy under Texas Workers Compensation ?,correct
+CARD-0331,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,review.txt,Can domestic servants file a Workers Compensation claim?,correct
+CARD-0371,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,review.txt,What are the 3 reasons to deny a WC claim?,correct
+CARD-0372,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,review.txt,Is workers compensation in Texas elective or compulsory?,correct
+CARD-0375,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,review.txt,What is the minimum number of employees needed to qualify for Texas Workers Compensation?,correct
+CARD-0376,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,review.txt,Who does the Jones Act protect?,correct
+CARD-0377,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,review.txt,Define extraterrestrial benefits/ clause,correct
+CARD-0453,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,review.txt,Extraterritorial clause,correct
+CARD-0565,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,100 questions.txt,Which workers are excluded from 'employee' under the Texas Labor Code's workers' compensation definitions?,correct
+CARD-0568,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,100 questions.txt,An injury arises from an employee's voluntary off-duty softball game that the job does not require. What does the Labor Code provide?,correct
+CARD-0596,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,Whether coverage applies,ch6-10.txt,"What type of law is Texas Workers Compensation, monopolistic or competitive?",correct
+CARD-0275,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is a legal beneficiary under Texas Workers Compensation?,key discrepancy (answer follows current authoritative source)
+CARD-0276,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is Maximum Medical Improvement?,correct
+CARD-0277,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is occupational disease?,correct
+CARD-0278,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is a sanction in Texas Workers Compensation ?,correct
+CARD-0279,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is a settlement under Texas Workers Compensation?,correct
+CARD-0280,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is the subsequent injury fund?,correct
+CARD-0284,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is the waiting period for Texas Worker’s Compensation?,key discrepancy (answer follows current authoritative source)
+CARD-0285,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What are the statue of limitations for Texas Worker’s Compensation?,correct
+CARD-0286,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,Medical Care under Texas Workers Compensation,correct
+CARD-0287,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",ch6-10.txt,What is Average Weekly Wage under Texas Workers Compensation?,key discrepancy (answer follows current authoritative source)
+CARD-0373,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,Who are beneficiaries of Texas Workers Compensation?,correct
+CARD-0374,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,What happens to the money if someone doesn't have children or spouse (beneficiaries)?,correct
+CARD-0419,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,The premium charged for a standard Worker's Compensation policy is primarily based on,correct
+CARD-0420,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,Workers Compensation includes basic benefits,correct
+CARD-0421,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,The employer must be notified within how many days of injury when it comes to Workers Compensation,correct
+CARD-0422,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,"If there is no spouse or child and the worker dies, the benefits are paid to the",correct
+CARD-0448,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,Subsequent injury fund,correct
+CARD-0449,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,Impairment Income Benefits,correct
+CARD-0450,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,Supplemental income benefits,correct
+CARD-0451,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",review.txt,Lifetime income benefits,correct
+CARD-0566,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",100 questions.txt,How is a Texas employee's average weekly wage generally computed after 13 weeks of work?,correct
+CARD-0567,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",100 questions.txt,What is the minimum weekly income benefit as a share of the state average weekly wage?,correct
+CARD-0569,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,"Benefits, wage, and deadlines",100 questions.txt,How often may a carrier generally obtain a required medical examination of an injured employee?,correct
+CARD-0452,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,The policy and the fund,review.txt,What is Part 1 of Texas Workers Compensation,key discrepancy (answer follows current authoritative source)
+CARD-0454,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,The policy and the fund,review.txt,Part 2 of Texas Workers Compensation,correct
+CARD-0455,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,The policy and the fund,review.txt,Part 3 Texas Workers Compensation,correct
+CARD-0456,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,The policy and the fund,review.txt,Premiums on Texas Workers Compensation are,correct
+CARD-0457,07,07-workers-compensation-texas-labor-code,Workers' compensation and the Texas Labor Code,The policy and the fund,review.txt,Texas Workers Compensation Fund,correct
+CARD-0296,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,ch6-10.txt,What are surety bonds?,correct
+CARD-0297,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,ch6-10.txt,Bid Bond,correct
+CARD-0298,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,ch6-10.txt,Performance Bond,correct
+CARD-0299,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,ch6-10.txt,Payment Bond,correct
+CARD-0300,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,ch6-10.txt,Maintenance Bond,correct
+CARD-0301,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,ch6-10.txt,Judicial Bonds,correct
+CARD-0382,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,review.txt,"Principle, obligee and surety",correct
+CARD-0423,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,review.txt,The party to the surety bond who promises to do or not to do a specific thing is the,correct
+CARD-0507,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,100 questions.txt,Which type of bond guarantees that a contractor completes the work according to the contract?,correct
+CARD-0508,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Surety bonds,100 questions.txt,"A Texas public works contract (not a municipality) is worth $40,000. Which bond must the governmental entity require?",correct
+CARD-0354,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,review.txt,What are two exclusions to Employee Dishonesty?,correct
+CARD-0417,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,review.txt,"A person retained by the insured to have care, custody and control of property inside the premises and who has no other duties is",correct
+CARD-0418,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,review.txt,The crime coverage form that covers theft losses caused by employees has 2 important exclusions,correct
+CARD-0497,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,100 questions.txt,A thief breaks into a closed jewelry store overnight and steals watches. Which crime policy peril fits best?,correct
+CARD-0498,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,100 questions.txt,"Which statement about crime insurance is correct, according to the California guide?",correct
+CARD-0525,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,100 questions.txt,A thief points a gun at a cashier and takes the day's receipts. What crime is this?,correct
+CARD-0526,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,100 questions.txt,Which crime is the broadest category of unlawful taking in Texas law?,correct
+CARD-0570,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Crime,"100 questions.txt, question 56",Which Texas definition requires entering a building not then open to the public?,correct
+CARD-0360,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown","Inland marine, ocean marine, and boats",review.txt,What is open cargo form?,correct
+CARD-0379,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown","Inland marine, ocean marine, and boats",review.txt,What covers physical damage to a boat?,correct
+CARD-0424,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown","Inland marine, ocean marine, and boats",review.txt,What type of Ocean Marine insurance provides physical damage coverage for the ship,correct
+CARD-0499,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown","Inland marine, ocean marine, and boats",100 questions.txt,Which of these is an inland marine coverage in TDI's list?,correct
+CARD-0500,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown","Inland marine, ocean marine, and boats",100 questions.txt,Which insurance covers a ship's hull?,correct
+CARD-0501,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown","Inland marine, ocean marine, and boats",100 questions.txt,"A ship's collision liability clause traditionally covered what share of collision liability, according to the Fifth Circuit?",correct
+CARD-0321,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Flood (NFIP),review.txt,What type of insurance can only be purchased through a government insurance program?,correct
+CARD-0378,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Flood (NFIP),review.txt,What is flood?,correct
+CARD-0480,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Flood (NFIP),100 questions.txt,"How long is the usual waiting period before a new flood policy takes effect, according to TDI?",correct
+CARD-0523,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Flood (NFIP),100 questions.txt,"Under the flood policy, how soon must each side choose an appraiser after a written request?",correct
+CARD-0524,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Flood (NFIP),100 questions.txt,How does FEMA's flood policy define actual cash value?,correct
+CARD-0537,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Flood (NFIP),100 questions.txt,"Under the flood policy, what happens if the insured keeps damaged property?",correct
+CARD-0539,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Flood (NFIP),100 questions.txt,"Under the flood policy's liberalization clause, what change applies automatically to existing policies?",correct
+CARD-0359,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Equipment breakdown,review.txt,What is the timeframe in order to have Boiler and Machinery paid out in replacement value?,key discrepancy (answer follows current authoritative source)
+CARD-0415,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Equipment breakdown,review.txt,"In the Boiler and Machinery policy, the items insured under the policy are defined in the",correct
+CARD-0496,08,08-surety-crime-marine-flood-and-specialty,"Surety, crime, marine, flood, and equipment breakdown",Equipment breakdown,100 questions.txt,Boiler and machinery insurance is also marketed under which name?,correct
+CARD-0302,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,What are the required amount of CE credit and in what timeframe?,key discrepancy (answer follows current authoritative source)
+CARD-0303,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,What are the duties of the Commissioner?,correct
+CARD-0304,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,What is the grace period to renew your license?,correct
+CARD-0305,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,Who does the agent represent?,correct
+CARD-0306,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,Who does a broker represent?,correct
+CARD-0307,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,What type of agent must be appointed by an insurance company?,correct
+CARD-0308,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,What can only a PCA do?,unsupported (key detail not verifiable)
+CARD-0384,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,The premium for controlled business which a licensee is permitted to transact in any calendar year must be,correct
+CARD-0385,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,A temporary emergency license is issued for an initial period of,correct
+CARD-0386,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,Who holds a company appointment?,correct
+CARD-0387,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,Licenses renew how often?,correct
+CARD-0389,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,Who do agents represent?,correct
+CARD-0390,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,When must a licensed agent report a change of address?,key discrepancy (answer follows current authoritative source)
+CARD-0442,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,review.txt,Newly organized insurance companies operating in Texas are examined by TDI at least once each year during their initial,correct
+CARD-0550,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,Which Texas code chapter governs the licensing of insurance adjusters?,correct
+CARD-0551,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,What minimum age must an individual adjuster applicant meet in Texas?,correct
+CARD-0552,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,"Under 28 TAC §19.602, which adjuster license is issued to adjusters who qualify for both the property, casualty and surety license and the workers' compensation license?",correct
+CARD-0553,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,A person training under a licensed adjuster's supervision registers as a trainee. For how long may the trainee act without a license?,correct
+CARD-0554,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,"How long can a Texas emergency adjuster license last at most, including one extension?",correct
+CARD-0555,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,What percentage of an adjuster's continuing education must be in a classroom or classroom-equivalent setting under Chapter 4004?,correct
+CARD-0556,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,An adjuster's license expired 45 days ago. What can the adjuster do?,correct
+CARD-0557,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,Which person is exempt from Texas adjuster licensing under §4101.002?,correct
+CARD-0558,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,A person handles only life and health insurance claims. Must that person hold a Texas adjuster license?,correct
+CARD-0559,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,Who is the chief executive and administrative officer of the Texas Department of Insurance?,correct
+CARD-0560,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",The adjuster license,100 questions.txt,A person served with an emergency cease and desist order wants a hearing. By when must the request be made?,correct
+CARD-0309,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics","Insurer domicile, surplus lines, and the guaranty association",review.txt,3 things the Property and Casualty Guaranty Fund wii pay,correct
+CARD-0316,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics","Insurer domicile, surplus lines, and the guaranty association",review.txt,Domestic insurer,correct
+CARD-0317,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics","Insurer domicile, surplus lines, and the guaranty association",review.txt,Foreign insurer,correct
+CARD-0318,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics","Insurer domicile, surplus lines, and the guaranty association",review.txt,Alien insurer,correct
+CARD-0319,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics","Insurer domicile, surplus lines, and the guaranty association",review.txt,What is the difference between admitted and non-admitted companies?,correct
+CARD-0441,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics","Insurer domicile, surplus lines, and the guaranty association",review.txt,"In this state, a domestic insurance company is defined as a company that",correct
+CARD-0444,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics","Insurer domicile, surplus lines, and the guaranty association",review.txt,The purpose of the Texas Property and Casualty Guaranty Association is to,correct
+CARD-0310,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,review.txt,What can be issued if a person participates in Unfair Trade Practices?,correct
+CARD-0312,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,review.txt,What is twisting?,correct
+CARD-0313,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,review.txt,"If an agent knowingly commits Unfair Trade Practices, the damages may be",correct
+CARD-0391,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,review.txt,Twisting is:,correct
+CARD-0438,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,review.txt,"As an inducement to buy insurance, promising to return a portion of the commission to the insurance buyer is known as",correct
+CARD-0439,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,review.txt,Controlled business law,correct
+CARD-0440,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,review.txt,Publishing or circulating false and malicious statements about the financial conditions of an insurer with the intent to cause injury is,correct
+CARD-0561,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Ethics and unfair trade practices,100 questions.txt,Which statement is defamation of an insurer under Insurance Code §541.053?,correct
+CARD-0547,09,09-texas-adjuster-licensing-and-ethics,"Texas adjuster licensing, regulation, and ethics",Cancellation grounds in the Insurance Code,100 questions.txt,"Under Texas law, which is a permitted reason for an insurer to cancel a policy midterm?",correct
+CARD-0311,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices","Unfair claim practices, prompt payment, and the DTPA",review.txt,"Deceptive Trade Practices Act, what is it unlawful for a consumer to do?",key discrepancy (answer follows current authoritative source)
+CARD-0314,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices","Unfair claim practices, prompt payment, and the DTPA",review.txt,Define Fair Credit Reporting Act,correct
+CARD-0541,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices","Unfair claim practices, prompt payment, and the DTPA",100 questions.txt,Which Texas statute lets an insurer submit a reservation of rights instead of immediately affirming or denying coverage?,correct
+CARD-0562,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices","Unfair claim practices, prompt payment, and the DTPA",100 questions.txt,"An insurer receives all requested items on a claim but, without explanation, pays 75 days later. No other statute sets a period. What does §542.058 provide?",correct
+CARD-0563,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices","Unfair claim practices, prompt payment, and the DTPA",100 questions.txt,Which rule says an acknowledgment of a claim within 15 business days is presumed reasonably prompt?,correct
+CARD-0564,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices","Unfair claim practices, prompt payment, and the DTPA",100 questions.txt,Which of these is an unfair claim settlement practice under 28 TAC §21.203?,correct
+CARD-0032,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Appraisal,correct
+CARD-0037,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Claimant,correct
+CARD-0062,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Notice of Loss,correct
+CARD-0064,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Overhead and Profit,correct
+CARD-0068,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Reserves,correct
+CARD-0069,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Salvage,correct
+CARD-0070,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Subrogation,correct
+CARD-0073,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,card sharp qa.txt,Umpire,correct
+CARD-0201,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,ch6-10.txt,What is subrogation?,correct
+CARD-0404,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,review.txt,The condition that provides a means to settle the amount of loss when the insured Bd the insurance company cannot agree,correct
+CARD-0437,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,review.txt,"After paying a claim, an insurance company may have the right to pursue legal action against the negligent party.",correct
+CARD-0518,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,100 questions.txt,What is a proof of loss?,correct
+CARD-0522,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,100 questions.txt,What does an appraisal award decide?,correct
+CARD-0531,10,10-claims-handling-dtpa-unfair-practices,"Claims handling, the DTPA, and unfair practices",What the adjuster does with a loss,100 questions.txt,An insurer pays a claim and then sues the person who caused the loss. What doctrine allows this?,correct
